@@ -84,6 +84,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="22_Struct\StructDemo.ts" />
     <TypeScriptCompile Include="HelloWorld.ts" />
   </ItemGroup>
   <ItemGroup>
