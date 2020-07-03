@@ -87,6 +87,9 @@
     <TypeScriptCompile Include="22_Struct\StructDemo.ts" />
     <TypeScriptCompile Include="26_Exception\00_Throw\Throw.ts" />
     <TypeScriptCompile Include="26_Exception\01_TryCatch\TryCatch.ts" />
+    <TypeScriptCompile Include="26_Exception\03_ErrorPrototype\ErrorPrototype.ts" />
+    <TypeScriptCompile Include="26_Exception\04_ErrorDemo\ErrorDemo.ts" />
+    <TypeScriptCompile Include="26_Exception\05_TryCatchInstanceOf\TryCatchInstanceOf.ts" />
     <TypeScriptCompile Include="HelloWorld.ts" />
   </ItemGroup>
   <ItemGroup>
