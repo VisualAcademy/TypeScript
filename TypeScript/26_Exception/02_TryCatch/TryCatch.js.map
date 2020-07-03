@@ -1,1 +1,1 @@
-{"version":3,"file":"TryCatch.js","sourceRoot":"","sources":["TryCatch.ts"],"names":[],"mappings":"AAAA,IAAI;IACA,IAAI,IAAI,EAAE;QACN,MAAM,IAAI,KAAK,EAAE,CAAC;KACrB;CACJ;AACD,OAAO,SAAS,EAAE;IACd,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;CAC9B"}
+{"version":3,"file":"TryCatch.js","sourceRoot":"","sources":["TryCatch.ts"],"names":[],"mappings":"AAAA,IAAI;IACA,IAAI,IAAI,EAAE;QACN,MAAM,IAAI,KAAK,EAAE,CAAC;KACrB;CACJ;AACD,OAAO,SAAS,EAAE;IACd,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;IAC3B,OAAO,CAAC,GAAG,CAAC,UAAU,CAAC,CAAC;CAC3B"}
