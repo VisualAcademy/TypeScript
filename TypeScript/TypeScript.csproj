@@ -423,6 +423,7 @@
     <Compile Include="18_Array\09_BinaryLiteralDemo\BinaryLiteralDemo.cs" />
     <Compile Include="18_Array\10_BinaryLiteralNote\BinaryLiteralNote.cs" />
     <Compile Include="18_Array\11_DigitSeparatorDescription\DigitSeparatorDescription.cs" />
+    <TypeScriptCompile Include="05_Variable\VariableExample.ts" />
     <TypeScriptCompile Include="18_Array\12_CharacterArray\CharacterArray.ts" />
     <Compile Include="18_Array\13_ArrayIndex\ArrayIndex.cs" />
     <Compile Include="18_Array\14_ArrayTotalAvg\ArrayTotalAvg.cs" />
