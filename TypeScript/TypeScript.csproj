@@ -426,7 +426,6 @@
     <TypeScriptCompile Include="00_Prepare\AbstractClass.ts" />
     <TypeScriptCompile Include="00_Prepare\AnyType.ts" />
     <TypeScriptCompile Include="00_Prepare\Car.ts" />
-    <TypeScriptCompile Include="00_Prepare\ClassPropertyMethod.ts" />
     <TypeScriptCompile Include="00_Prepare\EnumerationPractice.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword.ts" />
@@ -801,7 +800,6 @@
     <Compile Include="38_Property\23_PropertyValidation\PropertyValidation.cs" />
     <Compile Include="38_Property\24_PetDemo\PetDemo.cs" />
     <Compile Include="38_Property\25_PropertyPractice\PropertyPractice.cs" />
-    <Compile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.cs" />
     <Compile Include="38_Property\27_NullWithObject\NullWithObject.cs" />
     <Compile Include="39_Indexer\01_IndexerNote\IndexerNote.cs" />
     <Compile Include="39_Indexer\02_Indexer\Indexer.cs" />
@@ -968,7 +966,7 @@
     <Compile Include="64_Tips\StringConverterDemo\StringConverterDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <TypeScriptCompile Include="23_Enum\EnumerationPractice.ts" />
-    <TypeScriptCompile Include="37_Method\ClassPropertyMethod.ts" />
+    <TypeScriptCompile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.ts" />
     <TypeScriptCompile Include="Car.ts" />
     <TypeScriptCompile Include="Hell.ts" />
     <TypeScriptCompile Include="Hello.ts" />
