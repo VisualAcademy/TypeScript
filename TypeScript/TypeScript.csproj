@@ -976,6 +976,7 @@
     <TypeScriptCompile Include="26_Exception\05_TryCatchInstanceOf\TryCatchInstanceOf.ts" />
     <TypeScriptCompile Include="27_Collection\01_PushFunction\PushFunction.ts" />
     <TypeScriptCompile Include="41_Event\AddEventListenerDemo\AddEventListenerDemo.ts" />
+    <TypeScriptCompile Include="43_Inheritance\AbstractClass.ts" />
     <TypeScriptCompile Include="51_Tuple\TupleType.ts" />
     <TypeScriptCompile Include="HelloWorld.ts" />
   </ItemGroup>
