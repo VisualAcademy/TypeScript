@@ -1,4 +1,4 @@
-// 열거형
+// ������
 var Color;
 (function (Color) {
     Color[Color["Red"] = 10] = "Red";

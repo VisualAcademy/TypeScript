@@ -895,7 +895,7 @@
     <Compile Include="48_Generic\08_DictionaryOfTypeNote\DictionaryOfTypeNote.cs" />
     <Compile Include="48_Generic\09_DictionaryOfString\DictionaryOfString.cs" />
     <Compile Include="48_Generic\10_StringArray\StringArray.cs" />
-    <Compile Include="48_Generic\11_GenericClass\GenericClass.cs" />
+    <TypeScriptCompile Include="48_Generic\GenericClass\GenericClass.ts" />
     <Compile Include="48_Generic\12_GenericClassPractice\GenericClassPractice.cs" />
     <Compile Include="48_Generic\13_GenericNote\GenericNote.cs" />
     <Compile Include="48_Generic\14_TypeConstraint\TypeConstraint.cs" />
