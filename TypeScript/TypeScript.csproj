@@ -423,7 +423,6 @@
     <Compile Include="18_Array\09_BinaryLiteralDemo\BinaryLiteralDemo.cs" />
     <Compile Include="18_Array\10_BinaryLiteralNote\BinaryLiteralNote.cs" />
     <Compile Include="18_Array\11_DigitSeparatorDescription\DigitSeparatorDescription.cs" />
-    <TypeScriptCompile Include="00_Prepare\AbstractClass.ts" />
     <TypeScriptCompile Include="00_Prepare\AnyType.ts" />
     <TypeScriptCompile Include="00_Prepare\Car.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello.ts" />
@@ -854,7 +853,6 @@
     <Compile Include="43_Inheritance\10_SealedClass\SealedClass.cs" />
     <Compile Include="43_Inheritance\11_AbstractClassNote\AbstractClassNote.cs" />
     <Compile Include="43_Inheritance\12_MustInheritDemo\MustInheritDemo.cs" />
-    <Compile Include="43_Inheritance\13_AbstractClassShape\AbstractClassShape.cs" />
     <Compile Include="43_Inheritance\14_FieldHiding\FieldHiding.cs" />
     <Compile Include="43_Inheritance\15_MethodNew\MethodNew.cs" />
     <Compile Include="44_Override\01_InheritanceMethodOverride\InheritanceMethodOverride.cs" />
@@ -991,7 +989,7 @@
     <TypeScriptCompile Include="26_Exception\05_TryCatchInstanceOf\TryCatchInstanceOf.ts" />
     <TypeScriptCompile Include="27_Collection\01_PushFunction\PushFunction.ts" />
     <TypeScriptCompile Include="41_Event\AddEventListenerDemo\AddEventListenerDemo.ts" />
-    <TypeScriptCompile Include="43_Inheritance\AbstractClass.ts" />
+    <TypeScriptCompile Include="43_Inheritance\10_AbstractClass\AbstractClass.ts" />
     <TypeScriptCompile Include="51_Tuple\TupleType.ts" />
     <TypeScriptCompile Include="HelloWorld.ts" />
   </ItemGroup>
