@@ -967,6 +967,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <TypeScriptCompile Include="19_Function\18_ArrowFunction\ArrowFunction.ts" />
     <TypeScriptCompile Include="22_Struct\StructDemo.ts" />
     <TypeScriptCompile Include="26_Exception\01_Throw\Throw.ts" />
     <TypeScriptCompile Include="26_Exception\02_TryCatch\TryCatch.ts" />
