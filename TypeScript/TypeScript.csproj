@@ -956,6 +956,7 @@
     <Compile Include="64_Tips\SendMailTest\SendMailTest.cs" />
     <Compile Include="64_Tips\StringConverterDemo\StringConverterDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <TypeScriptCompile Include="TypeAssertion.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="31_Algorithms\알고리즘강의소개.pdf" />
