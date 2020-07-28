@@ -426,7 +426,6 @@
     <TypeScriptCompile Include="00_Prepare\AbstractClass.ts" />
     <TypeScriptCompile Include="00_Prepare\AnyType.ts" />
     <TypeScriptCompile Include="00_Prepare\Car.ts" />
-    <TypeScriptCompile Include="00_Prepare\EnumerationPractice.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword.ts" />
     <TypeScriptCompile Include="00_Prepare\TupleType.ts" />
@@ -508,7 +507,6 @@
     <Compile Include="23_Enum\06_EnumSwitch\EnumSwitch.cs" />
     <Compile Include="23_Enum\07_EnumGetNames\EnumGetNames.cs" />
     <Compile Include="23_Enum\08_EnumParse\EnumParse.cs" />
-    <Compile Include="23_Enum\09_EnumerationPractice\EnumerationPractice.cs" />
     <Compile Include="23_Enum\EnumerationTextbook.cs" />
     <Compile Include="24_Class\01_ClassNote\ClassNote.cs" />
     <Compile Include="24_Class\02_SquareClass\SquareClass.cs" />
@@ -1000,7 +998,9 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="23_Enum\09_EnumerationPractice\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

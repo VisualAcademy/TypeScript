@@ -1,5 +1,5 @@
-enum Color
-{
+// ¿­°ÅÇü
+enum Color {
     Red = 10,
     Green,
     Blue = 20
