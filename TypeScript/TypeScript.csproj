@@ -430,7 +430,6 @@
     <TypeScriptCompile Include="00_Prepare\TupleType.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeAssertion.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeScriptComple.ts" />
-    <TypeScriptCompile Include="00_Prepare\VariableExample.ts" />
     <TypeScriptCompile Include="05_Variable\AnyType.ts" />
     <TypeScriptCompile Include="05_Variable\LetKeyword.ts" />
     <TypeScriptCompile Include="05_Variable\VariableExample.ts" />
