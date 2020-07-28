@@ -1,0 +1,4 @@
+class Hello
+{
+   name: string;
+}

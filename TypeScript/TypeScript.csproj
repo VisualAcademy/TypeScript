@@ -423,6 +423,20 @@
     <Compile Include="18_Array\09_BinaryLiteralDemo\BinaryLiteralDemo.cs" />
     <Compile Include="18_Array\10_BinaryLiteralNote\BinaryLiteralNote.cs" />
     <Compile Include="18_Array\11_DigitSeparatorDescription\DigitSeparatorDescription.cs" />
+    <TypeScriptCompile Include="00_Prepare\AbstractClass.ts" />
+    <TypeScriptCompile Include="00_Prepare\AnyType.ts" />
+    <TypeScriptCompile Include="00_Prepare\ArrowFunction.ts" />
+    <TypeScriptCompile Include="00_Prepare\Car.ts" />
+    <TypeScriptCompile Include="00_Prepare\ClassPropertyMethod.ts" />
+    <TypeScriptCompile Include="00_Prepare\EnumerationPractice.ts" />
+    <TypeScriptCompile Include="00_Prepare\Hello.ts" />
+    <TypeScriptCompile Include="00_Prepare\LetKeyword.ts" />
+    <TypeScriptCompile Include="00_Prepare\TupleType.ts" />
+    <TypeScriptCompile Include="00_Prepare\TypeAssertion.ts" />
+    <TypeScriptCompile Include="00_Prepare\TypeScriptComple.ts" />
+    <TypeScriptCompile Include="00_Prepare\VariableExample.ts" />
+    <TypeScriptCompile Include="05_Variable\AnyType.ts" />
+    <TypeScriptCompile Include="05_Variable\LetKeyword.ts" />
     <TypeScriptCompile Include="05_Variable\VariableExample.ts" />
     <TypeScriptCompile Include="18_Array\12_CharacterArray\CharacterArray.ts" />
     <Compile Include="18_Array\13_ArrayIndex\ArrayIndex.cs" />
@@ -956,7 +970,13 @@
     <Compile Include="64_Tips\SendMailTest\SendMailTest.cs" />
     <Compile Include="64_Tips\StringConverterDemo\StringConverterDemo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <TypeScriptCompile Include="23_Enum\EnumerationPractice.ts" />
+    <TypeScriptCompile Include="37_Method\ClassPropertyMethod.ts" />
+    <TypeScriptCompile Include="Car.ts" />
+    <TypeScriptCompile Include="Hell.ts" />
+    <TypeScriptCompile Include="Hello.ts" />
     <TypeScriptCompile Include="TypeAssertion.ts" />
+    <TypeScriptCompile Include="TypeScriptComple.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="31_Algorithms\알고리즘강의소개.pdf" />
