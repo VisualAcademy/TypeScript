@@ -197,7 +197,7 @@
     <Compile Include="05_Variable\04_VariableDemo\VariableDemo.cs" />
     <Compile Include="05_Variable\05_VariableComma\VariableComma.cs" />
     <Compile Include="05_Variable\06_VariableSameValue\VariableSameValue.cs" />
-    <Compile Include="05_Variable\07_ConstantDemo\ConstantDemo.cs" />
+    <TypeScriptCompile Include="05_Variable\07_ConstantDemo\ConstantDemo.ts" />
     <Compile Include="05_Variable\IntegerValue\IntegerValue.cs" />
     <Compile Include="05_Variable\VariableExam\VariableExam.cs" />
     <Compile Include="05_Variable\VariableInitialize\VariableInitialize.cs" />
