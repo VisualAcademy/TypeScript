@@ -163,7 +163,7 @@
   <ItemGroup>
     <Content Include="03_HelloWorld\01_HelloWorld\HelloWorld.txt" />
     <Content Include="03_HelloWorld\BraceLocation\BraceLocation.txt" />
-    <Content Include="03_HelloWorld\CaseSensitive\CaseSensitive.txt" />
+    <TypeScriptCompile Include="03_HelloWorld\03_12_CaseSensitive\CaseSensitive.ts" />
     <Content Include="03_HelloWorld\HelloWorldCli\HelloWorldCli.txt" />
     <Content Include="03_HelloWorld\HelloWorldCore\HelloWorldCore.txt" />
     <Content Include="04_Syntax\00_EmptyStatement\EmptyStatement.txt" />
