@@ -171,7 +171,7 @@
     <Content Include="04_Syntax\02_WriteLineDemo\WriteLineDemo1.txt" />
     <Content Include="04_Syntax\02_WriteLineDemo\WriteLineDemo2.txt" />
     <Content Include="04_Syntax\03_ConsoleWrite\ConsoleWrite.txt" />
-    <Compile Include="04_Syntax\04_NewLine\NewLine.cs" />
+    <TypeScriptCompile Include="04_Syntax\04_NewLine\NewLine.ts" />
     <Compile Include="04_Syntax\05_Comment\Comment.cs" />
     <Compile Include="04_Syntax\05_Comment\MultiLineComment.cs" />
     <Compile Include="04_Syntax\05_Comment\SingleLineComment.cs" />
