@@ -175,7 +175,7 @@
     <Compile Include="04_Syntax\05_Comment\Comment.cs" />
     <Compile Include="04_Syntax\05_Comment\MultiLineComment.cs" />
     <Compile Include="04_Syntax\05_Comment\SingleLineComment.cs" />
-    <Compile Include="04_Syntax\07_Whitespace\Whitespace.cs" />
+    <TypeScriptCompile Include="04_Syntax\07_Whitespace\Whitespace.ts" />
     <Compile Include="04_Syntax\08_Quotes\Quotes.cs" />
     <Compile Include="04_Syntax\09_PlaceHolder\PlaceHolder.cs" />
     <Compile Include="04_Syntax\10_PlaceHolderTwice\PlaceHolderTwice.cs" />
@@ -896,6 +896,8 @@
     <Compile Include="48_Generic\08_DictionaryOfTypeNote\DictionaryOfTypeNote.cs" />
     <Compile Include="48_Generic\09_DictionaryOfString\DictionaryOfString.cs" />
     <Compile Include="48_Generic\10_StringArray\StringArray.cs" />
+    <TypeScriptCompile Include="23_Enum\Groups.ts" />
+    <TypeScriptCompile Include="32_Object\ObjectLiteral.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClass\GenericClass.ts" />
     <Compile Include="48_Generic\12_GenericClassPractice\GenericClassPractice.cs" />
     <Compile Include="48_Generic\13_GenericNote\GenericNote.cs" />
