@@ -94,7 +94,6 @@
     <Content Include="00_Prepare\HelloWorld\HelloWorld.js" />
     <Content Include="00_Prepare\Hello\Hello.js" />
     <Content Include="00_Prepare\ICalculator\ICalculator.js" />
-    <Content Include="00_Prepare\InheritanceDemo\InheritanceDemo.js" />
     <Content Include="00_Prepare\InterfaceNote\InterfaceNote.js" />
     <Content Include="00_Prepare\Interface\Interface.js" />
     <Content Include="00_Prepare\LetKeyword\LetKeyword.js" />
@@ -469,7 +468,7 @@
     <TypeScriptCompile Include="00_Prepare\HelloWorld\HelloWorld.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
-    <TypeScriptCompile Include="00_Prepare\InheritanceDemo\InheritanceDemo.ts" />
+    <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword\LetKeyword.ts" />
@@ -1338,7 +1337,6 @@
     <Content Include="00_Prepare\HelloWorld\HelloWorld.js.map" />
     <Content Include="00_Prepare\Hello\Hello.js.map" />
     <Content Include="00_Prepare\ICalculator\ICalculator.js.map" />
-    <Content Include="00_Prepare\InheritanceDemo\InheritanceDemo.js.map" />
     <Content Include="00_Prepare\InterfaceNote\InterfaceNote.js.map" />
     <Content Include="00_Prepare\Interface\Interface.js.map" />
     <Content Include="00_Prepare\LetKeyword\LetKeyword.js.map" />
