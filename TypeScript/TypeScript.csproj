@@ -336,7 +336,6 @@
     <Content Include="00_Prepare\PalgakCom\wav\tada.wav" />
     <Content Include="00_Prepare\PalgakCom\wav\wav.txt" />
     <Content Include="00_Prepare\PalgakCom\팀_후수면 차의 점수가 1점 더 높게 부여_한에서 대차하면 초에서 피하는게 기본.txt" />
-    <Content Include="00_Prepare\ParamsDemo\ParamsDemo.js" />
     <Content Include="00_Prepare\Property\Property.js" />
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js" />
     <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js" />
@@ -488,7 +487,7 @@
     <TypeScriptCompile Include="00_Prepare\PalgakCom\Palgak\Play.ts" />
     <TypeScriptCompile Include="00_Prepare\PalgakCom\Palgak\Util.ts" />
     <TypeScriptCompile Include="00_Prepare\PalgakCom\Palgak\WeightedValue.ts" />
-    <TypeScriptCompile Include="00_Prepare\ParamsDemo\ParamsDemo.ts" />
+    <TypeScriptCompile Include="37_Method\07_ParamsDemo\ParamsDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\Property\Property.ts" />
     <TypeScriptCompile Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.ts" />
     <TypeScriptCompile Include="00_Prepare\StringInterpolation\StringInterpolation.ts" />
@@ -1098,7 +1097,6 @@
     <Compile Include="37_Method\04_ParameterRef\ParameterRef.cs" />
     <Compile Include="37_Method\05_ParameterOut\ParameterOut.cs" />
     <Compile Include="37_Method\06_DateTimeTryParse\DateTimeTryParse.cs" />
-    <Compile Include="37_Method\07_ParamsDemo\ParamsDemo.cs" />
     <Compile Include="37_Method\08_MultipleParams\MultipleParams.cs" />
     <Compile Include="37_Method\09_ExpressionBodiedFunction\ExpressionBodiedFunction.cs" />
     <Compile Include="37_Method\10_SingleExpression\SingleExpression.cs" />
@@ -1379,7 +1377,6 @@
     <Content Include="00_Prepare\PalgakCom\lib\jquery-validation\LICENSE.md" />
     <Content Include="00_Prepare\PalgakCom\lib\jquery\.bower.json" />
     <Content Include="00_Prepare\PalgakCom\lib\jquery\dist\jquery.min.map" />
-    <Content Include="00_Prepare\ParamsDemo\ParamsDemo.js.map" />
     <Content Include="00_Prepare\Property\Property.js.map" />
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js.map" />
     <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js.map" />
