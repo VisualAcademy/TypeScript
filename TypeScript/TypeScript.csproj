@@ -465,6 +465,7 @@
     <TypeScriptCompile Include="00_Prepare\HelloWorld\HelloWorld.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
+    <TypeScriptCompile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
@@ -549,7 +550,6 @@
     <Compile Include="06_Number\08_DecimalDemo\DecimalDemo.cs" />
     <Compile Include="06_Number\09_DecimalMinMax\DecimalMinMax.cs" />
     <Compile Include="06_Number\10_NullableDemo\NullableDemo.cs" />
-    <Compile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.cs" />
     <Compile Include="06_Number\IntegerExam\IntegerExam.cs" />
     <Compile Include="06_Number\IntegerOverflow\IntegerOverflow.cs" />
     <Compile Include="06_Number\IntegerPractice\IntegerPractice.cs" />
