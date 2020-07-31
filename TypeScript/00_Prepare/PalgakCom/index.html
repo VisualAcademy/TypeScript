@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>장기엔진(JanggiEngine)</title>
+    <link href="./lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <link href="./css/JanggiEngine.css" type="text/css" rel="stylesheet" />
+
+    <script src="./lib/jquery/dist/jquery.js"></script>
+    <script src="./lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">장기엔진(JanggiEngine)</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                </ul>
+                <form class="navbar-form navbar-left" role="search">
+
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                            초차림 <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#" onclick="JanggiEngine.Settings.ChoMapStyle = 0;">초안상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.ChoMapStyle = 1;">초오른상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.ChoMapStyle = 2;">초왼상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.ChoMapStyle = 3;">초양귀마</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                            한차림 <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="#" onclick="JanggiEngine.Settings.HanMapStyle = 0;">한안상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.HanMapStyle = 1;">한오른상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.HanMapStyle = 2;">한왼상</a></li>
+                            <li><a href="#" onclick="JanggiEngine.Settings.HanMapStyle = 3;">한양귀마</a></li>
+                        </ul>
+                    </div>
+
+                    <input type="button" name="defensivePlay" id="btnStartPlay1" value="왕왕초보" class="btn btn-sm" />
+                    <input type="button" name="defensivePlay" id="btnStartPlay" value="왕초보" class="btn btn-sm" />
+                    <input type="button" name="offensivePlay" id="tyroPlay" value="초급" class="btn btn-sm" />
+                    <input type="button" name="offensivePlay" id="superPlay" value="중급" class="btn btn-sm" />
+                    <input type="button" name="btnMaster" id="btnMaster" value="상급" class="btn btn-sm" />
+                    <input type="button" name="btnBest" id="btnBest" value="최상급" class="btn btn-sm" />
+
+                    <!--<input type="button" name="offensivePlay" id="offensivePlay" value="선수" />
+                    <input type="button" name="defensivePlay" id="defensivePlay" value="후수" />-->
+
+                    <input type="button" name="regret" id="regretBn" value="물리기" class="btn btn-sm" />
+                    <input type="button" name="stypeBn" id="stypeBn" value="판크기변경" class="btn btn-sm" />
+
+                    <input type="button" name="billBn" id="billBn" value="기보" class="btn btn-sm" />
+                    <input type="button" name="btnGameNotation" id="btnGameNotation" value="기보테스트" class="btn btn-sm" />
+                </form>
+                <!--<ul class="nav navbar-nav navbar-right">
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">About</a></li>
+                </ul>-->
+            </div>
+        </div>
+    </nav>
+
+
+
+    <div class="box" id="box">
+        <div class="chess_left">
+            <canvas id="chess"></canvas>
+            <audio src="./audio/jngStart.wav" id="startAudio" preload="auto"></audio>
+            <audio src="./audio/jngstone1_1.wav" id="clickAudio" preload="auto"></audio>
+            <audio src="./audio/jnggetstone.wav" id="checkAudio" preload="auto"></audio>
+            <audio src="./audio/jngclicked.wav" id="selectAudio" preload="auto"></audio>
+            <audio src="./audio/jngWin.wav" id="winAudio" preload="auto"></audio>
+            <audio src="./audio/jngMissionFail.wav" id="failAudio" preload="auto"></audio>
+            <audio src="./audio/janggun_f.wav" id="janggunAudio" preload="auto"></audio>
+            <audio src="./audio/munggun_f.wav" id="munggunAudio" preload="auto"></audio>
+        </div>
+        <div class="chess_right" id="chessRight">
+            <select name="billList" id="billList" class="form-control"></select>
+            <ol id="billBox" class="bill_box list-group"></ol>
+        </div>
+        <div id="moveInfo" class="move_info"> </div>
+    </div>
+
+
+    <script src="./Palgak/Util.js"></script>
+    <script src="./Palgak/Palgak.js"></script>
+    <script src="./Palgak/Play.js"></script>
+    <script src="./Palgak/JanggiEngine.js"></script>
+    <script src="./Palgak/MapManager.js"></script>
+    <script src="./Palgak/Notation.js"></script>
+    <script src="./Palgak/WeightedValue.js"></script>
+    <script src="./Palgak/JanggiEngine_Common.js"></script>
+    <script src="./Palgak/JanggiEngine_Play.js"></script>
+    <script src="./Palgak/JanggiEngine_AI.js"></script>
+    <script src="./Palgak/JanggiEngine_Bill.js"></script>
+</body>
+</html>
