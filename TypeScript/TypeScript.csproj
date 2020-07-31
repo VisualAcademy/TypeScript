@@ -100,7 +100,6 @@
     <Content Include="00_Prepare\NamespaceModule\NamespaceModule.js" />
     <Content Include="00_Prepare\NamespaceSample\NamespaceSample.js" />
     <Content Include="00_Prepare\ObjectForEach\ObjectForEach.js" />
-    <Content Include="00_Prepare\ObjectLiteral\ObjectLiteral.js" />
     <Content Include="00_Prepare\OptionalParameter\OptionalParameter.js" />
     <Content Include="00_Prepare\PalgakCom\Articles\고수가 되는 길.txt" />
     <Content Include="00_Prepare\PalgakCom\Articles\기력 향상의 팁 - 천재포가.txt" />
@@ -340,7 +339,6 @@
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js" />
     <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js" />
-    <Content Include="00_Prepare\TupleType\TupleType.js" />
     <Content Include="00_Prepare\TypeAssertion\TypeAssertion.js" />
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js" />
     <Content Include="00_Prepare\TypeInference\TypeInference.js" />
@@ -474,7 +472,7 @@
     <TypeScriptCompile Include="00_Prepare\NamespaceModule\NamespaceModule.ts" />
     <TypeScriptCompile Include="00_Prepare\NamespaceSample\NamespaceSample.ts" />
     <TypeScriptCompile Include="00_Prepare\ObjectForEach\ObjectForEach.ts" />
-    <TypeScriptCompile Include="00_Prepare\ObjectLiteral\ObjectLiteral.ts" />
+    <TypeScriptCompile Include="32_Object\ObjectLiteral.ts" />
     <TypeScriptCompile Include="00_Prepare\OptionalParameter\OptionalParameter.ts" />
     <TypeScriptCompile Include="00_Prepare\PalgakCom\Palgak\JanggiEngine.ts" />
     <TypeScriptCompile Include="00_Prepare\PalgakCom\Palgak\JanggiEngine_AI.ts" />
@@ -492,7 +490,6 @@
     <TypeScriptCompile Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.ts" />
     <TypeScriptCompile Include="00_Prepare\StringInterpolation\StringInterpolation.ts" />
     <TypeScriptCompile Include="00_Prepare\TemplateString\TemplateString.ts" />
-    <TypeScriptCompile Include="00_Prepare\TupleType\TupleType.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeAssertion\TypeAssertion.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeInference\TypeInference.ts" />
@@ -768,7 +765,6 @@
     <TypeScriptCompile Include="00_Prepare\Car.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword.ts" />
-    <TypeScriptCompile Include="00_Prepare\TupleType.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeAssertion.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeScriptComple.ts" />
     <TypeScriptCompile Include="05_Variable\AnyType.ts" />
@@ -1236,7 +1232,7 @@
     <Compile Include="48_Generic\09_DictionaryOfString\DictionaryOfString.cs" />
     <Compile Include="48_Generic\10_StringArray\StringArray.cs" />
     <TypeScriptCompile Include="23_Enum\Groups.ts" />
-    <TypeScriptCompile Include="32_Object\ObjectLiteral.ts" />
+    <TypeScriptCompile Include="32_Object\ObjectLiteralDemo.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClass\GenericClass.ts" />
     <Compile Include="48_Generic\12_GenericClassPractice\GenericClassPractice.cs" />
     <Compile Include="48_Generic\13_GenericNote\GenericNote.cs" />
@@ -1341,7 +1337,6 @@
     <Content Include="00_Prepare\NamespaceModule\NamespaceModule.js.map" />
     <Content Include="00_Prepare\NamespaceSample\NamespaceSample.js.map" />
     <Content Include="00_Prepare\ObjectForEach\ObjectForEach.js.map" />
-    <Content Include="00_Prepare\ObjectLiteral\ObjectLiteral.js.map" />
     <Content Include="00_Prepare\OptionalParameter\OptionalParameter.js.map" />
     <Content Include="00_Prepare\PalgakCom\img\StageTypeBig\Thumbs.db" />
     <Content Include="00_Prepare\PalgakCom\img\StageTypeBig\장기판_BIG.psd" />
@@ -1381,7 +1376,6 @@
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js.map" />
     <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js.map" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js.map" />
-    <Content Include="00_Prepare\TupleType\TupleType.js.map" />
     <Content Include="00_Prepare\TypeAssertion\TypeAssertion.js.map" />
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js.map" />
     <Content Include="00_Prepare\TypeInference\TypeInference.js.map" />

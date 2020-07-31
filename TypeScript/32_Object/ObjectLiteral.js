@@ -1,8 +1,13 @@
-var person = { name: "타이비", age: 10 };
-console.log(person.name + " -> " + person.age);
-var my = {
-    name: '박용준',
-    age: 21,
-};
-my.age = 22;
+var ObjectLiteral;
+(function (ObjectLiteral) {
+    // 개체 리터럴 생성 
+    var square = {
+        side: 10,
+        area: function () {
+            return this.side * this.side;
+        }
+    };
+    // 개체 리터럴 사용
+    console.log("\uC815\uC0AC\uAC01\uD615 \uB113\uC774: " + square.area());
+})(ObjectLiteral || (ObjectLiteral = {}));
 //# sourceMappingURL=ObjectLiteral.js.map
