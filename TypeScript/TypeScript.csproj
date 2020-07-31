@@ -466,6 +466,7 @@
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
     <TypeScriptCompile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.ts" />
+    <TypeScriptCompile Include="07_BoolCharString\03_MultiLineString\MultiLineString.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
@@ -560,7 +561,6 @@
     <Compile Include="06_Number\UnsignedNumber\UnsignedNumber.cs" />
     <Compile Include="07_BoolCharString\01_CharacterDemo\CharacterDemo.cs" />
     <Compile Include="07_BoolCharString\02_StringKeyword\StringKeyword.cs" />
-    <Compile Include="07_BoolCharString\03_MultiLineString\MultiLineString.cs" />
     <Compile Include="07_BoolCharString\04_StringInterpolationDescription\StringInterpolationDescription.cs" />
     <Compile Include="07_BoolCharString\05_StringFormatDemo\StringFormatDemo.cs" />
     <Compile Include="07_BoolCharString\06_StringInterpolation\StringInterpolation.cs" />
