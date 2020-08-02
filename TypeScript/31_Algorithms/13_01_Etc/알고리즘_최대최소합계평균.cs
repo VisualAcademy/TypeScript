@@ -3,10 +3,10 @@
     static void Main()
     {
         int[] r = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
-        int sum = 0;    // 0
-        int max = 0;    // 범위에서 최솟값
-        int min = 100;  // 범위에서 최댓값
-        int i = 0; // i = i + 1
+        let sum = 0;    // 0
+        let max = 0;    // 범위에서 최솟값
+        let min = 100;  // 범위에서 최댓값
+        let i = 0; // i = i + 1
         float avg = 0.0f; 
 
         do

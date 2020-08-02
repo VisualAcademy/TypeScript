@@ -5,8 +5,8 @@ class ContinueExam
 {
     static void Main()
     {
-        int sum = 0;
-        for (int i = 1; i <= 100; i++)
+        let sum = 0;
+        for (let i = 1; i <= 100; i++)
         {
             // 7의 배수 제외
             if (i % 7 == 0)

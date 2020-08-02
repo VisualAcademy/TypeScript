@@ -9,7 +9,7 @@ class OptionalParameterDemo
         console.log(Add(5, 3)); // 5 + 3
     }
 
-    static int Add(int a, int b = 1)
+    static let Add(let a, let b = 1)
     {
         return a + b;
     }

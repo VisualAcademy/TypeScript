@@ -11,7 +11,7 @@ namespace DotNet
             Dictionary<int, double> keyValuePairs = new Dictionary<int, double>();
 
             //[2] 1부터 12까지 기본값으로 초기화: 배열과 달리 1부터 12까지 지정 가능
-            for (int i = 1; i <= 12; i++)
+            for (let i = 1; i <= 12; i++)
             {
                 keyValuePairs.Add(i, 0.0); 
             }
@@ -21,7 +21,7 @@ namespace DotNet
             keyValuePairs[2] = 20.02; // 2월에 20.02 kW 사용했다고 가정
 
             //[4] 월별 사용량 출력
-            for (int i = 1; i <= 3; i++)
+            for (let i = 1; i <= 3; i++)
             {
                 console.log($"{i}월 - {keyValuePairs[i]}kW 사용");
             }

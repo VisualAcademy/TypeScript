@@ -15,7 +15,7 @@ namespace 알고리즘
             for (var i = 0; i < score.Length; i++)
             {
                 rank[i] = 1; // 1등으로 초기화
-                for (int j = 0; j < score.Length; j++)
+                for (let j = 0; j < score.Length; j++)
                 { // 현재와 나머지 비교
                     if (score[i] < score[j])
                     {

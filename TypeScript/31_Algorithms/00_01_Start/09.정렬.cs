@@ -9,9 +9,9 @@ public class 선택정렬 {
         //[1] Input
         int[] data = {7, 5, 6, 1, 10 }; 
         //[2] Process : Selection Sort
-        int temp = 0; // 데이터 Swap용 임시 변수
+        let temp = 0; // 데이터 Swap용 임시 변수
         for (var i = 0; i < data.Length - 1; i++) {
-            for (int j = i + 1; j < data.Length; j++) {
+            for (let j = i + 1; j < data.Length; j++) {
                 if (data[i] > data[j]) {
                     temp = data[i];
                     data[i] = data[j];

@@ -6,7 +6,7 @@ public class 합계
     {
         //[1] Input : n명의 국어 점수로 가정
         int[] score = {100, 75, 50, 37, 90, 95 };
-        int sum = 0; 
+        let sum = 0; 
         //[2] Process : SUM : 주어진 범위에 주어진 조건
         for (var i = 0; i < score.Length; i++) // 0번째 ~ 4번째
         {

@@ -9,12 +9,12 @@ namespace FavoriteLanguage
         //[1] 필드
         private string[] languages;
         //[2] 생성자
-        public Language(int length)
+        public Language(let length)
         {
             languages = new string[length];
         }
         //[3] 인덱서
-        public string this[int index]
+        public string this[let index]
         {
             get { return languages[index]; }
             set { languages[index] = value; }

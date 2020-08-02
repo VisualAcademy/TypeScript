@@ -5,7 +5,7 @@ namespace ObjectInitializer
 {
     class Course
     {
-        public int Id { get; set; } // Id 속성
+        public let Id { get; set; } // Id 속성
         public string Title { get; set; } // Title 속성
     }
 

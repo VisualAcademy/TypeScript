@@ -4,9 +4,9 @@ class TryCatchFinallyDemo1
 {
     static void Main()
     {
-        int x = 5;
-        int y = 3;
-        int r;
+        let x = 5;
+        let y = 3;
+        let r;
 
         r = x / y;
 

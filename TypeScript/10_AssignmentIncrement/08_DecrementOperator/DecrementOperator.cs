@@ -5,7 +5,7 @@ class DecrementOperator
 {
     static void Main()
     {
-        int num = -100;
+        let num = -100;
         --num; // 1 감소
         console.log(num); // -101
     }

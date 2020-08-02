@@ -5,13 +5,13 @@ namespace PatternMatchingWithSwitch
 {
     class Circle
     {
-        public int Radius { get; set; } = 10;
+        public let Radius { get; set; } = 10;
     }
 
     class Rectangle
     {
-        public int Length { get; set; }
-        public int Height { get; set; }
+        public let Length { get; set; }
+        public let Height { get; set; }
     }
 
     class PatternMatchingWithSwitch

@@ -46,9 +46,9 @@ class MathDemo
     }
 
     // p의 p_2승 구하는 메서드
-    private static int MyPow(int p, int p_2)
+    private static let MyPow(let p, let p_2)
     {
-        int sum = 1;
+        let sum = 1;
         for (var i = 0; i < p_2; i++)
         {
             sum *= p;
@@ -57,18 +57,18 @@ class MathDemo
     }
 
     // 넘겨온 두 수 중 최댓값을 반환
-    private static int MyMax(int p, int p_2)
+    private static let MyMax(let p, let p_2)
     {
         return (p > p_2) ? p : p_2; // 큰 값을 반환
     }
 
-    public static int MyMin(int a, int b)
+    public static let MyMin(let a, let b)
     {
         return (a > b) ? b : a; // 작은 수 반환
     }
 
     // 넘겨온 데이터에 대한 절댓값을 구해주는 메서드
-    private static int MyAbs(int p)
+    private static let MyAbs(let p)
     {
         return (p < 0) ? -p : p; // 절대값
     }
@@ -79,7 +79,7 @@ class MathDemo
     /// <param name="a"></param>
     /// <param name="b"></param>
     /// <returns></returns>
-    public static double MyRound(double a, int b)
+    public static double MyRound(double a, let b)
     {
         if (b == 0) // 3.14 -> 3.0
         {

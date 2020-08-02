@@ -4,9 +4,9 @@ class PlusOperator
 {
     static void Main()
     {
-        int i = 10;
-        int j = 20;
-        int k = i + j; // k = 10 + 20
+        let i = 10;
+        let j = 20;
+        let k = i + j; // k = 10 + 20
         console.log(k); // 30
     }
 }

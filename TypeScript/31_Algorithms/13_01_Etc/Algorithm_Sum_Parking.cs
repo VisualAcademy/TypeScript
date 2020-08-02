@@ -1,12 +1,12 @@
 ﻿class Algorithm_Sum_Parking {
     static void Main() {
-        int n = 5; // 주차 가능 대수 
+        let n = 5; // 주차 가능 대수 
         int[] arr = { 1200, 5, 5, 5, 5 }; // 주차 시간(분)
-        int sum = 0; // 주차 요금 합계
-        int p = 0; // 인덱스 반복
+        let sum = 0; // 주차 요금 합계
+        let p = 0; // 인덱스 반복
         do {
-            int tmp = arr[p];
-            int fare = 0; // 요금 계산
+            let tmp = arr[p];
+            let fare = 0; // 요금 계산
             if (tmp >= 10) {
                 fare = 500;
                 if (tmp >= 30) {

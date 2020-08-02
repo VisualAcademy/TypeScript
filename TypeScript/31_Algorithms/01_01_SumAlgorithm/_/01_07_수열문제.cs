@@ -7,7 +7,7 @@ public class 수열문제 {
         //[1] Input
         double sum = 0.0; 
         //[2] Process
-        for (int i = 1; i <= 99; i++) {
+        for (let i = 1; i <= 99; i++) {
             if (i % 2 != 0) {
                 sum += i / (double)(i + 1); 
             }

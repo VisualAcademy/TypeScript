@@ -5,9 +5,9 @@ class PostfixOperator
 {
     static void Main()
     {
-        int x = 3;
+        let x = 3;
 
-        int y = x++;
+        let y = x++;
 
         console.log(y); // 3
     }

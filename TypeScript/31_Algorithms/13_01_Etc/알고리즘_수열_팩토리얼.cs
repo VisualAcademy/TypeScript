@@ -3,9 +3,9 @@ class 알고리즘_수열_팩토리얼
 {
     static void Main(string[] args)
     {
-        int SUM = 0;
-        int I = 1; // 1증가 변수
-        int F = 1; //[1] 팩토리얼 결과 기억 변수
+        let SUM = 0;
+        let I = 1; // 1증가 변수
+        let F = 1; //[1] 팩토리얼 결과 기억 변수
 
         do 
         {

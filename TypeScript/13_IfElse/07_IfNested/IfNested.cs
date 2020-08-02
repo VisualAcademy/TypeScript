@@ -6,7 +6,7 @@ class IfNested
     static void Main()
     {
         string name = "C#";
-        int version = 8;
+        let version = 8;
 
         if (name == "C#") // 첫 번째 조건
         {

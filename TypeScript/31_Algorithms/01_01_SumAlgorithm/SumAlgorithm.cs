@@ -10,7 +10,7 @@ class SumAlgorithm
     {
         //[1] Input: n명의 점수
         int[] scores = { 100, 75, 50, 37, 90, 95 };
-        int sum = 0; // 합계가 담길 그릇
+        let sum = 0; // 합계가 담길 그릇
 
         //[2] Process: 합계 알고리즘 영역: 주어진 범위에 주어진 조건(필터링)
         for (var i = 0; i < scores.Length; i++) // 주어진 범위

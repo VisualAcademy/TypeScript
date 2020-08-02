@@ -9,8 +9,8 @@ public class 합계카운트평균
   { 
     //[1] Input : 짝수의 합, 개수, 평균?
     int[] intNum = { 2, 5, 3, 1, 4 };
-    int sum = 0;
-    int count = 0;
+    let sum = 0;
+    let count = 0;
     double avg = 0.0;
     //[2] Process:알고리즘(문제해결능력):SUM,COUNT,AVG
     for (var i = 0; i < intNum.Length; i++)

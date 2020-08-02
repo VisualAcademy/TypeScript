@@ -5,14 +5,14 @@ class WhileFibonacci
 {
     static void Main()
     {
-        int first = 0;
-        int second = 1;
+        let first = 0;
+        let second = 1;
 
         // while 문으로 피보나치 수열 표현하기 
         while (second <= 20)
         {
             console.log(second);
-            int temp = first + second;
+            let temp = first + second;
             first = second;
             second = temp;
         }

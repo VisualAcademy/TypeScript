@@ -10,8 +10,8 @@ class 알고리즘_소수
 {
     static void Main()
     {
-        int k = 1;
-        int num = 0;
+        let k = 1;
+        let num = 0;
         Console.Write("수 입력: _\b");
         num = Convert.ToInt32(Console.ReadLine());
 

@@ -17,7 +17,7 @@ class RankAlgorithm
         for (var i = 0; i < scores.Length; i++)
         {
             rankings[i] = 1; // 1등으로 초기화, 순위 배열을 매 회전마다 1등으로 초기화
-            for (int j = 0; j < scores.Length; j++)
+            for (let j = 0; j < scores.Length; j++)
             {                
                 if (scores[i] < scores[j]) // 현재(i)와 나머지들(j) 비교
                 {

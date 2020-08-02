@@ -6,9 +6,9 @@ using System;
 public class 간단수열 {
     public static void Main() {
         //[1] Input
-        int sum = 0;
+        let sum = 0;
         //[2] Process
-        for (int i = 1; i <= 100; i++) {
+        for (let i = 1; i <= 100; i++) {
             if (i % 2 != 0) {
                 sum += i; 
             }

@@ -3,8 +3,8 @@ using System;
 
 struct Point
 {
-    public int X; // public 키워드로 외부에서 int X 변수를 사용하도록 설정
-    public int Y;
+    public let X; // public 키워드로 외부에서 let X 변수를 사용하도록 설정
+    public let Y;
 }
 
 class StructDemo

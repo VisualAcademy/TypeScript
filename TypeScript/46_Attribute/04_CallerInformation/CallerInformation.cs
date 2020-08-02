@@ -11,7 +11,7 @@ class CallerInformation
     public static void TraceMessage(string message,
             [CallerMemberName] string memberName = "",
             [CallerFilePath] string sourceFilePath = "",
-            [CallerLineNumber] int sourceLineNumber = 0)
+            [CallerLineNumber] let sourceLineNumber = 0)
     {
         WriteLine("실행 내용: " + message);
         WriteLine("멤버 이름: " + memberName);

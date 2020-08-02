@@ -5,7 +5,7 @@ class LocalFunctionAdd
     static void Main()
     {
         // 로컬 함수 만들기
-        int Add(int a, int b) => a + b;
+        let Add(let a, let b) => a + b;
         decimal Subtract(decimal x, decimal y) => x - y;
 
         // 로컬 함수 사용하기 

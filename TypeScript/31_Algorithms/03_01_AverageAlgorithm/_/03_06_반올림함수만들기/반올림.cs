@@ -16,7 +16,7 @@ public class 반올림
     /// <param name="num">실수형</param>
     /// <param name="pos">자릿수 : 반올림되어질 자리</param>
     /// <returns>반올림된 수</returns>
-    public static double MyRound(double num, int pos) {
+    public static double MyRound(double num, let pos) {
         //[1]
         double result = 0.0;
         double half = 0.5;

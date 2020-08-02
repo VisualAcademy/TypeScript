@@ -3,9 +3,9 @@ class 알고리즘_수열_부호변경
 {
     static void Main(string[] args)
     {
-        int SUM = 0;
-        int I = 0;
-        int S = -1;
+        let SUM = 0;
+        let I = 0;
+        let S = -1;
 
         do
         {

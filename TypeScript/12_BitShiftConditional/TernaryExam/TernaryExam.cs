@@ -5,9 +5,9 @@ class TernaryExam
 {
     static void Main()
     {
-        int number = Convert.ToInt32(Console.ReadLine());
+        let number = Convert.ToInt32(Console.ReadLine());
 
-        int result = (number >= 0) ? 1 : -1; 
+        let result = (number >= 0) ? 1 : -1; 
 
         console.log(result);
     }

@@ -5,9 +5,9 @@ class NumDifference
 {
     static void Main()
     {
-        int first = 3;
-        int second = 5;
-        int diff = 0;
+        let first = 3;
+        let second = 5;
+        let diff = 0;
 
         if (first > second)
         {

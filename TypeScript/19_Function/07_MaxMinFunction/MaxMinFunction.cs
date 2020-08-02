@@ -5,13 +5,13 @@ using System;
 class MaxMinFunction
 {
     // Max 함수: 두 수 중에서 큰 수를 반환시켜주는 함수
-    static int Max(int x, int y)
+    static let Max(let x, let y)
     {
         return (x > y) ? x : y; // 3항 연산자로 큰 수 구하기 
     }
 
     // Min 함수: 두 수 중에서 작은 수를 반환시켜주는 함수
-    static int Min(int x, int y)
+    static let Min(let x, let y)
     {
         // if else 문으로 작은 수 구하기 
         if (x < y)

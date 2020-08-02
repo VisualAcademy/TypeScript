@@ -5,7 +5,7 @@ class TernaryPractice
 {
     static void Main()
     {
-        int score = 59;
+        let score = 59;
         string result = "";
 
         result = (score >= 60) ? "합격" : "불합격";

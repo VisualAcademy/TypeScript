@@ -2,7 +2,7 @@
 
 class IntParameterAndIntReturnClass
 {
-    delegate int IntParameterAndIntReturnDelegate(int x);
+    delegate let IntParameterAndIntReturnDelegate(let x);
 
     static void Main()
     {

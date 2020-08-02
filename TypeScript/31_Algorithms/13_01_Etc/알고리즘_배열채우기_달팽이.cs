@@ -4,11 +4,11 @@
     {
         int[,] arr = new int[6,6];
 
-        int num = 0; // 1부터 25까지의 배열에 저장할 값 증가 
-        int s = 1; // 스위치 변수(1 또는 -1 토글)
-        int p = 1;
-        int q = 0;
-        int k = 5;
+        let num = 0; // 1부터 25까지의 배열에 저장할 값 증가 
+        let s = 1; // 스위치 변수(1 또는 -1 토글)
+        let p = 1;
+        let q = 0;
+        let k = 5;
 
         while (true)
         {
@@ -42,7 +42,7 @@
         System.console.log();
         for (var i = 0; i < 6; i++)
         {
-            for (int j = 0; j < 6; j++)
+            for (let j = 0; j < 6; j++)
             {
                 System.Console.Write("{0}\t", arr[i,j]);
             }

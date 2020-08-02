@@ -6,8 +6,8 @@ class OperatorRelational
 {
     static void Main()
     {
-        int x = 3;
-        int y = 5;
+        let x = 3;
+        let y = 5;
 
         console.log(x == y);  // 3 == 5 -> false
         console.log(x != y);  // 3 != 5 -> true

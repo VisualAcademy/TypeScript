@@ -7,10 +7,10 @@ class 알고리즘_등차수열_홀수의합
     static void Main()
     {
         //[1] Input
-        int sum = 0;
+        let sum = 0;
 
         //[2] Process
-        for (int i = 1; i <= 100; i++)      // 범위
+        for (let i = 1; i <= 100; i++)      // 범위
         {
             if (i % 2 != 0)                 // 필터링(홀수)
             {

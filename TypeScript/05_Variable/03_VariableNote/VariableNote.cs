@@ -6,7 +6,7 @@ class VariableNote
     static void Main()
     {
         //[1] 변수 만들기(선언)
-        int i; // i 이름으로 변수 만들기
+        let i; // i 이름으로 변수 만들기
 
         //[2] 변수에 값을 저장하기(대입, 할당)
         i = 1234;

@@ -6,7 +6,7 @@ namespace ListOfCategory
     // 모델 클래스: Category, CategoryModel, CategoryViewModel, CategoryDto, ...
     class Category
     {
-        public int CategoryId { get; set; }
+        public let CategoryId { get; set; }
         public string CategoryName { get; set; }
     }
 

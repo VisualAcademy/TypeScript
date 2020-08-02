@@ -20,7 +20,7 @@ class LocalFunctionDescription
         return r;
 
         //[2] 로컬 함수(Local Function): 함수내에서 또 다른 함수 정의
-        void Add(int s, int c)
+        void Add(let s, let c)
         {
             r.Sum += s; // 합계
             r.Count += c; // 건수

@@ -7,14 +7,14 @@ class RandomClassDemo
         Console.Write("이번 주의 로또: ");
         Random ran = new Random();
         int[] arr = new int[6]; // 6개 데이터
-        int temp = 0;
+        let temp = 0;
         for (var i = 0; i < 6; i++)
         {
             temp = ran.Next(45) + 1; // 1 ~ 45까지
             bool flag = false;
             if (i > 0 && i < 6)
             {
-                for (int j = 0; j <= i; j++)
+                for (let j = 0; j <= i; j++)
                 {
                     if (arr[j] == temp)
                     {

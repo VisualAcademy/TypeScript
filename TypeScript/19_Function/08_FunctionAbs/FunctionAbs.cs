@@ -3,15 +3,15 @@
 class FunctionAbs
 {
     //[?] 절댓값을 구하는 함수 만들기
-    static int Abs(int num)
+    static let Abs(let num)
     {
         return (num < 0) ? -num : num;
     }
 
     static void Main()
     {
-        int num = -21;
-        int abs = Abs(num);
+        let num = -21;
+        let abs = Abs(num);
         console.log($"{num}의 절댓값: {abs}");
     }
 }

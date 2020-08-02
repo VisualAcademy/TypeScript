@@ -11,7 +11,7 @@
         }
 
         // prop: 자동으로 구현된 속성
-        public int Age { get; set; }
+        public let Age { get; set; }
 
         // 자동 속성: 속성을 자동으로 초기화(C# 6.0)
         public string Type { get; set; } = "사람";

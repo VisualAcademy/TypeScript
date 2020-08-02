@@ -7,7 +7,7 @@ namespace Indexer
     {
         private string name;
         // 인덱서 
-        public string this[int index]
+        public string this[let index]
         {
             get { return name; }    // [index]로 요청시 특정 필드의 값을 반환한다.
             set { name = value; }   // 넘어온 값은 value 키워드로 읽어올 수 있다.

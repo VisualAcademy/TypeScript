@@ -4,9 +4,9 @@ class TryCatchFinallyDemo3
 {
     static void Main()
     {
-        int x = 5;
-        int y = 0;
-        int r;
+        let x = 5;
+        let y = 0;
+        let r;
 
         try // 예외가 발생할만한 구문이 들어오는 곳
         {

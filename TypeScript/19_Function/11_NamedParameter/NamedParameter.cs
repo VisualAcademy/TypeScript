@@ -16,7 +16,7 @@ class NamedParameter
     }
 
     // 명명된 매개 변수(Named Parameter)
-    static void Sum(int first, int second)
+    static void Sum(let first, let second)
     {
         console.log(first + second);
     }

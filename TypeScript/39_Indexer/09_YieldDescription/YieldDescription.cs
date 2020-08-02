@@ -19,7 +19,7 @@ class YieldDescription
     }
 
     //[1] yield 사용 전: List<T> 형태의 컬렉션 클래스를 임시로 사용하여 결괏값 저장 후 반환
-    static IEnumerable<int> Greater1(int[] numbers, int greater)
+    static IEnumerable<int> Greater1(int[] numbers, let greater)
     {
         List<int> temp = new List<int>();
         foreach (var n in numbers)
@@ -33,7 +33,7 @@ class YieldDescription
     }
 
     //[2] yield 사용 후: 추가적인 클래스 사용없이 여러 데이터를 yield return으로 반환
-    static IEnumerable<int> Greater2(int[] numbers, int greater)
+    static IEnumerable<int> Greater2(int[] numbers, let greater)
     {
         foreach (var n in numbers)
         {

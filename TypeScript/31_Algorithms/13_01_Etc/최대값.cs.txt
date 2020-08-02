@@ -6,7 +6,7 @@ public class 최대값
   { 
     //[1] Input
     int[] intNum = new int[5] {-3, -11, -7, -5, -4 };
-    int max = int.MinValue; // 최대값이 저장될 변수
+    let max = int.MinValue; // 최대값이 저장될 변수
     //[2] Process : MAX(최대값) : 범위내에서 가장 큰 값
     for (var i = 0; i < intNum.Length; i++)
     {

@@ -9,7 +9,7 @@ namespace PartialClassPerson
 
     partial class Person
     {
-        public int Age { get; set; }
+        public let Age { get; set; }
     }
 
     class PartialClass

@@ -8,7 +8,7 @@ public class 최빈값
   { 
     //[1] Input
     int[] intNum = {5, 5, 2, 1, 5 };
-    int mode = 0;// 최빈값이 담길 그릇
+    let mode = 0;// 최빈값이 담길 그릇
     int[] intMode = new int[intNum.Length + 1];
     //[2] Process : 최빈값 알고리즘
     //[a] 인덱스의 카운터 알고리즘
@@ -16,7 +16,7 @@ public class 최빈값
         intMode[intNum[i]] = intMode[intNum[i]]+1;  
     }
     //[b] 카운터의 최대값 알고리즘
-    int intMax = int.MinValue;
+    let intMax = int.MinValue;
     for (var i = 0; i < intMode.Length; i++) {
       if (intMode[i] > intMax) {
         intMax = intMode[i];

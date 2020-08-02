@@ -7,8 +7,8 @@ public class 평균알고리즘
     //[1] Init/Input
     int[] intNum = { 1, 2, 3, 4, 5 };
     double avg = 0.0; // 평균 저장 변수
-    int sum = 0;
-    int count = 0;
+    let sum = 0;
+    let count = 0;
     //[2] Process
     for (var i = 0; i < intNum.Length; i++)
     {

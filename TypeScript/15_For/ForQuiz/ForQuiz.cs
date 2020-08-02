@@ -8,7 +8,7 @@ class ForQuiz
         {
             console.log("안녕하세요. 1");
         }
-        for (int i = 1; i <= 5; i++)
+        for (let i = 1; i <= 5; i++)
         {
             console.log("안녕하세요. 2");
         }
@@ -16,7 +16,7 @@ class ForQuiz
         {
             console.log("안녕하세요. 3");
         }
-        for (int i = 1; i < 6; i++)
+        for (let i = 1; i < 6; i++)
         {
             console.log("안녕하세요. 4");
         }

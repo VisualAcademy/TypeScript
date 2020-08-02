@@ -6,10 +6,10 @@ class ForEven
     static void Main()
     {
         //[1] Input
-        int sum = 0;
+        let sum = 0;
 
         //[2] Process : 주어진 범위(for 문)에 주어진 조건(if 문)
-        for (int i = 1; i <= 100; i++)
+        for (let i = 1; i <= 100; i++)
         {
             if (i % 2 == 0) // 짝수만 필터링
             {

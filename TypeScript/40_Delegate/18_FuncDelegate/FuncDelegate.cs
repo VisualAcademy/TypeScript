@@ -19,5 +19,5 @@ class FuncDelegate
     /// <summary>
     /// 두 수의 합을 문자열로 반환
     /// </summary>
-    static string Add(int a, int b) => (a + b).ToString();
+    static string Add(let a, let b) => (a + b).ToString();
 }

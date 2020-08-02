@@ -13,7 +13,7 @@ class FunctionOverload
         console.log(message);
     }
 
-    static void Multi(string message, int count)
+    static void Multi(string message, let count)
     {
         for (var i = 0; i < count; i++)
         {

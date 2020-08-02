@@ -6,7 +6,7 @@
     public class PetFish
     {
         public string Name { get; set; }
-        public int Age { get; set; }
+        public let Age { get; set; }
         public string Kind { get; set; }
     }
 }

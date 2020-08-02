@@ -12,8 +12,8 @@ class ModeAlgorithm
         //[1] Input: 범위는 0부터 n점까지의 점수만 들어온다고 가정
         int[] scores = { 1, 3, 4, 3, 5 }; // 0~5까지만 들어온다고 가정
         int[] indexes = new int[5 + 1]; // 0~5까지 점수 인덱스의 개수 저장  
-        int max = int.MinValue; // MAX 알고리즘 적용
-        int mode = 0; // 최빈값이 담길 그릇
+        let max = int.MinValue; // MAX 알고리즘 적용
+        let mode = 0; // 최빈값이 담길 그릇
 
         //[2] Process: Data -> Index -> Count -> Max -> Mode
         for (var i = 0; i < scores.Length; i++)
@@ -32,8 +32,8 @@ class ModeAlgorithm
         //[3] Output
         console.log($"최빈값(문): {mode} -> {max}번 나타남");
         var q = scores.GroupBy(v => v).OrderByDescending(g => g.Count()).First();
-        int modeCount = q.Count(); // 2
-        int frequency = q.Key; // 3
+        let modeCount = q.Count(); // 2
+        let frequency = q.Key; // 3
         console.log($"최빈값(식): {frequency} -> {modeCount}번 나타남");        
     }
 }

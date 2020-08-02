@@ -8,7 +8,7 @@ class NullCoalescingWithCollection
 {
     static void Main()
     {
-        int num;
+        let num;
         List<string> list;
 
         //[1] 컬렉션 리스트가 null이면 Count를 읽을 수 없기에 0으로 초기화

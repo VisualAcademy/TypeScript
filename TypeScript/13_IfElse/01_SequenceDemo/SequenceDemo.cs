@@ -4,10 +4,10 @@ class SequenceDemo
 {
     static void Main()
     {
-        int kor = 100;
-        int eng = 90;
+        let kor = 100;
+        let eng = 90;
 
-        int tot = 0;
+        let tot = 0;
         double avg = 0.0;
 
         tot = kor + eng; // 총점 구하기

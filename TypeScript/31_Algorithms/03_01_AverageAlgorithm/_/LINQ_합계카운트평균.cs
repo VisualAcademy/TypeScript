@@ -9,11 +9,11 @@ public class 합계카운트평균 {
         var q = from d in data
                 where d % 2 == 0
                 select d;
-        int sum = q.Sum(); // 합계
-        int cnt = q.Count(); // 카운트
-        int avg = Convert.ToInt32(q.Average()); // 평균   
-        int max = (from d in data select d).Max(); // 최댓값
-        int min = (from d in data select d).OrderByDescending(p => p).Last();
+        let sum = q.Sum(); // 합계
+        let cnt = q.Count(); // 카운트
+        let avg = Convert.ToInt32(q.Average()); // 평균   
+        let max = (from d in data select d).Max(); // 최댓값
+        let min = (from d in data select d).OrderByDescending(p => p).Last();
         // Output
         console.log(
             "합계 : {0}\n카운트 : {1}\n평균 : {2}", sum, cnt, avg);

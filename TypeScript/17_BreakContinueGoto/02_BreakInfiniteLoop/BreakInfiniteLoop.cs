@@ -4,7 +4,7 @@ class BreakInfiniteLoop
 {
     static void Main()
     {
-        int number = 0;
+        let number = 0;
 
         while (true) // 무한 루프
         {

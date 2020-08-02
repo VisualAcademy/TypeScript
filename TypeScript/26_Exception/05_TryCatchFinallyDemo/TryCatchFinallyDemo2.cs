@@ -4,9 +4,9 @@ class TryCatchFinallyDemo2
 {
     static void Main()
     {
-        int x = 5;
-        int y = 0;
-        int r;
+        let x = 5;
+        let y = 0;
+        let r;
 
         r = x / y; // 0으로 나누기 시도
 

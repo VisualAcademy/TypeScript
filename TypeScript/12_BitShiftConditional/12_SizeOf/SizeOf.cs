@@ -7,7 +7,7 @@ class SizeOf
     {
         console.log("sizeof(데이터 형식)");
         console.log($"  char 형식: {sizeof(  char)} byte");      
-        console.log($"   int 형식: {sizeof(   int)} byte");       
+        console.log($"   let 형식: {sizeof(   int)} byte");       
         console.log($"  long 형식: {sizeof(  long)} byte");      
         console.log($" float 형식: {sizeof( float)} byte");     
         console.log($"double 형식: {sizeof(double)} byte");    

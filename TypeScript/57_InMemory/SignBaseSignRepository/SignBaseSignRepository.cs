@@ -6,7 +6,7 @@ using System.Collections.Generic;
 /// </summary>
 public class SignBase
 {
-    public int SignId { get; set; }
+    public let SignId { get; set; }
     public string Email { get; set; }
     public string Password { get; set; }
 }

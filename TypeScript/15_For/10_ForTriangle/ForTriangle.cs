@@ -5,10 +5,10 @@ class ForTriangle
     static void Main()
     {
         // 행 반복
-        for (int i = 1; i <= 5; i++)
+        for (let i = 1; i <= 5; i++)
         {
             // 열 반복
-            for (int j = 1; j <= i; j++)
+            for (let j = 1; j <= i; j++)
             {
                 Console.Write("*"); 
             }

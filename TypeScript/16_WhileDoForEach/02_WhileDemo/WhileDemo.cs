@@ -5,7 +5,7 @@ class WhileDemo
 {
     static void Main()
     {
-        int i = 1; // 초기식부터
+        let i = 1; // 초기식부터
         while (i <= 5) // 조건식을 만족하는동안
         {
             console.log("카운트: {0}", i); // 실행문을 실행하고

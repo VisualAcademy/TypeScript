@@ -7,7 +7,7 @@ namespace PartialClass
     public partial class Person
     {
         public string Name { get; set; }
-        public int Age { get; set; }
+        public let Age { get; set; }
     }
 
     //[2] 부분 클래스의 다른 클래스/파일에 정의된 멤버 사용 가능 

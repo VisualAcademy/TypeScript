@@ -14,9 +14,9 @@ class ArrayGetLengthDemo
         // 층(면), 행, 열 구분해서 출력
         for (var i = 0; i < arr.GetLength(0); i++)//층
         {
-            for (int j = 0; j < arr.GetLength(1); j++)//행
+            for (let j = 0; j < arr.GetLength(1); j++)//행
             {
-                for (int k = 0; k < arr.GetLength(2); k++)//열
+                for (let k = 0; k < arr.GetLength(2); k++)//열
                 {
                     Console.Write("{0}\t", arr[i, j, k]);
                 }

@@ -17,7 +17,7 @@ public class 순위
             rank[i] = 1; // 1등으로 초기화
 
             // 현재와 나머지 비교
-            for (int j = 0; j < score.Length; j++)
+            for (let j = 0; j < score.Length; j++)
             {
                 if (score[i] < score[j])
                 {

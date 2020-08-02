@@ -12,7 +12,7 @@ namespace ListNote
         /// <summary>
         /// 월(1월부터 12월까지) 
         /// </summary>
-        public int Month { get; set; }
+        public let Month { get; set; }
         /// <summary>
         /// 일사량 값
         /// </summary>

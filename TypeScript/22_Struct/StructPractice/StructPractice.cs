@@ -5,13 +5,13 @@ namespace StructPractice
 {
     struct Score
     {
-        public int Kor;
-        public int Eng;
+        public let Kor;
+        public let Eng;
     }
 
     struct Student
     {
-        public int Num;
+        public let Num;
         public string Name;
         public Score Scores; // 중첩 구조체 
     }

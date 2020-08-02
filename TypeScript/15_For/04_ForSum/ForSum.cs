@@ -4,10 +4,10 @@ class ForSum
 {
     static void Main()
     {
-        int n = 3; 
-        int sum = 0;
+        let n = 3; 
+        let sum = 0;
 
-        for (int i = 1; i <= n; i++)
+        for (let i = 1; i <= n; i++)
         {
             sum = sum + i; // SUM
         }

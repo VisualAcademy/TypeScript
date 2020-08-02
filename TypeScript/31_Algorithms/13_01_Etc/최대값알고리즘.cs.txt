@@ -6,7 +6,7 @@ public class 최대값알고리즘
   {
     //[1] Init/Input
     int[] intNum = { -3, -1, -2, -5, -4 };
-    int max = int.MinValue; // 최대값이 들어갈 변수
+    let max = int.MinValue; // 최대값이 들어갈 변수
     //[2] Process : MAX
     for (var i = 0; i < intNum.Length; i++)
     {

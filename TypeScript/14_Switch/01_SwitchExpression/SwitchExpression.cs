@@ -5,7 +5,7 @@ class SwitchExpression
 {
     static void Main()
     {
-        int x = 2;
+        let x = 2;
 
         switch (x)
         {

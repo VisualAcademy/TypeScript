@@ -2,8 +2,8 @@
 
 class Fish
 {
-    public int Weight { get; set; } = 50; 
-    public void Feed(int weight) => Weight += weight;
+    public let Weight { get; set; } = 50; 
+    public void Feed(let weight) => Weight += weight;
 }
 
 class PropertyPractice

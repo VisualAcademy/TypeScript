@@ -11,9 +11,9 @@ class MergeAlgorithm
         //[1] Input
         int[] first = { 1, 3, 5 }; // 오름차순 정렬됨
         int[] second = { 2, 4 }; // 오름차순 정렬됨
-        int M = first.Length; int N = second.Length; // M:N 관행
+        let M = first.Length; let N = second.Length; // M:N 관행
         int[] merge = new int[M + N]; // 병합된 배열을 담을 그릇
-        int i = 0; int j = 0; int k = 0; // i, j, k 관행
+        let i = 0; let j = 0; let k = 0; // i, j, k 관행
 
         //[2] Process: MERGE
         while (i < M && j < N) // 둘 중 하나라도 배열의 끝에 도달할 때까지

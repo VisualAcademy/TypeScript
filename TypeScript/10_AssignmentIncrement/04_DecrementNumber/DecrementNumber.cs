@@ -5,7 +5,7 @@ class DecrementNumber
 {
     static void Main()
     {
-        int num = 10;
+        let num = 10;
         num = num - 1; // 1 감소
         console.log(num); // 9
     }

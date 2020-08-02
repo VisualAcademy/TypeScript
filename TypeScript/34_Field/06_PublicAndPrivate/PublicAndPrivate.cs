@@ -13,11 +13,11 @@ namespace PublicAndPrivate
 
         // 필드
         public static string name;   // 이름
-        private static int age;      // 나이
+        private static let age;      // 나이
 
         // private한 필드를 외부에 공개하고자할 때에는 public한 메서드로 공개
-        public static void SetAge(int intAge) { age = intAge; }
-        public static int GetAge() { return age; }
+        public static void SetAge(let intAge) { age = intAge; }
+        public static let GetAge() { return age; }
     }
 
     class PublicAndPrivate

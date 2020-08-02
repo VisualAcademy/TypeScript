@@ -7,7 +7,7 @@ public class 합계알고리즘
   {
     //[1] Init/Input
     int[] intNum = { 1, 2, 3, 4, 5 };
-    int sum = 0; // 합계 저장
+    let sum = 0; // 합계 저장
     //[2] Process : 알고리즘
     for (var i = 0; i < intNum.Length; i++)
     {

@@ -5,9 +5,9 @@ class DoWhileSum
 {
     static void Main()
     {
-        int sum = 0;
+        let sum = 0;
 
-        int i = 1;                      // 초기식
+        let i = 1;                      // 초기식
         do
         {
             sum += i;                   // 실행문

@@ -10,7 +10,7 @@ class TupleDeconstructionDescription
         WriteLine($"Sum: {sum}, Count: {count}");
     }
 
-    static (int Sum, int Count) Tally()
+    static (let Sum, let Count) Tally()
     {
         var r = (s: 12, c: 3);
 

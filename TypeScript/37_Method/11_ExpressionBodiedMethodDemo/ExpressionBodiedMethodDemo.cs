@@ -12,6 +12,6 @@ class ExpressionBodiedMethodDemo
 
     // Expression Bodied Methods: => Lambda Operator 사용
     static void Hello() => console.log("Hello.");
-    static int DoubleValue(int val) => val * 2;
-    static int Sum(int a, int b) => a + b;
+    static let DoubleValue(let val) => val * 2;
+    static let Sum(let a, let b) => a + b;
 }

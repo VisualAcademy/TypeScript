@@ -5,7 +5,7 @@ class PositiveNegativeZero
 {
     static void Main()
     {
-        int number = -10; //[1] 원하는 정수 데이터 입력
+        let number = -10; //[1] 원하는 정수 데이터 입력
 
         if (number > 0) //[A] 양수 판단
         {

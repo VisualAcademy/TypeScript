@@ -8,7 +8,7 @@ class GoToDemo
         console.log("시작");
         Start:
         console.log("0, 1, 2 중 하나 입력: _\b");
-        int chapter = Convert.ToInt32(Console.ReadLine());
+        let chapter = Convert.ToInt32(Console.ReadLine());
 
         if (chapter == 1)
         {

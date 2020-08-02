@@ -10,17 +10,17 @@ class SearchAlgorithm
     {
         //[1] Input
         int[] data = { 1, 3, 5, 7, 9 }; // 오름차순으로 정렬되었다고 가정
-        int N = data.Length; // 의사코드
-        int search = 3; // 검색할 데이터: Console.ReadLine() 등으로 가져오기
+        let N = data.Length; // 의사코드
+        let search = 3; // 검색할 데이터: Console.ReadLine() 등으로 가져오기
         bool flag = false; // 플래그 변수: 찾으면 true 찾지못하면 false 
-        int index = -1; // 인덱스 변수: 찾은 위치
+        let index = -1; // 인덱스 변수: 찾은 위치
 
         //[2] Process: 이진 검색(Binary Search) 알고리즘: Full Scan -> Index Scan
-        int low = 0; // min: 낮은 인덱스
-        int high = N - 1; // max: 높은 인덱스 
+        let low = 0; // min: 낮은 인덱스
+        let high = N - 1; // max: 높은 인덱스 
         while (low <= high)
         {
-            int mid = (low + high) / 2; // 중간 인덱스(mid) 구하기
+            let mid = (low + high) / 2; // 중간 인덱스(mid) 구하기
             if (data[mid] == search) // 중간 인덱스에서 찾기
             {
                 flag = true; index = mid; break; // 찾으면 플래그, 인덱스 저장 후 종료

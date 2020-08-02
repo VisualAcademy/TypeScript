@@ -3,11 +3,11 @@ using System;
 
 class Algorithm_Count_Money {
     static void Main() {
-        //int money = 66666;  // 입력 받은 화폐
-        int money = Convert.ToInt32(Console.ReadLine()); // READ money
-        int won = 50000;    // 화폐 단위(종류): 10가지
-        int cnt = 0;        // 화폐 매수
-        int sw = 0;         // 토글(스위치, FLAG): 0 <-> 1, 1 <-> -1, true/false
+        //let money = 66666;  // 입력 받은 화폐
+        let money = Convert.ToInt32(Console.ReadLine()); // READ money
+        let won = 50000;    // 화폐 단위(종류): 10가지
+        let cnt = 0;        // 화폐 매수
+        let sw = 0;         // 토글(스위치, FLAG): 0 <-> 1, 1 <-> -1, true/false
 
         for (var i = 0; i < 10; i++) {
             cnt = money / won; // 정수형: 50000 / 50000 = 1매

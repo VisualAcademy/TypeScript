@@ -5,10 +5,10 @@ public class 이진검색 {
         //[1] Input
         int[] data = {1, 3, 5, 7, 9 }; //[!] 오름차순 정렬되었다고 가정...
         console.log("찾을 데이터 : ");
-        int search = Convert.ToInt32(Console.ReadLine());
+        let search = Convert.ToInt32(Console.ReadLine());
         bool flag = false; // 찾았으면 true 그렇지않으면 false 
-        int index = -1; // 찾은 위치
-        int low = 0; int mid = 0; int high = 0; // 이분탐색 관련 변수
+        let index = -1; // 찾은 위치
+        let low = 0; let mid = 0; let high = 0; // 이분탐색 관련 변수
         low = 0; high = data.Length - 1; 
         //[2] Process
         #region 순차검색

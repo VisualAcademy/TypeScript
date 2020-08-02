@@ -4,15 +4,15 @@ class 알고리즘_통계_초과근무
 {
     static void Main()
     {
-        int TOT = 0; // 총합
+        let TOT = 0; // 총합
         float AVG = 0F; // 평균
-        int DAN = 0; // 시급
-        int OTI = 0; // 오버타임
-        int SU = 0; // 카운트 => SU = SU + 1;
-        int WAMT = 0; // 주간급여
+        let DAN = 0; // 시급
+        let OTI = 0; // 오버타임
+        let SU = 0; // 카운트 => SU = SU + 1;
+        let WAMT = 0; // 주간급여
         string ID = "";
         byte GD = 0;
-        int TI = 0;
+        let TI = 0;
         string eof = "";
         while (eof != "EOF")
         {

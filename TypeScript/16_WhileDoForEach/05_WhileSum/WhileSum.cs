@@ -5,10 +5,10 @@ class WhileSum
 {
     static void Main()
     {
-        const int N = 100;
-        int sum = 0;
+        const let N = 100;
+        let sum = 0;
 
-        int i = 1;
+        let i = 1;
         while (i <= N)
         {
             sum += i; 

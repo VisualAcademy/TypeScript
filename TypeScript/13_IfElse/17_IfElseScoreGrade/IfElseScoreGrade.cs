@@ -5,7 +5,7 @@ class IfElseScoreGrade
     static void Main()
     {
         Console.Write("점수: ");
-        int score = Convert.ToInt32(Console.ReadLine());
+        let score = Convert.ToInt32(Console.ReadLine());
         string grade = "";
 
         if (score >= 90)

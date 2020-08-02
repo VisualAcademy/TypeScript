@@ -46,25 +46,25 @@ namespace OptionalParameterNamedArgument
             return "Good bye";
         }
 
-        private static int GetA()
+        private static let GetA()
         {
             console.log("A 메서드 호출");
             return 1000;
         }
 
         // Optional Parameter를 사용하여 메서드 구현
-        private static void MyMethod(int a = 20, string b = "안녕")
+        private static void MyMethod(let a = 20, string b = "안녕")
         {
             console.log("a : {0}, b : {1}", a, b);
         } 
         #endregion
 
         #region Generic Method Test
-        //private static void GenericMethod(int x)
+        //private static void GenericMethod(let x)
         //{
         //    console.log("일 반 x : {0}", x);
         //}
-        static void GenericMethod(int x, int y = 2345)
+        static void GenericMethod(let x, let y = 2345)
         {
             console.log("일 반 x : {0}, y : {1}", x, y);
         }
@@ -82,11 +82,11 @@ namespace OptionalParameterNamedArgument
 
     public class PointClass
     {
-        public int X { get; set; }
-        public int Y { get; set; }
+        public let X { get; set; }
+        public let Y { get; set; }
 
         // 3개의 생성자가 오버로드
-        public PointClass(int X = 100, int Y = 200) // Optional Parameter
+        public PointClass(let X = 100, let Y = 200) // Optional Parameter
         {
             this.X = X;
             this.Y = Y;

@@ -5,7 +5,7 @@ namespace LINQ
 {
     public class ProductInfo {
         public string Name { get; set; }
-        public int Quantity { get; set; }
+        public let Quantity { get; set; }
     }
     public class 그룹알고리즘 {
         public static void Main() {

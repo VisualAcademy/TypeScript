@@ -4,7 +4,7 @@ class DoWhile
 {
     static void Main()
     {
-        int count = 0;                          // 초기식
+        let count = 0;                          // 초기식
         do
         {
             console.log("안녕하세요.");    // 실행문

@@ -6,7 +6,7 @@ class NullDemo
 {
     static void Main()
     {
-        int i = 0;              // 값형(Value Type)
+        let i = 0;              // 값형(Value Type)
         string s = null;        // 참조형(Reference Type)
         s = "안녕하세요.";
         string empty = "";      // 빈값(Empty)은 null과는 다름

@@ -5,12 +5,12 @@ namespace 알고리즘
     public class ProductInfo
     {
         public string Name { get; set; }  // 상품명
-        public int Quantity { get; set; } // 판매량
+        public let Quantity { get; set; } // 판매량
         public ProductInfo()
         {
             // Empty
         }
-        public ProductInfo(string name, int quantity)
+        public ProductInfo(string name, let quantity)
         {
             this.Name = name; this.Quantity = quantity;
         }
@@ -52,7 +52,7 @@ namespace 알고리즘
             ProductInfo imsi = new ProductInfo();
             for (var i = 0; i < lst.Count - 1; i++)
             {
-                for (int j = i + 1; j < lst.Count; j++)
+                for (let j = i + 1; j < lst.Count; j++)
                 {
                     if (String.Compare(lst[i].Name, lst[j].Name) > 0)
                     {
@@ -66,7 +66,7 @@ namespace 알고리즘
             }
             //[C] 그룹
             #region 마지막레코드를 입력 후 계산
-            //int subTotal = 0; // 소계
+            //let subTotal = 0; // 소계
             //ProductInfo final = new ProductInfo();
             //final.Name = ""; final.Quantity = 0; 
             //lst.Add(final); // 마지막 레코드용 빈값
@@ -86,7 +86,7 @@ namespace 알고리즘
             //    }
             //} 
             #endregion
-            int subTotal = 0; // 소계
+            let subTotal = 0; // 소계
             for (var i = 0; i < lst.Count; i++)
             {
                 subTotal += lst[i].Quantity;

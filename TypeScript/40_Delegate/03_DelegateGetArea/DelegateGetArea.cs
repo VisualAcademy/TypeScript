@@ -2,9 +2,9 @@
 
 class DelegateGetArea
 {
-    static double GetArea(int r) => 3.14 * r * r;
+    static double GetArea(let r) => 3.14 * r * r;
 
-    delegate double GetAreaPointer(int r);
+    delegate double GetAreaPointer(let r);
 
     static void Main()
     {

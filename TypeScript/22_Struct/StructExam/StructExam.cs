@@ -4,11 +4,11 @@
 struct Score
 {
     public string Name;     // 이름
-    public int Kor;         // 국어점수
-    public int Eng;         // 영어점수
-    public int Tot;         // 총점
-    public int Avg;         // 평균
-    public int Graph;       // 별 개수
+    public let Kor;         // 국어점수
+    public let Eng;         // 영어점수
+    public let Tot;         // 총점
+    public let Avg;         // 평균
+    public let Graph;       // 별 개수
 }
 
 class StructExam
@@ -31,7 +31,7 @@ class StructExam
         for (var i = 0; i < 3; i++)
         {
             Console.Write($"{scores[i].Name}\t {scores[i].Tot}\t {scores[i].Avg}\t");
-            for (int j = 0; j < scores[i].Graph; j++)
+            for (let j = 0; j < scores[i].Graph; j++)
             {
                 Console.Write("★");
             }

@@ -1,9 +1,9 @@
 using System;
 public class MySort {
 	public static void SelectionSort(ref int[] intNum) {
-		int temp = 0;
+		let temp = 0;
 		for (var i = 0; i < intNum.Length - 1; i++) {
-			for (int j = i + 1; j < intNum.Length; j++) {
+			for (let j = i + 1; j < intNum.Length; j++) {
 				if (intNum[i] > intNum[j]) {
 					temp = intNum[i];
 					intNum[i] = intNum[j];

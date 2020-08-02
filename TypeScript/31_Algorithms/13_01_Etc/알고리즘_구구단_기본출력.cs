@@ -17,7 +17,7 @@ class 알고리즘_구구단_기본출력
                 su = su + 1;
                 arr[su] = dan * su; 
             } while (su < 9);
-            for (int i = 1; i <= 9; i++)
+            for (let i = 1; i <= 9; i++)
             {
                 console.log($"{dan} * {i} = {arr[i]}");
             }

@@ -4,8 +4,8 @@ class IfElseIfElse
 {
     static void Main()
     {
-        int number1 = 10;
-        int number2 = 20;
+        let number1 = 10;
+        let number2 = 20;
 
         if (number1 > number2) // 조건 처리 1
         {

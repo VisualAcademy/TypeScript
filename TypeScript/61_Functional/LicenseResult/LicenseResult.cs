@@ -3,7 +3,7 @@
 class LicenseResult
 {
     //[1] 문(Statement)을 사용하여 시험 결과 판정
-    static string GetResultWithStatement(int score)
+    static string GetResultWithStatement(let score)
     {
         string r;
         if (score >= 60)
@@ -18,7 +18,7 @@ class LicenseResult
     }
 
     //[2] 식(Expression)을 사용하여 시험 결과 판정
-    static string GetResultWithExpression(int score) =>
+    static string GetResultWithExpression(let score) =>
         score >= 60 ? "합격" : "불합격"; // 변하지 않는 값 반환
 
     static void Main()

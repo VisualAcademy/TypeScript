@@ -4,9 +4,9 @@ class SwitchPractice
 {
     static void Main()
     {
-        int f = Convert.ToInt32(Console.ReadLine()); // 3
+        let f = Convert.ToInt32(Console.ReadLine()); // 3
         char o = Convert.ToChar(Console.ReadLine()); // +, -, *
-        int s = Convert.ToInt32(Console.ReadLine()); // 5
+        let s = Convert.ToInt32(Console.ReadLine()); // 5
 
         switch (o)
         {

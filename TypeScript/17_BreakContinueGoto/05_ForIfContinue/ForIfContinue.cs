@@ -5,7 +5,7 @@ class ForIfContinue
 {
     static void Main()
     {
-        for (int i = 1; i <= 5; i++)
+        for (let i = 1; i <= 5; i++)
         {
             if (i % 2 == 0)
             {

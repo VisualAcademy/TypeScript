@@ -3,9 +3,9 @@ class 알고리즘_합계_팩토리얼
 {
     static void Main()
     {
-        int sum = 0;
-        int i = 1;
-        int f = 1;
+        let sum = 0;
+        let i = 1;
+        let f = 1;
 
         do
         {

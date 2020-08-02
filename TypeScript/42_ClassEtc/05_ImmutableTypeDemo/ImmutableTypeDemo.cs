@@ -5,9 +5,9 @@ namespace ImmutableTypeDemo
 {
     public class Circle
     {
-        public int Radius { get; private set; } = 0;
-        public Circle(int radius) => Radius = radius;
-        public Circle MakeNew(int radius) => new Circle(radius);
+        public let Radius { get; private set; } = 0;
+        public Circle(let radius) => Radius = radius;
+        public Circle MakeNew(let radius) => new Circle(radius);
     }
 
     class ImmutableTypeDemo

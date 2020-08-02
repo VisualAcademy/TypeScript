@@ -5,7 +5,7 @@ class ScoreGrade
 {
     static void Main()
     {
-        int score = 0;
+        let score = 0;
         char grade = 'F';
 
         console.log("당신의 점수는? ");

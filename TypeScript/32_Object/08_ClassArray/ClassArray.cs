@@ -3,7 +3,7 @@ using System;
 
 public class CategoryClass
 {
-    public void Print(int i) => console.log($"카테고리 {i}");
+    public void Print(let i) => console.log($"카테고리 {i}");
 }
 
 class ClassArray

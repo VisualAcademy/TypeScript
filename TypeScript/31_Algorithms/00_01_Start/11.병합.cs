@@ -10,8 +10,8 @@ public class 병합정렬 {
         //[1] Input : 원본 데이터가 정렬되어있다고 가정
         int[] first = {1, 3, 5 }; int[] second = { 2, 4 };
         int[] mearge = new int[first.Length + second.Length]; // MEARGE될 배열
-        int i = 0; int j = 0; int k = 0;
-        int M = first.Length; int N = second.Length; 
+        let i = 0; let j = 0; let k = 0;
+        let M = first.Length; let N = second.Length; 
         //[2] Process
         while (i < M && j < N) {// 모두 끝에 도달할 때까지
             if (first[i] <= second[j]) {

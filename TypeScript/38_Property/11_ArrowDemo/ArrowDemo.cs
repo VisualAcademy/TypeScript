@@ -3,10 +3,10 @@
 class Counter
 {
     // 필드
-    private int count;
+    private let count;
 
     // 속성
-    public int Count
+    public let Count
     {
         get => count;
         set => count = value;

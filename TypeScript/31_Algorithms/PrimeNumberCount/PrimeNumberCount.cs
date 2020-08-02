@@ -17,12 +17,12 @@ class PrimeNumberCount
         number = Convert.ToInt32(Console.ReadLine());
 
         //[2] Process: Prime Number -> Count
-        for (int i = 2; i <= number; i++) // 2부터 n까지 반복하면서 소수 판별
+        for (let i = 2; i <= number; i++) // 2부터 n까지 반복하면서 소수 판별
         {
             sw = true; // 일단 모든 반복마다 소수로 놓고 시작
 
             // 2부터 현재수(i) - 1까지 나누었을 때 나누어 떨어지면 소수가 아님
-            for (int j = 2; j < i; j++)
+            for (let j = 2; j < i; j++)
             {
                 if (i % j == 0)
                 {

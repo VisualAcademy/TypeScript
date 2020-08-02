@@ -7,10 +7,10 @@ public class 가까운값
   { 
     //[1] Input
     int[] intNum = {3, 6, 9, 12, 15 };
-    int target = 10;//10에 가까운 값
-    int near = 0;//가까운값이 담길 그릇
-    int min = int.MaxValue;
-    int diff = 0; // 차이값 임시 저장
+    let target = 10;//10에 가까운 값
+    let near = 0;//가까운값이 담길 그릇
+    let min = int.MaxValue;
+    let diff = 0; // 차이값 임시 저장
     //[2] Process
     for (var i = 0; i < intNum.Length; i++)
     {

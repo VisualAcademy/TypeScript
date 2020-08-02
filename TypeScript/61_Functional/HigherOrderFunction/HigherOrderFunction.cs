@@ -10,9 +10,9 @@ class HigherOrderFunction
     }
 
     //[2] 매개 변수가 Func<T>
-    static void FunctionParameterWithFunc(Func<int, int> func, int number)
+    static void FunctionParameterWithFunc(Func<int, int> func, let number)
     {
-        int result = func(number);
+        let result = func(number);
         console.log($"{number} * {number} = {result}");
     }
 
@@ -37,8 +37,8 @@ class HigherOrderFunction
         FunctionReturnValueWithAction()("고차 함수: 반환값");
 
         //[D] Func<T> 반환값
-        int number = 3;
-        int result = FunctionReturnValueWithFunc()(number);
+        let number = 3;
+        let result = FunctionReturnValueWithFunc()(number);
         console.log($"{number} * {number} = {result}"); // 9 
     }
 }

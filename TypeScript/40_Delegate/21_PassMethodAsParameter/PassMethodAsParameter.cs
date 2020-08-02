@@ -3,7 +3,7 @@
 class PassMethodAsParameter
 {
     // [1] 입력한 문자열의 길이를 반환하는 메서드
-    static int StringLength(string data) => data.Length;
+    static let StringLength(string data) => data.Length;
 
     // [2] 매개 변수가 string이고 반환값이 int인 메서드를 매개 변수로 받아 사용
     static void StringLengthPrint(Func<string, int> stringLength, string message)

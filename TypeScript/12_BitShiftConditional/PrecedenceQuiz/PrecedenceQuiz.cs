@@ -4,8 +4,8 @@ class PrecedenceQuiz
 {
     static void Main()
     {
-        int number = 1;
-        int result = 0;
+        let number = 1;
+        let result = 0;
 
         result = 8 >> 2 * number++ - (3 % 2);
 

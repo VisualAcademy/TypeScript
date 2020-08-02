@@ -6,7 +6,7 @@ class FormatExceptionDemo
     static void Main()
     {
         string inputNumber = "3.14";
-        int number = 0;
+        let number = 0;
 
         try
         {

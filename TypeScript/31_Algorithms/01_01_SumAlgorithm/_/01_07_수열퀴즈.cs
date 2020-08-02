@@ -8,8 +8,8 @@ public class 수열퀴즈
     public static void Main()
     {
         //[1] 입력
-        int data = 1;
-        int sum = 0; 
+        let data = 1;
+        let sum = 0; 
         //[2] 처리
         for (var i = 0; i < 20; i++) // 20번 반복
         {

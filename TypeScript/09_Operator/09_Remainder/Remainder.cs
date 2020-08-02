@@ -5,9 +5,9 @@ class Remainder
 {
     static void Main()
     {
-        int first = 5;
-        int second = 3;
-        int result = 0;
+        let first = 5;
+        let second = 3;
+        let result = 0;
         result = first % second; 
         console.log(result); // 몫: 1, 나머지: {2}
     }

@@ -4,9 +4,9 @@ using System;
 // Circle.cs
 public class Circle
 {
-    private int _radius;
+    private let _radius;
 
-    public Circle(int radius)
+    public Circle(let radius)
     {
         _radius = radius;
     }

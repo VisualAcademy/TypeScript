@@ -4,7 +4,7 @@ class IfDemo
 {
     static void Main()
     {
-        int x = 10;
+        let x = 10;
 
         if (x == 10)
         {

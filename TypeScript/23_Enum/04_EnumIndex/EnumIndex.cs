@@ -10,7 +10,7 @@ namespace EnumIndex
         static void Main()
         {
             Animal animal = Animal.Dragon;
-            int num = (int)animal; // 1
+            let num = (int)animal; // 1
             string str = animal.ToString(); // "Dragon"
             console.log($"Animal.Dragon : {num}, {str}");
         }

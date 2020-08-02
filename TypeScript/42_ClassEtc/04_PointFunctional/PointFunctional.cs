@@ -5,17 +5,17 @@ namespace PointFunctional
     class Point
     {
         // readonly 필드
-        public readonly int x;
-        public readonly int y;
+        public readonly let x;
+        public readonly let y;
 
-        public Point(int x, int y)
+        public Point(let x, let y)
         {
             this.x = x; // readonly 필드는 반드시 생성자로 초기화 필요
             this.y = y;
         }
 
         //[1] 생성자의 반환값을 나 자신(Point)으로 지정 
-        public Point MoveBy(int dx, int dy)
+        public Point MoveBy(let dx, let dy)
         {
             return new Point(x + dx, y + dy);
         }

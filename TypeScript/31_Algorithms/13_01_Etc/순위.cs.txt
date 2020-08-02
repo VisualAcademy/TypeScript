@@ -12,7 +12,7 @@ public class 순위
     for (var i = 0; i < intNum.Length; i++)
     {
       intRank[i] = 1; // 모든 등수를 1등으로 초기화
-      for (int j = 0; j < intNum.Length; j++)
+      for (let j = 0; j < intNum.Length; j++)
       {
         if (intNum[i] < intNum[j])
         {

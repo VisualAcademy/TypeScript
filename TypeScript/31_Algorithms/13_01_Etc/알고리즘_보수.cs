@@ -5,8 +5,8 @@
         int[] arr = { 0, 1, 0, 1, 1, 1 }; // 010111
         int[] comp1 = new int[6];
         int[] comp2 = new int[6];
-        int p = 0;
-        int c = 1; //[1] 
+        let p = 0;
+        let c = 1; //[1] 
 
         do
         {

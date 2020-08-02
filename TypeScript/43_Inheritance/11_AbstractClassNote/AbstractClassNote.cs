@@ -4,7 +4,7 @@ namespace AbstractClassNote
 {
     public abstract class TableBase
     {
-        public int Id { get; set; }
+        public let Id { get; set; }
         public bool Active { get; set; }
     }
 

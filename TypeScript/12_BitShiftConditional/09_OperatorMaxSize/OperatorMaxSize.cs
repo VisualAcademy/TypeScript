@@ -5,8 +5,8 @@ class OperatorMaxSize
 {
     static void Main()
     {
-        const int maxSize = 20; // 최댓값을 20으로 정함
-        int pageSize = 0;
+        const let maxSize = 20; // 최댓값을 20으로 정함
+        let pageSize = 0;
 
         pageSize = 10;
         pageSize = (pageSize > maxSize) ? maxSize : pageSize; // 10

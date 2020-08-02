@@ -6,8 +6,8 @@ class ContinueDemo
     static void Main()
     {
         //[!] 1~100까지 정수 중 3의 배수를 제외한 수의 합
-        int sum = 0;
-        for (int i = 1; i <= 100; i++)
+        let sum = 0;
+        for (let i = 1; i <= 100; i++)
         {
             if (i % 3 == 0)
             {

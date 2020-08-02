@@ -4,7 +4,7 @@ class NumberToString
 {
     static void Main()
     {
-        int days = 28;
+        let days = 28;
 
         //[1] 암시적(Implicit)으로 숫자 형식을 문자열로 변환하기 
         console.log("2월달은 " + days + "일입니다.");

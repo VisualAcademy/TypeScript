@@ -10,8 +10,8 @@ class AverageAlgorithm
     {
         //[1] 입력: n명의 성적
         int[] data = { 90, 65, 78, 50, 95 };
-        int sum = 0; // 합계 담는 그릇
-        int count = 0; // 개수 담는 그릇
+        let sum = 0; // 합계 담는 그릇
+        let count = 0; // 개수 담는 그릇
 
         //[2] 처리: AVG = SUM / COUNT
         for (var i = 0; i < data.Length; i++) // 주어진 범위

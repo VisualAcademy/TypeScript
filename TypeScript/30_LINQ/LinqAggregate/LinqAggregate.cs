@@ -7,11 +7,11 @@ class LinqAggregate
     {
         //[1] Aggregate 확장 메서드로 최댓값 구하기
         int[] numbers = { 1, 2, 3, 4, 5 };
-        int max = numbers.Aggregate((f, s) => f > s ? f : s);
+        let max = numbers.Aggregate((f, s) => f > s ? f : s);
         console.log(max);
 
         //[2] Aggregate 확장 메서드로 최솟값 구하기
-        int min = numbers.Aggregate((c, n) => c < n ? c : n);
+        let min = numbers.Aggregate((c, n) => c < n ? c : n);
         console.log(min);
     }
 }

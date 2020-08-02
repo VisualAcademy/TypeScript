@@ -6,7 +6,7 @@ class ArrayIndex
     {
         // array 이름으로 1차원 배열 선언과 동시에 1, 2, 3으로 값 초기화
         int[] array = { 1, 2, 3 };
-        int index = 0; // 배열의 인덱스는 0부터 시작하기에 0으로 index 변수 초기화
+        let index = 0; // 배열의 인덱스는 0부터 시작하기에 0으로 index 변수 초기화
 
         console.log(array[index++]); // array[0] 출력 후, index == 1로 증가 
         console.log(array[index++]); // array[1] 출력 후, index == 2로 증가 

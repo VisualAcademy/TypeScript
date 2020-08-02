@@ -8,7 +8,7 @@ namespace FieldNote
         //[1] 변수 형식의 필드
         private string name = "박용준";
         //[2] 상수 형식의 필드
-        private const int m_age = 21;
+        private const let m_age = 21;
         //[3] 읽기전용 형식의 필드
         private readonly string _NickName = "RedPlus";
         //[4] 배열 형식의 필드

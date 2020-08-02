@@ -13,7 +13,7 @@ class ArithmeticSequence
         var sum = 0;
 
         //[2] Process
-        for (int i = 1; i <= 20; i++) // 주어진 범위
+        for (let i = 1; i <= 20; i++) // 주어진 범위
         {
             if (i % 2 != 0) // 주어진 조건: 필터링(홀수)
             {

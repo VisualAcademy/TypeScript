@@ -7,12 +7,12 @@ namespace IndexerDemo
         //[1] 필드: 배열 형식 필드
         private string[] names;
         //[2] 생성자: 생성자 매개변수로 필드의 요소수 생성 
-        public Car(int length)    
+        public Car(let length)    
         {
             names = new string[length]; // 넘겨온 길이만큼 문자열 배열 생성
         }
         //[3] 속성: 읽기전용 속성(get 접근자만 사용하여 읽기전용 속성 구현) 
-        public int Length           
+        public let Length           
         {
             get                    
             {
@@ -20,7 +20,7 @@ namespace IndexerDemo
             }
         }
         //[4] 인덱서: this[] 키워드를 사용한 속성의 확장(배열) 형식 
-        public string this[int index]
+        public string this[let index]
         {
             get
             {

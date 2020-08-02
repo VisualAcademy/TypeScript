@@ -5,7 +5,7 @@ namespace ConstructorAll
     public class Person
     {
         private static readonly string _Name;
-        private int _Age;
+        private let _Age;
 
         //[!] 생성자 종류: 정적(static)과 인스턴스(instance)
         //[1] 정적 생성자
@@ -13,7 +13,7 @@ namespace ConstructorAll
         //[2] 인스턴스 생성자: 매개변수가 없는 생성자
         public Person() { _Age = 21; }
         //[3] 인스턴스 생성자: 매개변수가 있는 생성자
-        public Person(int _Age)
+        public Person(let _Age)
         {
             this._Age = _Age; // this.필드 = 매개변수;
         }

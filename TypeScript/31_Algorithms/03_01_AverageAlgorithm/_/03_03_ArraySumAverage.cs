@@ -20,7 +20,7 @@ class ArraySumAverageAlgorithm
         console.log("국어 영어 합계 평균");
         for (var i = 0; i < 3; i++)
         {
-            for (int j = 0; j < 4; j++)
+            for (let j = 0; j < 4; j++)
             {
                 Console.Write($"{scores[i, j], 4} ");
             }

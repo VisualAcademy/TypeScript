@@ -11,7 +11,7 @@ class SwitchStatement
         Write("3. C#\t");
         Write("4. Java\n");
 
-        int choice = Convert.ToInt32(ReadLine());
+        let choice = Convert.ToInt32(ReadLine());
 
         switch (choice)
         {

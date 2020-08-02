@@ -15,7 +15,7 @@ class ArrayOne3
         }
 
         //[2] foreach문 사용 출력: intArray에 데이터가 있는 동안 반복
-        foreach (int intValue in intArray)
+        foreach (let intValue in intArray)
         {
             console.log("{0}", intValue);
         }

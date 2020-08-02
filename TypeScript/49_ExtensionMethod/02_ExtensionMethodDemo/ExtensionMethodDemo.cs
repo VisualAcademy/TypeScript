@@ -11,7 +11,7 @@ namespace ExtensionMethodDemo
         /// </summary>
         /// <param name="str">문자열</param>
         /// <returns>단어 개수</returns>
-        public static int WordCount(this String str)
+        public static let WordCount(this String str)
         {
             return str.Split(new char[] { ' ', '.', '?' },
                 StringSplitOptions.RemoveEmptyEntries).Length;

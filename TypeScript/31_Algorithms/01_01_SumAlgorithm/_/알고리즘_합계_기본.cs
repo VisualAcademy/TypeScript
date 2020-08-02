@@ -5,9 +5,9 @@ class 알고리즘_합계_기본
 {
     static void Main(string[] args)
     {
-        int SUM = 0;
+        let SUM = 0;
 
-        int N = 1; // 1 ~ 100
+        let N = 1; // 1 ~ 100
 
         do
         {

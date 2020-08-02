@@ -7,7 +7,7 @@ class LinqSum
     {
         int[] numbers = { 1, 2, 3 };
 
-        int sum = numbers.Sum();
+        let sum = numbers.Sum();
 
         console.log($"numbers 배열 요소의 합: {sum}");
     }

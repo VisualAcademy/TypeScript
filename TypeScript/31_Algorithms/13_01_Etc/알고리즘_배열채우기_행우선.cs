@@ -3,8 +3,8 @@
     static void Main()
     {
         int[,] arr = new int[5, 5];
-        int value = 0;
-        int row = 0, col = 0;
+        let value = 0;
+        let row = 0, col = 0;
 
         // 배열 채우기: 행 우선
         while (col < 5)
@@ -22,7 +22,7 @@
         // 배열 값 출력 
         for (var i = 0; i < arr.GetLength(0); i++)
         {
-            for (int j = 0; j < arr.GetLength(1); j++)
+            for (let j = 0; j < arr.GetLength(1); j++)
             {
                 System.Console.Write("{0,2} ", arr[i, j]);
             }

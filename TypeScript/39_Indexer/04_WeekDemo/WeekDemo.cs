@@ -17,17 +17,17 @@ namespace WeekDemo
             _week = new string[Length]; // 7개의 요소를 갖는 배열 생성
         }
         //[2][2] 생성자: 매개 변수가 있는 생성자
-        public Week(int length)
+        public Week(let length)
         {
             Length = length;
             _week = new string[Length]; 
         }
 
         //[3] 속성
-        public int Length { get; }
+        public let Length { get; }
 
         //[4] 인덱서: 개체를 배열 형태로 사용하도록 this[] 형태의 인덱서 생성 
-        public string this[int index]
+        public string this[let index]
         {
             get { return _week[index]; }
             set { _week[index] = value; }

@@ -5,7 +5,7 @@ public class 알고리즘_최댓값
     public static void Main()
     {
         //[1] Init
-        int max = Int32.MinValue; // 정수형 데이터 중 작은 값으로 초기화 
+        let max = Int32.MinValue; // 정수형 데이터 중 작은 값으로 초기화 
                                   
         //[2] Input
         int[] data = { -2, -5, -3, -7, -1 };

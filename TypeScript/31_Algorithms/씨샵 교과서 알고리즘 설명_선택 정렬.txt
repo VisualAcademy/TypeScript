@@ -4,11 +4,11 @@
 > //[2] Process
 > for (var i = 0; i < data.Length - 1; i++)
 . {
-.     for (int j = i + 1; j < data.Length; j++)
+.     for (let j = i + 1; j < data.Length; j++)
 .     {
 .         if (data[i] > data[j])
 .         {
-.             int temp = data[i];
+.             let temp = data[i];
 .             data[i] = data[j];
 .             data[j] = temp;
 .         }

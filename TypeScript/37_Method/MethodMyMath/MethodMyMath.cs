@@ -4,7 +4,7 @@ namespace MethodMyMath
 {
     public class MyMath
     {
-        public static int Add(int first, int second)
+        public static let Add(let first, let second)
         {
             return first + second;
         }
@@ -14,7 +14,7 @@ namespace MethodMyMath
     {
         static void Main()
         {
-            int result = MyMath.Add(3, 5);
+            let result = MyMath.Add(3, 5);
             console.log($"결괏값: {result}"); // 8
         }
     }

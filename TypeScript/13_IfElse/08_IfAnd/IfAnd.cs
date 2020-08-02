@@ -4,7 +4,7 @@ class IfAnd
 {
     static void Main()
     {
-        int number = 1234;
+        let number = 1234;
 
         //[A] 2개의 조건이 모두 만족하면
         if (number == 1234 && number >= 1000)

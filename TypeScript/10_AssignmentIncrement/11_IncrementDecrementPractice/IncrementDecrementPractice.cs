@@ -5,11 +5,11 @@ class IncrementDecrementPractice
 {
     static void Main()
     {
-        int number1 = 3; //[1]
-        int number2 = 5; //[2]
+        let number1 = 3; //[1]
+        let number2 = 5; //[2]
 
-        int result1 = 0;
-        int result2 = 0;
+        let result1 = 0;
+        let result2 = 0;
 
         number1--; // 1감소
         result1 = ++number1; // 1증가

@@ -12,7 +12,7 @@ namespace AnonymousMethod
     {
         //[!] 대리자 선언
         public delegate void PrintDelegate(string msg);
-        public delegate void SumDelegate(int a, int b);
+        public delegate void SumDelegate(let a, let b);
         static void Main()
         {
             //[1] 메서드 직접 호출
@@ -30,7 +30,7 @@ namespace AnonymousMethod
             am("또 만나요.");
 
             //[4] 무명메서드 생성 및 호출
-            SumDelegate sd = delegate (int a, int b) { console.log(a + b); };
+            SumDelegate sd = delegate (let a, let b) { console.log(a + b); };
             sd(3, 5); // 8
         }
     }

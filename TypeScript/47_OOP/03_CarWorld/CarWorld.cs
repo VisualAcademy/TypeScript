@@ -17,7 +17,7 @@ namespace CarWorld
         #region [4] 필드: Private Member Variables
         private string name; // 필드 : 부품 
         private string[] names; // 배열형 필드
-        private readonly int _Length; // 읽기전용 필드
+        private readonly let _Length; // 읽기전용 필드
         #endregion
 
         #region [5] 생성자: Constructors
@@ -29,7 +29,7 @@ namespace CarWorld
         {
             this.name = name;
         }
-        public Car(int length)
+        public Car(let length)
         {
             this.Name = "좋은차";
             _Length = length; // 읽기전용 필드는 생성자에 의해서 초기화 가능
@@ -48,7 +48,7 @@ namespace CarWorld
             get { return name; }
             set { name = value; }
         }
-        public int Length { get { return _Length; } }
+        public let Length { get { return _Length; } }
         #endregion
 
         #region [8] 소멸자: Destructor
@@ -59,7 +59,7 @@ namespace CarWorld
         #endregion
 
         #region [9] 인덱서: Indexer
-        public string this[int index]   // 인덱서:카탈로그 화
+        public string this[let index]   // 인덱서:카탈로그 화
         {
             get { return names[index]; }
             set { names[index] = value; }

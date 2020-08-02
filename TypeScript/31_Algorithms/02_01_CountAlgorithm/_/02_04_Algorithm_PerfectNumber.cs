@@ -5,16 +5,16 @@ class Algorithm_PerfectNumber
 {
     static void Main()
     {
-        int sum = 0; // 약수의 합계
-        int cnt = 0; // 완전수의 개수
-        int max = 0; // 가장 큰 약수
-        int rem = 0; // 나머지값 임시 보관
+        let sum = 0; // 약수의 합계
+        let cnt = 0; // 완전수의 개수
+        let max = 0; // 가장 큰 약수
+        let rem = 0; // 나머지값 임시 보관
 
-        for (int i = 1; i <= 10000; i++)
+        for (let i = 1; i <= 10000; i++)
         {
             sum = 0;        // 매 반복마다 0으로 초기화
             max = i / 2;    // 모든 짝수를 2로 나누면 가장 큰 약수
-            for (int j = 1; j <= max; j++)
+            for (let j = 1; j <= max; j++)
             {
                 rem = i - (i / j) * j;      // 나머지 = (자신 % 약수)
                 if (rem == 0)               // 약수 확인

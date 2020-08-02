@@ -14,13 +14,13 @@ class RecursionDemo
     }
 
     // 3항 연산자를 사용한 Factorial 구하기
-    static int Fact(int n)
+    static let Fact(let n)
     {
         return (n > 1) ? n * Fact(n - 1) : 1;
     }
 
     // 재귀 함수를 사용한 Factorial 함수 만들기: 단, 재귀함수는 Tree 구조 탐색에 유리
-    static int Factorial(int n)
+    static let Factorial(let n)
     {
         // 종료
         if (n == 0 || n == 1)
@@ -32,10 +32,10 @@ class RecursionDemo
     }
 
     // 단순한 Factorial은 이 방법이 좋음
-    static int FactorialFor(int n)
+    static let FactorialFor(let n)
     {
-        int result = 1;
-        for (int i = 1; i <= n; i++)
+        let result = 1;
+        for (let i = 1; i <= n; i++)
         {
             result *= i; // ((((1 * 1) * 2) * 3) * 4)
         }

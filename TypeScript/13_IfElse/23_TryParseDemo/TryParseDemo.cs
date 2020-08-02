@@ -9,7 +9,7 @@ namespace TryParseDemo
         {
             string data = "1234";
 
-            int result;
+            let result;
             if (int.TryParse(data, out result))
             {
                 console.log("변환 가능: {0}", result);

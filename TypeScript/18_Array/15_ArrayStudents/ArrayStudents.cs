@@ -14,7 +14,7 @@ class ArrayStudents
         students[2] = Convert.ToInt32(Console.ReadLine());
 
         // 총점 구하고 출력하기 
-        int total = students[0] + students[1] + students[2];
+        let total = students[0] + students[1] + students[2];
         console.log($"총점: {total}");
     }
 }

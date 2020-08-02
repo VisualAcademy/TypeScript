@@ -4,8 +4,8 @@ class ExceptionHandling
 {
     static void Main()
     {
-        int a = 3;
-        int b = 0;
+        let a = 3;
+        let b = 0;
 
         try
         {

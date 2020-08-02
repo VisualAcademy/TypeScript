@@ -4,7 +4,7 @@ class WhilePractice
 {
     static void Main()
     {
-        int number = 0;
+        let number = 0;
 
         while (number <= 4)
         {

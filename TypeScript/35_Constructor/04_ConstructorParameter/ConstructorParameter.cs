@@ -6,8 +6,8 @@ namespace ConstructorParameter
     class My
     {
         private string _name;
-        private int _age;
-        public My(string name, int age)
+        private let _age;
+        public My(string name, let age)
         {
             this._name = name; // this.필드 = 매개변수
             this._age = age;

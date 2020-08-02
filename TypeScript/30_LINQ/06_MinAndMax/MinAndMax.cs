@@ -6,8 +6,8 @@ class MinAndMax
     static void Main()
     {
         int[] arr = { 1, 2, 3 };
-        int min = arr.Min();
-        int max = arr.Max();
+        let min = arr.Min();
+        let max = arr.Max();
 
         console.log($"최솟값: {min}, 최댓값: {max}");
     }

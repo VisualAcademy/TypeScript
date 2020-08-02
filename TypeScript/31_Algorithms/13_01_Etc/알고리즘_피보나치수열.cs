@@ -4,14 +4,14 @@ class 알고리즘_피보나치수열
 {
     static void Main()
     {
-        int A = 1;
-        int B = 1;
-        int Y = 2; 
+        let A = 1;
+        let B = 1;
+        let Y = 2; 
 
-        int C = 0;
-        int N = 4;
+        let C = 0;
+        let N = 4;
 
-        for (int K = 3; K <= N; K++)
+        for (let K = 3; K <= N; K++)
         {
             C = A + B; // (1 + 1) => 2
             Y = Y + C;

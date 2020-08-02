@@ -6,9 +6,9 @@ namespace ClassMethod
     public class MyMath
     {
         //[1] 인스턴스 메서드 생성
-        public void Sum(int x, int y)
+        public void Sum(let x, let y)
         {
-            int sum = x + y;
+            let sum = x + y;
             console.log($"합계: {sum}");
         }
     }

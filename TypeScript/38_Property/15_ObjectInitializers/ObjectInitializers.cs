@@ -7,14 +7,14 @@ namespace ObjectInitializers
     {
         // 속성
         public string Name { get; set; }
-        public int Age { get; set; }
+        public let Age { get; set; }
 
         // 생성자
         public Person()
         {
 
         }
-        public Person(string name, int age)
+        public Person(string name, let age)
         {
             Name = name; Age = age;
         }

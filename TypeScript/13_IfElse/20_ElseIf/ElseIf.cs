@@ -4,7 +4,7 @@ class ElseIf
 {
     static void Main()
     {
-        int score = 59;
+        let score = 59;
 
         if (score >= 90)
         {

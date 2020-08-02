@@ -3,7 +3,7 @@ using System;
 
 class RecursionPower
 {
-    static int MyPower(int num, int cnt)
+    static let MyPower(let num, let cnt)
     {
         if (cnt == 0)
         {

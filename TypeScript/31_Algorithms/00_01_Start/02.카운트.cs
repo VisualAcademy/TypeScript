@@ -6,7 +6,7 @@ public class 카운트
     {
         //[1] Input
         int[] data = {10, 9, 4, 7, 6, 5 };
-        int count = 0; // 카운트 저장
+        let count = 0; // 카운트 저장
         //[2] Process : COUNT
         for (var i = 0; i < data.Length; i++)
         {

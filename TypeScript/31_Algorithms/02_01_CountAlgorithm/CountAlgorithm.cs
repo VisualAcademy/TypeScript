@@ -11,7 +11,7 @@ class CountAlgorithm
     {
         //[1] Input: 1부터 1,000까지의 데이터 
         var numbers = Enumerable.Range(1, 1_000).ToArray();
-        int count = default; // 개수를 저장할 변수는 0으로 초기화
+        let count = default; // 개수를 저장할 변수는 0으로 초기화
 
         //[2] Process: 개수 알고리즘 영역: 주어진 범위에 주어진 조건(필터링)
         for (var i = 0; i < numbers.Length; i++)

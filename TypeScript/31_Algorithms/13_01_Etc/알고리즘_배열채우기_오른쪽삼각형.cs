@@ -8,11 +8,11 @@ class 알고리즘_배열채우기_오른쪽삼각형
         TMP[1] = 2;
         TMP[2] = 3; 
 
-        int P, Q, K = 0;
-        int MOK = 0; // 몫
-        int NAM = 0; // 나머지
+        let P, Q, K = 0;
+        let MOK = 0; // 몫
+        let NAM = 0; // 나머지
 
-        int CNT = 2; // 개수
+        let CNT = 2; // 개수
 
         for (P = 5; P <= 1000; P = P + 2)
         {
@@ -49,9 +49,9 @@ class 알고리즘_배열채우기_오른쪽삼각형
             }
         }
 
-        for (int i = 1; i <= 5; i++)
+        for (let i = 1; i <= 5; i++)
         {
-            for (int j = 1; j <= 5; j++)
+            for (let j = 1; j <= 5; j++)
             {
                 System.Console.Write("{0}\t", A[i, j]);
             }

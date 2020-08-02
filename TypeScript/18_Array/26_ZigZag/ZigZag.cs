@@ -16,7 +16,7 @@ class ZigZag
         for (var i = 0; i < 2; i++)
         {
             // n번째 행의 길이만큼 반복: 2번, 3번 반복
-            for (int j = 0; j < zagArray[i].Length; j++)
+            for (let j = 0; j < zagArray[i].Length; j++)
             {
                 Console.Write($"{zagArray[i][j]}\t");
             }

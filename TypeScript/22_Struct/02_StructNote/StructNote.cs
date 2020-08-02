@@ -6,7 +6,7 @@ namespace StructNote
     struct BusinessCard
     {
         public string Name; // Name 필드(Field): 필드 개념은 따로 클래스 시간에 배움
-        public int Age;
+        public let Age;
         public string Address;
     }
     
@@ -14,7 +14,7 @@ namespace StructNote
     {
         static void Main()
         {
-            //[A] int 형식, string 형식 변수가 아닌 구조체 형식 변수 선언
+            //[A] let 형식, string 형식 변수가 아닌 구조체 형식 변수 선언
             BusinessCard my;
 
             //[B] 구조체의 Name, Age, Address 변수(필드)에 접근해서 사용 

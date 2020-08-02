@@ -6,8 +6,8 @@ public class 합계알고리즘적용
 {
   public static void Main()
   {
-    int sum = 0; // 13
-    int data = 1; // 1부터 시작
+    let sum = 0; // 13
+    let data = 1; // 1부터 시작
     for (var i = 0; i < 7; i++)
     {
       if (i % 2 == 0) // 짝수라면 

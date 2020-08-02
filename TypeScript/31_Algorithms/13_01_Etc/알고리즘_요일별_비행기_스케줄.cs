@@ -11,7 +11,7 @@ class 알고리즘_요일별_비행기_스케줄
         int[] WeekDeparture = { 0, 0, 0, 0, 0, 0, 0 };
         int[] LinkedDay = { 0, 0, 0, 0, 0, 0, 0 };
 
-        int i = 0;
+        let i = 0;
 
         while (i < 7)
         {
@@ -22,7 +22,7 @@ class 알고리즘_요일별_비행기_스케줄
 
             if (WeekArrival[i] == 1)
             {
-                int j = i + LinkedDay[i];
+                let j = i + LinkedDay[i];
                 j = j % 7;
                 WeekDeparture[j] = 1;
             }
@@ -30,7 +30,7 @@ class 알고리즘_요일별_비행기_스케줄
             i = i + 1;
         }
 
-        for (int j = 0; j < 7; j++)
+        for (let j = 0; j < 7; j++)
         {
             if (WeekDeparture[j] == 1)
             {

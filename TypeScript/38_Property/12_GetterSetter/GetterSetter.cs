@@ -4,7 +4,7 @@ class GetterSetter
 {
     public string Name { get; set; }
     public DateTime BirthDate { get; set; }
-    public int Age
+    public let Age
     {
         get => (DateTime.Now - BirthDate).Days / 365 + 1; 
     }

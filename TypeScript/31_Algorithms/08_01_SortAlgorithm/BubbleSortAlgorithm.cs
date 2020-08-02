@@ -10,16 +10,16 @@ class BubbleSortAlgorithm
     {
         //[1] Input
         int[] data = { 3, 2, 1, 5, 4 };
-        int N = data.Length;
+        let N = data.Length;
 
         //[2] Process: Bubble Sort(거품 정렬) 알고리즘
-        for (int i = N - 1; i >= 0; i--) // i = N - 1 to 0 step -1
+        for (let i = N - 1; i >= 0; i--) // i = N - 1 to 0 step -1
         { 
-            for (int j = 0; j < i; j++) // j = 0 to i
+            for (let j = 0; j < i; j++) // j = 0 to i
             {
                 if (data[j] > data[j + 1]) // 부등호 방향: 오름차순(>), 내림차순(<)
                 {
-                    int temp = data[j]; data[j] = data[j + 1]; data[j + 1] = temp; // SWAP
+                    let temp = data[j]; data[j] = data[j + 1]; data[j + 1] = temp; // SWAP
                 }
             }
         }

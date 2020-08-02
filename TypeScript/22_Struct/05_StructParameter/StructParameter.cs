@@ -6,7 +6,7 @@ namespace StructParameter
     struct Member
     {
         public string Name;
-        public int Age;
+        public let Age;
     }
 
     class StructParameter
@@ -15,7 +15,7 @@ namespace StructParameter
         {
             //[1] 변수 사용
             string name = "홍길동";
-            int age = 21;
+            let age = 21;
             Print(name, age); // 매개 변수를 따로 선언
 
             //[2] 구조체 사용 
@@ -25,7 +25,7 @@ namespace StructParameter
             Print(m); // 구조체 매개 변수를 사용하여 전달
         }
 
-        static void Print(string name, int age) =>
+        static void Print(string name, let age) =>
             console.log($"이름: {name}, 나이: {age}");
 
         static void Print(Member member) =>

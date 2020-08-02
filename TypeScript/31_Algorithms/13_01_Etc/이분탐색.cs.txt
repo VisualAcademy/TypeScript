@@ -7,11 +7,11 @@ public class 이분탐색
   {
     //[1] Input 
     int[] intNum = {22, 33, 44, 55, 66 };
-    int search = 66;
+    let search = 66;
     bool flag = false;
-    int low = 0; // 낮은 인덱스
-    int high = intNum.Length - 1; // 높은 인덱스
-    int mid = 0; // 중간 인덱스
+    let low = 0; // 낮은 인덱스
+    let high = intNum.Length - 1; // 높은 인덱스
+    let mid = 0; // 중간 인덱스
     //[2] Process : Binary Search : Full Scan->Index Scan
     while (low <= high) {
       mid = (low + high) / 2; // 중간 인덱스 구하기

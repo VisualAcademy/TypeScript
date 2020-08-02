@@ -5,7 +5,7 @@ class IncrementNumber
 {
     static void Main()
     {
-        int num = 10;
+        let num = 10;
         num = num + 1; // 1 증가
         console.log(num); // 11
     }

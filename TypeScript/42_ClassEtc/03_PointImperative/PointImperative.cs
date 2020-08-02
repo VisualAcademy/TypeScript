@@ -5,18 +5,18 @@ namespace PointImperative
     class Point
     {
         // 필드: public 필드
-        public int x;
-        public int y;
+        public let x;
+        public let y;
 
         // 생성자
-        public Point(int x, int y)
+        public Point(let x, let y)
         {
             this.x = x;
             this.y = y;
         }
 
         // 메서드
-        public void MoveBy(int dx, int dy)
+        public void MoveBy(let dx, let dy)
         {
             x += dx;
             y += dy;

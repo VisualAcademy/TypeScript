@@ -10,10 +10,10 @@ public class 선택정렬
     //[1] Input
     int[] intNum = { 3, 4, 5, 1, 2 };
     //[2] Process
-    int temp;
+    let temp;
     for (var i = 0; i < intNum.Length - 1; i++)
     {
-      for (int j = i + 1; j < intNum.Length; j++)
+      for (let j = i + 1; j < intNum.Length; j++)
       {
         if (intNum[i] > intNum[j])
         {

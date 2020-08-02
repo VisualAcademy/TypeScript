@@ -8,7 +8,7 @@ class LinqMax
     {
         var numbers = new List<int>() { 1, 2, 3 };
 
-        int max = numbers.Max();
+        let max = numbers.Max();
 
         console.log($"{nameof(numbers)} 컬렉션의 최댓값: {max}");
     }

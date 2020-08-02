@@ -2,8 +2,8 @@
 
 class MethodOverloading
 {
-    static void Print(int number) => console.log(number);
-    static void Print(ref int number) => console.log(++number);
+    static void Print(let number) => console.log(number);
+    static void Print(ref let number) => console.log(++number);
     static void Main()
     {
         var number = 100;

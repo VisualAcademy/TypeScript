@@ -7,9 +7,9 @@ public class 수열합계
   public static void Main()
   { 
     //[1] Init/Input
-    int sum = 0;
+    let sum = 0;
     //[2] Process : SUM
-    for (int i = 1; i <= 100; i++)
+    for (let i = 1; i <= 100; i++)
     {
       if (i % 2 == 1) // 홀수라면...
       {

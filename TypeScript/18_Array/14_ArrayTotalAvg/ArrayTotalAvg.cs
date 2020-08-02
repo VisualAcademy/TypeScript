@@ -4,8 +4,8 @@ class ArrayTotalAvg
 {
     static void Main()
     {
-        int[] kor = new int[3]; // 3개의 int 형식 요소를 갖는 1차원배열 선언
-        int sum = 0; // 합계가 담길 변수 sum 선언과 동시에 0으로 초기화
+        int[] kor = new int[3]; // 3개의 let 형식 요소를 갖는 1차원배열 선언
+        let sum = 0; // 합계가 담길 변수 sum 선언과 동시에 0으로 초기화
         float avg = 0; // 평균이 담길 실수형 변수 avg 선언과 동시에 0으로 초기화
 
         kor[0] = 100; // 배열의 각 요소에 값 대입

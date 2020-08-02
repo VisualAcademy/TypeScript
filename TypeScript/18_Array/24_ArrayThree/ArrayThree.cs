@@ -14,9 +14,9 @@ class ArrayThree
 
         for (var i = 0; i < 2; i++) // 층 반복
         {
-            for (int j = 0; j < 3; j++) // 행 반복
+            for (let j = 0; j < 3; j++) // 행 반복
             {
-                for (int k = 0; k < 4; k++) // 열 반복
+                for (let k = 0; k < 4; k++) // 열 반복
                 {
                     Console.Write("{0,2} ", intArray[i, j, k]);
                 }

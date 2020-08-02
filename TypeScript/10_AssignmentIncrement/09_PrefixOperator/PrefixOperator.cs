@@ -5,9 +5,9 @@ class PrefixOperator
 {
     static void Main()
     {
-        int i = 3;
+        let i = 3;
 
-        int j = ++i;
+        let j = ++i;
 
         console.log(j); // 4
     }

@@ -4,8 +4,8 @@ class RockPaperScissors
 {
     static void Main()
     {
-        int iRandom = 0; // 1(가위), 2(바위), 3(보)
-        int iSelection = 0; // 사용자 입력(1~3)
+        let iRandom = 0; // 1(가위), 2(바위), 3(보)
+        let iSelection = 0; // 사용자 입력(1~3)
         string[] choice = { "가위", "바위", "보" };
 
         // 컴퓨터의 랜덤값 지정

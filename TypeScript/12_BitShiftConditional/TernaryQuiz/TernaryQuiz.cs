@@ -4,8 +4,8 @@ class TernaryQuiz
 {
     static void Main()
     {
-        int one = 1;
-        int two = 2;
+        let one = 1;
+        let two = 2;
 
         two = (one > 1) ? 1111 : 2222;
 

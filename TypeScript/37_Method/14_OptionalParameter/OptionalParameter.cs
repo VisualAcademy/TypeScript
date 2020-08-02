@@ -18,7 +18,7 @@ class OptionalParameter
         console.log(Sum(second: 50)); // [7] 10 + 50
     }
 
-    static int Sum(int first = 10, int second = 20)
+    static let Sum(let first = 10, let second = 20)
     {
         return first + second;
     }

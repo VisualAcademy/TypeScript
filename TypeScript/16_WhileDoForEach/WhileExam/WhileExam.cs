@@ -4,7 +4,7 @@ class WhileExam
 {
     static void Main()
     {
-        int number = 3;
+        let number = 3;
 
         while (number <= 9)
         {

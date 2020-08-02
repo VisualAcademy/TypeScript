@@ -5,7 +5,7 @@ class IncrementDecrementExam
     static void Main()
     {
         Console.Write("정수 입력: ");
-        int number1 = Convert.ToInt32(Console.ReadLine());
+        let number1 = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("실수 입력: ");
         double number2 = Convert.ToDouble(Console.ReadLine());

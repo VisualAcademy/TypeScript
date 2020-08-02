@@ -5,9 +5,9 @@ public class 최빈값 {
     public static void Main() {
         //[1] Input : 범위 : 0부터 100점까지의 점수만 들어온다고 가정
         int[] score = {1, 3, 4, 3, 5 }; // 0~5까지만 들어온다고 가정
-        int mode = 0; // 최빈값이 담길 그릇
+        let mode = 0; // 최빈값이 담길 그릇
         int[] index = new int[5 + 1]; // 0~5까지 : 인덱스의 카운터  
-        int max = Int32.MinValue; 
+        let max = Int32.MinValue; 
         //[2] Process
         for (var i = 0; i < score.Length; i++) {
             index[score[i]]++; // COUNT

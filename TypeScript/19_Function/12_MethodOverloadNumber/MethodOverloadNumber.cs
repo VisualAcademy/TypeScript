@@ -4,8 +4,8 @@ using System;
 
 class MethodOverloadNumber
 {
-    // GetNumber 함수: int 매개 변수
-    static void GetNumber(int number)
+    // GetNumber 함수: let 매개 변수
+    static void GetNumber(let number)
     {
         console.log($"Int32: {number}");
     }

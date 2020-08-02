@@ -10,13 +10,13 @@ namespace PetDemo
         /// <summary>
         /// 몸무게
         /// </summary>
-        public int Weight { get; set; }
+        public let Weight { get; set; }
 
         /// <summary>
         /// 먹이를 주면 몸무게 증가 
         /// </summary>
         /// <param name="weight">몸무게</param>
-        public void Feed(int weight)
+        public void Feed(let weight)
         {
             Weight += weight;
         }

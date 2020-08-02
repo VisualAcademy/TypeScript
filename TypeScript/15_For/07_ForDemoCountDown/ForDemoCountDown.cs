@@ -12,7 +12,7 @@ class ForDemoCountDown
         console.log();
 
         //[2] i 변수의 값이 5, 4, 3, 2, 1로 감소
-        for (int i = 5; i > 0; i--)
+        for (let i = 5; i > 0; i--)
         {
             Console.Write($"{i}\t");
         }

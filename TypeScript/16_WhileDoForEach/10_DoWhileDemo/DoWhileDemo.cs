@@ -5,10 +5,10 @@ class DoWhileDemo
     static void Main()
     {
         //[!] 1 ~ 100까지 3의 배수이고 그리고 4의 배수인 정수의 합
-        int sum = 0;
+        let sum = 0;
 
         //[2] Process : 알고리즘(Algorithm): 주어진 범위 + 주어진 조건
-        int i = 1;                                  // 초기식
+        let i = 1;                                  // 초기식
         do
         {
             if (i % 3 == 0 && i % 4 == 0)           // 필터링(조건식)

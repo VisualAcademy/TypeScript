@@ -10,7 +10,7 @@ class TupleReturnDescription
     }
 
     //[2] 튜플 리턴에 이름 값 지정 가능
-    static (int Sum, int Count) Tally2() => (45, 6); 
+    static (let Sum, let Count) Tally2() => (45, 6); 
 
     static void Main()
     {

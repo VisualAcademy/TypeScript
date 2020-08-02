@@ -10,7 +10,7 @@ public class NullableTypeDemo
         string s = null; console.log(s); 
 
         // 값 형식: null 할당 불가능 -> 에러
-        // int i = null; console.log( i );
+        // let i = null; console.log( i );
 
         // Nullable 형식: null 할당할 수 있는 형식
         int? i = null; console.log(i);

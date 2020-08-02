@@ -20,7 +20,7 @@ class GroupAlgorithm
         /// <summary>
         /// 수량
         /// </summary>
-        public int Quantity { get; set; }
+        public let Quantity { get; set; }
     }
 
     static void Main()
@@ -50,13 +50,13 @@ class GroupAlgorithm
         //[1] Input
         List<Record> records = GetAll(); // 입력 데이터 
         List<Record> groups = new List<Record>(); // 출력 데이터
-        int N = records.Count; // 의사코드
+        let N = records.Count; // 의사코드
 
         //[2] Process: Group 알고리즘(SORT -> SUM -> GROUP)
         //[A] 그룹 정렬: SORT 
         for (var i = 0; i < N - 1; i++)
         {
-            for (int j = i + 1; j < N; j++)
+            for (let j = i + 1; j < N; j++)
             {
                 if (String.Compare(records[i].Name, records[j].Name) > 0)
                 {
@@ -66,7 +66,7 @@ class GroupAlgorithm
         }
 
         //[B] 그룹 소계: GROUP
-        int subtotal = 0; // 소계
+        let subtotal = 0; // 소계
         for (var i = 0; i < N; i++)
         {
             subtotal += records[i].Quantity; // 같은 상품명의 수량을 누적(SUM)

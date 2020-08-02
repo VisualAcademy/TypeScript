@@ -4,10 +4,10 @@ class 차이
 {
     static void Main()
     {
-        int num1 = 3;
-        int num2 = 5;
+        let num1 = 3;
+        let num2 = 5;
 
-        int diff = 0; // 차이 구하기
+        let diff = 0; // 차이 구하기
 
         if (num1 > num2)
         {

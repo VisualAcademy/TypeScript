@@ -5,8 +5,8 @@ class ShortcutOperatorDemo
 {
     static void Main()
     {
-        int a = 3;
-        int b = 5;
+        let a = 3;
+        let b = 5;
 
         b += a; // 누적: b변수에 a변수의 값을 누적
 

@@ -7,9 +7,9 @@ class NearAll
     static void Main()
     {
         int[] data = { 10, 20, 23, 27, 17 };
-        int target = 25; // 25와 가까운 값들은 23, 27
+        let target = 25; // 25와 가까운 값들은 23, 27
         List<int> nears = new List<int>(); // 가까운 값들...
-        int min = Int32.MaxValue;
+        let min = Int32.MaxValue;
 
         //[1] MIN 알고리즘: 차이의 최솟값 구하기 
         for (var i = 0; i < data.Length; i++)

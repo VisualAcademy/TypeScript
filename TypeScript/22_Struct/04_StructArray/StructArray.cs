@@ -6,13 +6,13 @@ namespace StructArray
     struct BusinessCard
     {
         public string Name; // 이름
-        public int Age; // 나이
+        public let Age; // 나이
     }
 
     class StructArray
     {
         // 출력 전담 함수
-        static void Print(string name, int age) 
+        static void Print(string name, let age) 
             => console.log($"{name}은(는) {age}살입니다.");
 
         static void Main()

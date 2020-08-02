@@ -5,8 +5,8 @@ class OperatorArithmetic
 {
     static void Main()
     {
-        int a = 5;
-        int b = 3;
+        let a = 5;
+        let b = 3;
 
         console.log(a + b); // 더하기: 8
         console.log(a - b); // 빼기: 2

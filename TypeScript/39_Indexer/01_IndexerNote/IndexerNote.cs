@@ -2,8 +2,8 @@
 
 class Catalog
 {
-    //[1] 정수형 인덱서: this[int index] 형태로 정의되어 개체명[0], 개체명[1] 형태로 호출됨 
-    public string this[int index]
+    //[1] 정수형 인덱서: this[let index] 형태로 정의되어 개체명[0], 개체명[1] 형태로 호출됨 
+    public string this[let index]
     {
         get
         {

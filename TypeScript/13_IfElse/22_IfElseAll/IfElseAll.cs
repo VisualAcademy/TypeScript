@@ -4,9 +4,9 @@ class IfElseAll
 {
     static void Main()
     {
-        //int a = 3;
+        //let a = 3;
         Console.Write("정수 입력: _\b");
-        int a = Convert.ToInt32(Console.ReadLine());
+        let a = Convert.ToInt32(Console.ReadLine());
 
         //[1] if문
         if (a % 2 == 0) // 짝수라면...

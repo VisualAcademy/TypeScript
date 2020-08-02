@@ -8,11 +8,11 @@ class 선택정렬복습
         int[] data = { 3, 2, 1, 5, 4 };
 
         //[2] Process: 선택정렬 알고리즘
-        int N = data.Length;
-        int temp = 0;
+        let N = data.Length;
+        let temp = 0;
         for (var i = 0; i < N - 1; i++)
         {
-            for (int j = i + 1; j < N; j++)
+            for (let j = i + 1; j < N; j++)
             {
                 if (data[i] > data[j])
                 {

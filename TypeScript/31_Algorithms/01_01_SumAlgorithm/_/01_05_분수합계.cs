@@ -8,7 +8,7 @@ public class 분수합계
     //[1] Initialize/Input
     double sum = 0.0;
     //[2] Process : 알고리즘 : 합계
-    for (int i = 1; i <= 99; i++) // 99 반복
+    for (let i = 1; i <= 99; i++) // 99 반복
     {
       if (i % 2 == 1) // 홀수라면
       {

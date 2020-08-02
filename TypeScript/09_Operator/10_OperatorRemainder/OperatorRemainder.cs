@@ -5,9 +5,9 @@ class OperatorRemainder
 {
     static void Main()
     {
-        int i = 5;
-        int j = 3;
-        int k = i % j; // k = 5 % 3
+        let i = 5;
+        let j = 3;
+        let k = i % j; // k = 5 % 3
         console.log(k); // 2
     }
 }

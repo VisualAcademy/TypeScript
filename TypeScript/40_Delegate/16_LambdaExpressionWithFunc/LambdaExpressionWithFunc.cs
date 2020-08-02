@@ -15,7 +15,7 @@ class LambdaExpressionWithFunc
         Func<int> getNumber2 = () => 1234;
         console.log(getNumber2());
 
-        Func<int, int> addOne1 = delegate (int x) { return x + 1; };
+        Func<int, int> addOne1 = delegate (let x) { return x + 1; };
         console.log(addOne1(10));
 
         Func<int, int> addOne2 = x => x + 1;

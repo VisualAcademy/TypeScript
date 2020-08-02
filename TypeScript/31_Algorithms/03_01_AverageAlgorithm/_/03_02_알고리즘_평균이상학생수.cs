@@ -8,10 +8,10 @@ class 알고리즘_평균이상학생수
     {
         int[] t = { 100, 90, 80, 70, 60 };
 
-        int sum = 0; // 총점            
+        let sum = 0; // 총점            
         double avg = 0.0; // 평균
 
-        int count = 0; // 학생수(평균 이상)
+        let count = 0; // 학생수(평균 이상)
 
         // 합계 알고리즘
         for (var i = 0; i < t.Length; i++)
