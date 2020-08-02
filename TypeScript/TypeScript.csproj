@@ -345,7 +345,6 @@
     <Content Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.js" />
     <Content Include="00_Prepare\UnionType\UnionType.js" />
     <Content Include="00_Prepare\VariableExample\VariableExample.js" />
-    <Content Include="00_Prepare\Variable\Variable.js" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js" />
     <Content Include="01_DotNet\01_SeeSharp.txt" />
@@ -504,7 +503,7 @@
     <TypeScriptCompile Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.ts" />
     <TypeScriptCompile Include="00_Prepare\UnionType\UnionType.ts" />
     <TypeScriptCompile Include="00_Prepare\VariableExample\VariableExample.ts" />
-    <TypeScriptCompile Include="00_Prepare\Variable\Variable.ts" />
+    <TypeScriptCompile Include="05_Variable\Variable.ts" />
     <TypeScriptCompile Include="00_Prepare\VarLet\VarLet_1.ts" />
     <TypeScriptCompile Include="00_Prepare\VarLet\VarLet_2.ts" />
     <TypeScriptCompile Include="03_HelloWorld\03_12_CaseSensitive\CaseSensitive.ts" />
@@ -1383,7 +1382,6 @@
     <Content Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.js.map" />
     <Content Include="00_Prepare\UnionType\UnionType.js.map" />
     <Content Include="00_Prepare\VariableExample\VariableExample.js.map" />
-    <Content Include="00_Prepare\Variable\Variable.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
     <None Include="packages.config" />
