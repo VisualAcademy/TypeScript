@@ -1,0 +1,1 @@
+{"version":3,"file":"AssignmentOperator.js","sourceRoot":"","sources":["AssignmentOperator.ts"],"names":[],"mappings":"AAAA,qDAAqD;AACrD,IAAU,kBAAkB,CAK3B;AALD,WAAU,kBAAkB;IACxB,IAAI,IAAI,GAAG,YAAY,CAAC,CAAC,uBAAuB;IAChD,IAAI,OAAO,GAAG,GAAG,CAAC,CAAC,yBAAyB;IAE5C,OAAO,CAAC,GAAG,CAAI,IAAI,SAAI,OAAS,CAAC,CAAC;AACtC,CAAC,EALS,kBAAkB,KAAlB,kBAAkB,QAK3B"}

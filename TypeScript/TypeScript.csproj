@@ -472,6 +472,7 @@
     <TypeScriptCompile Include="07_BoolCharString\EscapeSequenceDemo\EscapeSequenceDemo.ts" />
     <TypeScriptCompile Include="08_Dialog\01_AlertDemo\AlertDemo.ts" />
     <TypeScriptCompile Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.ts" />
+    <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
@@ -619,8 +620,8 @@
     <Compile Include="09_Operator\ArithmeticExam\ArithmeticExam.cs" />
     <Compile Include="09_Operator\OperatorQuiz\OperatorQuiz.cs" />
     <Compile Include="09_Operator\OperatorRemainderPractice\OperatorRemainderPractice.cs" />
-    <Compile Include="10_AssignmentIncrement\01_AssignmentOperator\AssignmentOperator.cs" />
-    <Compile Include="10_AssignmentIncrement\02_SwapDemo\SwapDemo.cs" />
+    <TypeScriptCompile Include="10_AssignmentIncrement\01_AssignmentOperator\AssignmentOperator.ts" />
+    <TypeScriptCompile Include="10_AssignmentIncrement\02_SwapDemo\SwapDemo.ts" />
     <Compile Include="10_AssignmentIncrement\03_IncrementNumber\IncrementNumber.cs" />
     <Compile Include="10_AssignmentIncrement\04_DecrementNumber\DecrementNumber.cs" />
     <Compile Include="10_AssignmentIncrement\05_ShortcutOperator\ShortcutOperator.cs" />
