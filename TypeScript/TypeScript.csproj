@@ -473,6 +473,7 @@
     <TypeScriptCompile Include="08_Dialog\01_AlertDemo\AlertDemo.ts" />
     <TypeScriptCompile Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.ts" />
     <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
+    <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
