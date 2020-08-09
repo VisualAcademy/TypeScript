@@ -1106,7 +1106,7 @@
     <Compile Include="37_Method\MethodMyMath\MethodMyMath.cs" />
     <Compile Include="37_Method\OptionalParameterNamedArgument\OptionalParameterNamedArgument.cs" />
     <Compile Include="37_Method\ParameterParams\ParameterParams.cs" />
-    <Compile Include="38_Property\01_Property\Property.cs" />
+    <TypeScriptCompile Include="38_Property\01_Property\Property.ts" />
     <Compile Include="38_Property\02_PropertyFull\PropertyFull.cs" />
     <Compile Include="38_Property\03_AutomaticallyImplementedProperty\AutomaticallyImplementedProperty.cs" />
     <Compile Include="38_Property\04_PropertyAutoImplemented\PropertyAutoImplemented.cs" />
