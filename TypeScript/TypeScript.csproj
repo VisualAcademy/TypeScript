@@ -473,8 +473,9 @@
     <TypeScriptCompile Include="08_Dialog\01_AlertDemo\AlertDemo.ts" />
     <TypeScriptCompile Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.ts" />
     <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
+    <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
-    <TypeScriptCompile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.ts" />
+    <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword\LetKeyword.ts" />
@@ -932,8 +933,8 @@
     <Compile Include="30_LINQ\04_LinqMax\LinqMax.cs" />
     <Compile Include="30_LINQ\05_LinqMin\LinqMin.cs" />
     <Compile Include="30_LINQ\06_MinAndMax\MinAndMax.cs" />
-    <Compile Include="30_LINQ\07_LinqWhere\LinqWhere.cs" />
-    <Compile Include="30_LINQ\08_LinqWhereToList\LinqWhereToList.cs" />
+    <TypeScriptCompile Include="30_LINQ\07_LinqWhere\LinqWhere.ts" />
+    <TypeScriptCompile Include="30_LINQ\08_LinqWhereToList\LinqWhereToList.ts" />
     <Compile Include="30_LINQ\09_LinqSumEven\LinqSumEven.cs" />
     <Compile Include="30_LINQ\10_LinqSumOdd\LinqSumOdd.cs" />
     <Compile Include="30_LINQ\11_LinqWhereMethod\LinqWhereMethod.cs" />
@@ -1178,10 +1179,9 @@
     <Compile Include="42_ClassEtc\05_ImmutableTypeDemo\ImmutableTypeDemo.cs" />
     <Compile Include="42_ClassEtc\OperatorOverload\OperatorOverload.cs" />
     <Compile Include="42_ClassEtc\PartialClassPerson\PartialClassPerson.cs" />
-    <Compile Include="43_Inheritance\01_IhheritanceDemo\InheritanceDemo.cs" />
     <Compile Include="43_Inheritance\02_BaseSub\BaseSub.cs" />
     <Compile Include="43_Inheritance\03_ObjectClass\ObjectClass.cs" />
-    <Compile Include="43_Inheritance\04_InheritancePractice\InheritancePractice.cs" />
+    <TypeScriptCompile Include="43_Inheritance\04_InheritancePractice\InheritancePractice.ts" />
     <Compile Include="43_Inheritance\05_IsAn\IsAn.cs" />
     <Compile Include="43_Inheritance\06_ClassInheritance\ClassInheritance.cs" />
     <Compile Include="43_Inheritance\07_ConstructorBase\ConstructorBase.cs" />
