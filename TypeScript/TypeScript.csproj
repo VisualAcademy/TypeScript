@@ -673,8 +673,8 @@
     <Compile Include="12_BitShiftConditional\TernaryQuiz\TernaryQuiz.cs" />
     <TypeScriptCompile Include="13_IfElse\01_SequenceDemo\SequenceDemo.ts" />
     <TypeScriptCompile Include="13_IfElse\03_If\If.ts" />
-    <TypeScriptCompile Include="13_IfElse\IfDemo.ts" />
-    <Compile Include="13_IfElse\05_StringCompare\StringCompare.cs" />
+    <TypeScriptCompile Include="13_IfElse\04_IfDemo\IfDemo.ts" />
+    <TypeScriptCompile Include="13_IfElse\05_StringCompare\StringCompare.ts" />
     <Compile Include="13_IfElse\06_IfNot\IfNot.cs" />
     <Compile Include="13_IfElse\07_IfNested\IfNested.cs" />
     <Compile Include="13_IfElse\08_IfAnd\IfAnd.cs" />
@@ -1412,7 +1412,6 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="13_IfElse\04_IfDemo\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
   </ItemGroup>
   <PropertyGroup>

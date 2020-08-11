@@ -14,3 +14,4 @@ var SingleMultiple;
         console.log("복문 B");
     }
 })(SingleMultiple || (SingleMultiple = {}));
+//# sourceMappingURL=SingleMultiple.js.map
