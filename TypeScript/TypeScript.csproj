@@ -672,7 +672,7 @@
     <Compile Include="12_BitShiftConditional\TernaryPractice\TernaryPractice.cs" />
     <Compile Include="12_BitShiftConditional\TernaryQuiz\TernaryQuiz.cs" />
     <TypeScriptCompile Include="13_IfElse\01_SequenceDemo\SequenceDemo.ts" />
-    <Compile Include="13_IfElse\03_If\If.cs" />
+    <TypeScriptCompile Include="13_IfElse\03_If\If.ts" />
     <Compile Include="13_IfElse\04_IfDemo\IfDemo.cs" />
     <Compile Include="13_IfElse\05_StringCompare\StringCompare.cs" />
     <Compile Include="13_IfElse\06_IfNot\IfNot.cs" />
