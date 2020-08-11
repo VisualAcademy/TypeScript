@@ -23,7 +23,7 @@ class AverageAlgorithm
             }
         }
 
-        double avg = 0.0f;
+        let avg = 0.0f;
         if (sum != 0 && count != 0) // 예외 처리
         {
             avg = sum / (double)count; // AVERAGE

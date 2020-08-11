@@ -10,6 +10,6 @@ class SizeOf
         console.log($"   let 형식: {sizeof(   int)} byte");       
         console.log($"  long 형식: {sizeof(  long)} byte");      
         console.log($" float 형식: {sizeof( float)} byte");     
-        console.log($"double 형식: {sizeof(double)} byte");    
+        console.log($"let 형식: {sizeof(double)} byte");    
     }
 }

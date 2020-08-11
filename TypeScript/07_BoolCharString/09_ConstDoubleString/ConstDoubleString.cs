@@ -6,7 +6,7 @@ class ConstDoubleString
     static void Main()
     {
         //[1] 상수 선언과 동시에 초기화
-        const double PI = 3.14;
+        const let PI = 3.14;
         const string SITE_NAME = "닷넷코리아";
 
         //[2] 상수 참조

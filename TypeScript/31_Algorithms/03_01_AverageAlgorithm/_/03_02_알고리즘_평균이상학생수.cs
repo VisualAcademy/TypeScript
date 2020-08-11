@@ -9,7 +9,7 @@ class 알고리즘_평균이상학생수
         int[] t = { 100, 90, 80, 70, 60 };
 
         let sum = 0; // 총점            
-        double avg = 0.0; // 평균
+        let avg = 0.0; // 평균
 
         let count = 0; // 학생수(평균 이상)
 

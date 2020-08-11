@@ -11,7 +11,7 @@ public class 합계카운트평균
     int[] intNum = { 2, 5, 3, 1, 4 };
     let sum = 0;
     let count = 0;
-    double avg = 0.0;
+    let avg = 0.0;
     //[2] Process:알고리즘(문제해결능력):SUM,COUNT,AVG
     for (var i = 0; i < intNum.Length; i++)
     {

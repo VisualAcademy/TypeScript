@@ -4,7 +4,7 @@ class IfElse
 {
     static void Main()
     {
-        double pi = 3.14;
+        let pi = 3.14;
 
         if (pi == 3.14)
         {

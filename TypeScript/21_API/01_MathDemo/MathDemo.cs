@@ -79,7 +79,7 @@ class MathDemo
     /// <param name="a"></param>
     /// <param name="b"></param>
     /// <returns></returns>
-    public static double MyRound(double a, let b)
+    public static let MyRound(let a, let b)
     {
         if (b == 0) // 3.14 -> 3.0
         {

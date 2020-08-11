@@ -14,7 +14,7 @@ class StringBuilderPerformance
         }
 
         DateTime end = DateTime.Now;
-        double exec = (end - start).TotalMilliseconds;
+        let exec = (end - start).TotalMilliseconds;
         console.log(exec); // 1
     }
 }

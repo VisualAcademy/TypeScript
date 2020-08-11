@@ -16,7 +16,7 @@ class Constant
         console.log($"{name} - {age}");
 
         // 상수는 일반적으로 대문자 형태로 표현함
-        const double PI = 3.14;
+        const let PI = 3.14;
         const string SITE_NAME = "닷넷코리아";
 
         console.log("{0}", PI);

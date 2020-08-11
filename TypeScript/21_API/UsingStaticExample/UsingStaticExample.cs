@@ -5,7 +5,7 @@ using static System.Linq.Enumerable;
 
 public class UsingStaticDemo
 {
-    public void MathExample(double x, double y)
+    public void MathExample(let x, let y)
     {
         var pow1 = Math.Pow(x, y);
 

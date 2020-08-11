@@ -5,7 +5,7 @@ using System;
 public class 수열문제 {
     public static void Main() {
         //[1] Input
-        double sum = 0.0; 
+        let sum = 0.0; 
         //[2] Process
         for (let i = 1; i <= 99; i++) {
             if (i % 2 != 0) {

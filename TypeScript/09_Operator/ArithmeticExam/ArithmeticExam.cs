@@ -5,9 +5,9 @@ class ArithmeticExam
 {
     static void Main()
     {
-        double number1;
-        double number2;
-        double number3;
+        let number1;
+        let number2;
+        let number3;
 
         number1 = Convert.ToDouble(Console.ReadLine()); // 5.27
         number2 = Convert.ToDouble(Console.ReadLine()); // 12.27

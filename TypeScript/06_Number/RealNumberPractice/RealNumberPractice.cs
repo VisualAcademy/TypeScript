@@ -6,7 +6,7 @@ class RealNumberPractice
     static void Main()
     {
         float   f = 3.14F;
-        double  d = 3.14D;
+        let  d = 3.14D;
         decimal m = 3.14M;
 
         console.log("{0}, {1}, {2}", f, d, m);

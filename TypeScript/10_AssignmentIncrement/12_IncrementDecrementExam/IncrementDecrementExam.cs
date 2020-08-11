@@ -8,7 +8,7 @@ class IncrementDecrementExam
         let number1 = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("실수 입력: ");
-        double number2 = Convert.ToDouble(Console.ReadLine());
+        let number2 = Convert.ToDouble(Console.ReadLine());
 
         number1++;
         number2--;

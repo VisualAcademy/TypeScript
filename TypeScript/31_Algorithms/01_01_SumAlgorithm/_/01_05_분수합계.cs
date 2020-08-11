@@ -6,7 +6,7 @@ public class 분수합계
   public static void Main()
   { 
     //[1] Initialize/Input
-    double sum = 0.0;
+    let sum = 0.0;
     //[2] Process : 알고리즘 : 합계
     for (let i = 1; i <= 99; i++) // 99 반복
     {

@@ -7,7 +7,7 @@ class LinqAverage
     {
         int[] numbers = { 1, 3, 4 };
 
-        double average = numbers.Average();
+        let average = numbers.Average();
 
         WriteLine($"{nameof(numbers)} 배열 요소의 평균: {average:#,###.##}");
     }

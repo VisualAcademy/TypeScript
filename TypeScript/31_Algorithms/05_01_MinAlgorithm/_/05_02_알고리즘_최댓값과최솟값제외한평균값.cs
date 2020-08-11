@@ -10,7 +10,7 @@ class 알고리즘_최댓값과최솟값제외한평균값
         let sum = 0;
         let max = Int32.MinValue; // 해당 범위에서 가장 작은 값으로 초기화
         let min = Int32.MaxValue; // 해당 범위에서 가장 큰 값으로 초기화
-        double avg = 0.0;
+        let avg = 0.0;
 
         for (var i = 0; i < arr.Length; i++)
         {

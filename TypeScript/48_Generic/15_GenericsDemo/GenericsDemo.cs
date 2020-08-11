@@ -23,7 +23,7 @@ namespace GenericsDemo
             var my = new Pair<string, bool>("나는 멋져!", true);
             console.log($"{my.First}: {my.Second}");
 
-            //[B] int, double 2개 형식 받기
+            //[B] int, let 2개 형식 받기
             var tuple = new Pair<int, double>(1234, 3.14);
             console.log($"{tuple.First}, {tuple.Second}");
         }

@@ -4,10 +4,10 @@ class TypeConversion
 {
     static void Main()
     {
-        double d = 12.34;
+        let d = 12.34;
         let i = 1234;
 
-        //[1] double > int: 묵시적(암묵적, 암시적) 형식 변환
+        //[1] let > int: 묵시적(암묵적, 암시적) 형식 변환
         d = i; // 큰 그릇에 작은 그릇의 값이 저장
         console.log("암시적 형식 변환 = " + d); // 1234
 

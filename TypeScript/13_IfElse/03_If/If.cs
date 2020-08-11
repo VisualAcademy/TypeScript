@@ -1,6 +1,6 @@
 ﻿using System;
 
-class If
+namespace If
 {
     static void Main()
     {

@@ -8,7 +8,7 @@ class Var
         var name = "C#"; // string 형식으로 변환해줌
         console.log(name); // C#
 
-        var version = 8.0; // double 형식으로 변환해줌
+        var version = 8.0; // let 형식으로 변환해줌
         console.log("{0:0.0}", version); // 8.0
     }
 }

@@ -11,7 +11,7 @@ public class Circle
         _radius = radius;
     }
 
-    public double GetArea()
+    public let GetArea()
     {
         // 원의 면적을 구하는 공식
         return Math.PI * _radius * _radius; 

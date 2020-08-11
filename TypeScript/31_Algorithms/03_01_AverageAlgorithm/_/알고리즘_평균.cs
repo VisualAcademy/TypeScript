@@ -8,7 +8,7 @@ public class 알고리즘_평균
         int[] data = { 50, 65, 78, 90, 95 };
         let sum = 0;
         let count = 0;
-        double avg = 0.0; // 평균이 저장될 변수
+        let avg = 0.0; // 평균이 저장될 변수
 
         //[2] 처리 : AVG = SUM / COUNT
         for (var i = 0; i < data.Length; i++)

@@ -5,9 +5,9 @@ class OperatorDivide
 {
     static void Main()
     {
-        double i = 1.5;
-        double j = 0.5;
-        double k = i / j; // k = 1.5 / 0.5
+        let i = 1.5;
+        let j = 0.5;
+        let k = i / j; // k = 1.5 / 0.5
         console.log(k); // 3
     }
 }

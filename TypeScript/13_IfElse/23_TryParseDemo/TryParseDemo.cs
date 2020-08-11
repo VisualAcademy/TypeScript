@@ -19,7 +19,7 @@ namespace TryParseDemo
                 console.log("변환 불가");
             }
 
-            double d;
+            let d;
             if (Double.TryParse(data, out d))
             {
                 console.log("변환 가능: {0}", d);

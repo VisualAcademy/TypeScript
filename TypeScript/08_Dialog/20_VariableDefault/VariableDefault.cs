@@ -5,7 +5,7 @@ class VariableDefault
     static void Main()
     {
         let i = default;
-        double d = default;
+        let d = default;
         char c = default;
         string s = default;
         console.log($"[{i}], [{d}], [{c}], [{s}]");

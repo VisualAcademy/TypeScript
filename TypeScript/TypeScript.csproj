@@ -473,6 +473,7 @@
     <TypeScriptCompile Include="08_Dialog\01_AlertDemo\AlertDemo.ts" />
     <TypeScriptCompile Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.ts" />
     <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
+    <TypeScriptCompile Include="13_IfElse\02_SingleMultiple\SingleMultiple.ts" />
     <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
@@ -670,8 +671,7 @@
     <Compile Include="12_BitShiftConditional\TernaryExam\TernaryExam.cs" />
     <Compile Include="12_BitShiftConditional\TernaryPractice\TernaryPractice.cs" />
     <Compile Include="12_BitShiftConditional\TernaryQuiz\TernaryQuiz.cs" />
-    <Compile Include="13_IfElse\01_SequenceDemo\SequenceDemo.cs" />
-    <Compile Include="13_IfElse\02_SingleMultiple\SingleMultiple.cs" />
+    <TypeScriptCompile Include="13_IfElse\01_SequenceDemo\SequenceDemo.ts" />
     <Compile Include="13_IfElse\03_If\If.cs" />
     <Compile Include="13_IfElse\04_IfDemo\IfDemo.cs" />
     <Compile Include="13_IfElse\05_StringCompare\StringCompare.cs" />
