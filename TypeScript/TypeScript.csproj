@@ -337,7 +337,7 @@
     <Content Include="00_Prepare\PalgakCom\팀_후수면 차의 점수가 1점 더 높게 부여_한에서 대차하면 초에서 피하는게 기본.txt" />
     <Content Include="00_Prepare\Property\Property.js" />
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js" />
-    <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js" />
+    <Content Include="07_BoolCharString\StringInterpolation\StringInterpolation.js" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js" />
     <Content Include="00_Prepare\TypeAssertion\TypeAssertion.js" />
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js" />
@@ -499,7 +499,7 @@
     <TypeScriptCompile Include="37_Method\07_ParamsDemo\ParamsDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\Property\Property.ts" />
     <TypeScriptCompile Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.ts" />
-    <TypeScriptCompile Include="00_Prepare\StringInterpolation\StringInterpolation.ts" />
+    <TypeScriptCompile Include="07_BoolCharString\StringInterpolation\StringInterpolation.ts" />
     <TypeScriptCompile Include="00_Prepare\TemplateString\TemplateString.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeAssertion\TypeAssertion.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.ts" />
@@ -1376,7 +1376,7 @@
     <Content Include="00_Prepare\PalgakCom\lib\jquery\dist\jquery.min.map" />
     <Content Include="00_Prepare\Property\Property.js.map" />
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js.map" />
-    <Content Include="00_Prepare\StringInterpolation\StringInterpolation.js.map" />
+    <Content Include="07_BoolCharString\StringInterpolation\StringInterpolation.js.map" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js.map" />
     <Content Include="00_Prepare\TypeAssertion\TypeAssertion.js.map" />
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js.map" />

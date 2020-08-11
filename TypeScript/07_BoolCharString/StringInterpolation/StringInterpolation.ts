@@ -1,7 +1,7 @@
 ﻿// TypeScript의 문자열 보간
 
 // 문자열 보간(String Interpolation)
-let message = "String Interpolation";
+const message = "String Interpolation";
 
 console.log("Message: " + message); 
 console.log(`Message: ${message}`); // 백틱 기호(`)
