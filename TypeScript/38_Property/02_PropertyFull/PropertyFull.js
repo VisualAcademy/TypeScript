@@ -12,7 +12,7 @@ var PropertyFull;
             set: function (value) {
                 this._name = value;
             },
-            enumerable: true,
+            enumerable: false,
             configurable: true
         });
         return Person;

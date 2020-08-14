@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.TodoClass = void 0;
 // ObjectAndClass.ts
 // 개체와 클래스 비교
 //[1] Object: 개체 리터럴

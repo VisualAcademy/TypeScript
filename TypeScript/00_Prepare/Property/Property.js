@@ -14,7 +14,7 @@ var Property;
                 }
                 this._name = value;
             },
-            enumerable: true,
+            enumerable: false,
             configurable: true
         });
         return Car;
