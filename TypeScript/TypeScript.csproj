@@ -752,7 +752,7 @@
     <Compile Include="17_BreakContinueGoto\ContinueExam\ContinueExam.cs" />
     <TypeScriptCompile Include="18_Array\01_WhyArray\WhyArray.ts" />
     <TypeScriptCompile Include="18_Array\02_ArrayString\ArrayString.ts" />
-    <Compile Include="18_Array\03_StringIndexer\StringIndexer.cs" />
+    <TypeScriptCompile Include="18_Array\03_StringIndexer\StringIndexer.ts" />
     <Compile Include="18_Array\04_ArrayDescription\ArrayDescription.cs" />
     <Compile Include="18_Array\05_ArrayDemo\ArrayDemo.cs" />
     <Compile Include="18_Array\06_ArrayOne\ArrayOne1.cs" />
@@ -795,8 +795,8 @@
     <Compile Include="18_Array\ArrayExam\ArrayExam.cs" />
     <Compile Include="18_Array\ArrayMultiPractice\ArrayMultiPractice.cs" />
     <Compile Include="18_Array\ArrayPractice\ArrayPractice.cs" />
-    <Compile Include="19_Function\01_FunctionDemo\FunctionDemo.cs" />
-    <Compile Include="19_Function\02_FunctionCall\FunctionCall.cs" />
+    <TypeScriptCompile Include="19_Function\01_FunctionDemo\FunctionDemo.ts" />
+    <TypeScriptCompile Include="19_Function\02_FunctionCall\FunctionCall.ts" />
     <Compile Include="19_Function\03_FunctionParameter\FunctionParameter.cs" />
     <Compile Include="19_Function\04_ReturnValue\ReturnValue.cs" />
     <Compile Include="19_Function\05_FunctionReturnValue\FunctionReturnValue.cs" />
