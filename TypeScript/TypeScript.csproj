@@ -476,6 +476,7 @@
     <TypeScriptCompile Include="13_IfElse\02_SingleMultiple\SingleMultiple.ts" />
     <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
+    <TypeScriptCompile Include="37_Method\MethodWithField.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\InterfaceNote\InterfaceNote.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface\Interface.ts" />
