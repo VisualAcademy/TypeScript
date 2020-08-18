@@ -847,7 +847,7 @@
     <Compile Include="23_Enum\07_EnumGetNames\EnumGetNames.cs" />
     <Compile Include="23_Enum\08_EnumParse\EnumParse.cs" />
     <Compile Include="23_Enum\EnumerationTextbook.cs" />
-    <Compile Include="24_Class\01_ClassNote\ClassNote.cs" />
+    <TypeScriptCompile Include="24_Class\01_ClassNote\ClassNote.ts" />
     <Compile Include="24_Class\02_SquareClass\SquareClass.cs" />
     <Compile Include="24_Class\03_MyFirstClass\MyFirstClass.cs" />
     <Compile Include="24_Class\04_ClassDescription\ClassDescription.cs" />
