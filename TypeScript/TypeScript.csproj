@@ -838,7 +838,7 @@
     <Compile Include="22_Struct\11_GuidDemo\GuidDemo.cs" />
     <Compile Include="22_Struct\StructExam\StructExam.cs" />
     <Compile Include="22_Struct\StructPractice\StructPractice.cs" />
-    <Compile Include="23_Enum\01_ConsoleColorDemo\ConsoleColorDemo.cs" />
+    <TypeScriptCompile Include="23_Enum\01_ConsoleColorDemo\ConsoleColorDemo.ts" />
     <Compile Include="23_Enum\02_EnumerationDemo\EnumerationDemo.cs" />
     <Compile Include="23_Enum\03_EnumAnimal\EnumAnimal.cs" />
     <Compile Include="23_Enum\04_EnumIndex\EnumIndex.cs" />
