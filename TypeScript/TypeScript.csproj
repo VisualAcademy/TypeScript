@@ -1200,7 +1200,7 @@
     <Compile Include="44_Override\05_VirtualOverrideBase\VirtualOverrideBase.cs" />
     <Compile Include="44_Override\06_ClassToString\ClassToString.cs" />
     <Compile Include="44_Override\07_MethodOverridePractice\MethodOverridePractice.cs" />
-    <Compile Include="45_Interface\01_InterfaceNote\InterfaceNote.cs" />
+    <TypeScriptCompile Include="45_Interface\01_InterfaceNote\InterfaceNote.ts" />
     <Compile Include="45_Interface\02_InterfaceExam\InterfaceExam.cs" />
     <Compile Include="45_Interface\03_InterfacePractice\InterfacePractice.cs" />
     <Compile Include="45_Interface\04_InterfaceDemo\InterfaceDemo.cs" />
@@ -1308,6 +1308,7 @@
     <TypeScriptCompile Include="Hello.ts" />
     <TypeScriptCompile Include="TypeAssertion.ts" />
     <TypeScriptCompile Include="TypeScriptComple.ts" />
+    <TypeScriptCompile Include="____.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="31_Algorithms\알고리즘강의소개.pdf" />

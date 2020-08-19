@@ -16,3 +16,4 @@ var ClassNote;
     var car = new Car();
     car.go(); //[2] 개체.메서드() 형태로 호출
 })(ClassNote || (ClassNote = {}));
+//# sourceMappingURL=ClassNote.js.map

@@ -11,3 +11,4 @@ var ConsoleColorDemo;
     console.log(ConsoleColor.Green); // 1
     console.log(ConsoleColor.Blue); // 2
 })(ConsoleColorDemo || (ConsoleColorDemo = {}));
+//# sourceMappingURL=ConsoleColorDemo.js.map
