@@ -1201,7 +1201,7 @@
     <Compile Include="44_Override\06_ClassToString\ClassToString.cs" />
     <Compile Include="44_Override\07_MethodOverridePractice\MethodOverridePractice.cs" />
     <TypeScriptCompile Include="45_Interface\01_InterfaceNote\InterfaceNote.ts" />
-    <Compile Include="45_Interface\02_InterfaceExam\InterfaceExam.cs" />
+    <TypeScriptCompile Include="45_Interface\02_InterfaceExam\InterfaceExam.ts" />
     <Compile Include="45_Interface\03_InterfacePractice\InterfacePractice.cs" />
     <Compile Include="45_Interface\04_InterfaceDemo\InterfaceDemo.cs" />
     <Compile Include="45_Interface\05_InterfaceInheritance\InterfaceInheritance.cs" />
