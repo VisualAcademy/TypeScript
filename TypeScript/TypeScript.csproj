@@ -464,6 +464,7 @@
     <TypeScriptCompile Include="00_Prepare\HelloWorld\HelloWorld.ts" />
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
+    <TypeScriptCompile Include="03_HelloWorld\HelloWorldWithCopyCon.ts" />
     <TypeScriptCompile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.ts" />
     <TypeScriptCompile Include="07_BoolCharString\03_MultiLineString\MultiLineString.ts" />
     <TypeScriptCompile Include="07_BoolCharString\04_StringInterpolationDescription\StringInterpolationDescription.ts" />
@@ -1414,6 +1415,7 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
   </ItemGroup>
   <PropertyGroup>
