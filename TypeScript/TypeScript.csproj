@@ -465,6 +465,8 @@
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
     <TypeScriptCompile Include="03_HelloWorld\HelloWorldWithCopyCon.ts" />
+    <TypeScriptCompile Include="04_Syntax\01_Syntax.ts" />
+    <TypeScriptCompile Include="04_Syntax\ConsoleLogDemo.ts" />
     <TypeScriptCompile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.ts" />
     <TypeScriptCompile Include="07_BoolCharString\03_MultiLineString\MultiLineString.ts" />
     <TypeScriptCompile Include="07_BoolCharString\04_StringInterpolationDescription\StringInterpolationDescription.ts" />
@@ -515,12 +517,8 @@
     <TypeScriptCompile Include="03_HelloWorld\03_12_CaseSensitive\CaseSensitive.ts" />
     <Content Include="03_HelloWorld\HelloWorldCli\HelloWorldCli.txt" />
     <Content Include="03_HelloWorld\HelloWorldCore\HelloWorldCore.txt" />
-    <Content Include="04_Syntax\00_EmptyStatement\EmptyStatement.txt" />
-    <Content Include="04_Syntax\01_ClassSimple\ClassSimple.txt" />
-    <Content Include="04_Syntax\02_WriteLineDemo\WriteLineDemo1.txt" />
-    <Content Include="04_Syntax\02_WriteLineDemo\WriteLineDemo2.txt" />
-    <Content Include="04_Syntax\03_ConsoleWrite\ConsoleWrite.txt" />
-    <TypeScriptCompile Include="04_Syntax\04_NewLine\NewLine.ts" />
+    <TypeScriptCompile Include="04_Syntax\EmptyStatement.ts" />
+    <TypeScriptCompile Include="04_Syntax\NewLine.ts" />
     <Compile Include="00_Prepare\Properties\AssemblyInfo.cs" />
     <Compile Include="04_Syntax\05_Comment\Comment.cs" />
     <Compile Include="04_Syntax\05_Comment\MultiLineComment.cs" />
@@ -534,9 +532,9 @@
     <Compile Include="04_Syntax\EscapeSequence\EscapeSequence.cs" />
     <Compile Include="04_Syntax\FormatExam\FormatExam.cs" />
     <Compile Include="04_Syntax\FormatPractice\FormatPractice.cs" />
-    <Compile Include="04_Syntax\Indent\Indent.cs" />
-    <Compile Include="04_Syntax\Indent\IndentSpaceTab.cs" />
-    <Compile Include="04_Syntax\Indent\IndentTab.cs" />
+    <TypeScriptCompile Include="04_Syntax\Indent\Indent.ts" />
+    <TypeScriptCompile Include="04_Syntax\Indent\IndentSpaceTab.ts" />
+    <TypeScriptCompile Include="04_Syntax\Indent\IndentTab.ts" />
     <Compile Include="04_Syntax\SquarePractice\SquarePractice.cs" />
     <Compile Include="04_Syntax\TermExam\TermExam.cs" />
     <Compile Include="04_Syntax\TermPractice\TermPractice.cs" />
