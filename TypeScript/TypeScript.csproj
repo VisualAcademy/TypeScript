@@ -339,6 +339,8 @@
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js" />
     <Content Include="02_VisualStudio\TypeScript.html" />
     <Content Include="02_VisualStudio\TypeScript.js" />
+    <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.html" />
+    <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.js" />
     <Content Include="03_HelloWorld\타입스크립트 코드를 만들고 실행하기.txt" />
     <Content Include="07_BoolCharString\StringInterpolation\StringInterpolation.js" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js" />
@@ -468,6 +470,7 @@
     <TypeScriptCompile Include="00_Prepare\Hello\Hello.ts" />
     <TypeScriptCompile Include="00_Prepare\ICalculator\ICalculator.ts" />
     <TypeScriptCompile Include="02_VisualStudio\TypeScript.ts" />
+    <TypeScriptCompile Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.ts" />
     <TypeScriptCompile Include="03_HelloWorld\HelloWorldWithCopyCon.ts" />
     <TypeScriptCompile Include="04_Syntax\01_Syntax.ts" />
     <TypeScriptCompile Include="04_Syntax\ConsoleLogDemo.ts" />
@@ -1391,6 +1394,7 @@
     <Content Include="00_Prepare\VariableExample\VariableExample.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
+    <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.js.map" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
