@@ -1,0 +1,13 @@
+﻿타입스크립트 코드를 만들고 실행하기
+
+1. Visual Studio Code로 코드를 작성하고 tsc를 사용하여 컴파일 후 node로 실행하기
+2. Visual Studio로 코드를 작성하고 tsc를 사용하여 컴파일 후 node로 실행하기
+3. 타입스크립트 공식 사이트의 Playground를 사용하여 코드 작성 및 실행
+4. 타입스크립트와 자바스크립트 공통 코드는 웹 브라우저의 콘솔 창 사용
+
+XXX.ts -> XXX.js
+
+
+start https://github.com/VisualAcademy/TypeScript/
+
+...

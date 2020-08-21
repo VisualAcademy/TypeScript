@@ -337,6 +337,7 @@
     <Content Include="00_Prepare\PalgakCom\팀_후수면 차의 점수가 1점 더 높게 부여_한에서 대차하면 초에서 피하는게 기본.txt" />
     <Content Include="00_Prepare\Property\Property.js" />
     <Content Include="00_Prepare\ReadOnlyNote\ReadOnlyNote.js" />
+    <Content Include="03_HelloWorld\타입스크립트 코드를 만들고 실행하기.txt" />
     <Content Include="07_BoolCharString\StringInterpolation\StringInterpolation.js" />
     <Content Include="00_Prepare\TemplateString\TemplateString.js" />
     <Content Include="00_Prepare\TypeAssertion\TypeAssertion.js" />
