@@ -361,6 +361,12 @@
     <Content Include="05_Variable\05_Variable.txt" />
     <Content Include="06_Number\06_Number.txt" />
     <Content Include="07_BooleanString\07_BooleanString.txt" />
+    <Content Include="08_Dialog\01_AlertDemo\AlertDemo.html" />
+    <Content Include="08_Dialog\01_AlertDemo\AlertDemo.js" />
+    <Content Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.html" />
+    <Content Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.js" />
+    <Content Include="08_Dialog\03_PromptDemo\PromptDemo.html" />
+    <Content Include="08_Dialog\03_PromptDemo\PromptDemo.js" />
     <Content Include="08_Dialog\08_ReadLine.txt" />
     <Content Include="08_Dialog\PlusSign.js" />
     <Content Include="09_Operator\09_Operator.txt" />
@@ -482,8 +488,6 @@
     <TypeScriptCompile Include="07_BooleanString\08_BooleanDemo\BooleanDemo.ts" />
     <TypeScriptCompile Include="07_BooleanString\08_Immutable\Immutable.ts" />
     <TypeScriptCompile Include="07_BooleanString\EscapeSequenceDemo\EscapeSequenceDemo.ts" />
-    <TypeScriptCompile Include="08_Dialog\01_AlertDemo\AlertDemo.ts" />
-    <TypeScriptCompile Include="08_Dialog\02_ConfirmDemo\ConfirmDemo.ts" />
     <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
     <TypeScriptCompile Include="13_IfElse\02_SingleMultiple\SingleMultiple.ts" />
     <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
@@ -591,8 +595,6 @@
     <Compile Include="07_BooleanString\CharacterPractice\CharacterPractice.cs" />
     <Compile Include="07_BooleanString\ConstantExam\ConstantExam.cs" />
     <Compile Include="07_BooleanString\LiteralPractice\LiteralPractice.cs" />
-    <Compile Include="08_Dialog\02_ConsoleReadLineDemo\ConsoleReadLineDemo.cs" />
-    <Compile Include="08_Dialog\03_InputName\InputName.cs" />
     <Compile Include="08_Dialog\04_ConsoleReadDemo\ConsoleReadDemo.cs" />
     <Compile Include="08_Dialog\05_TypeConversionError\TypeConversionError.cs" />
     <Compile Include="08_Dialog\06_IntToByte\IntToByte.cs" />
