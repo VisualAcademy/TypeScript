@@ -474,6 +474,7 @@
     <TypeScriptCompile Include="03_HelloWorld\HelloWorldWithCopyCon.ts" />
     <TypeScriptCompile Include="04_Syntax\01_Syntax.ts" />
     <TypeScriptCompile Include="04_Syntax\ConsoleLogDemo.ts" />
+    <TypeScriptCompile Include="05_Variable\VariableDescription.ts" />
     <TypeScriptCompile Include="06_Number\DigitSeparatorNote\DigitSeparatorNote.ts" />
     <TypeScriptCompile Include="07_BoolCharString\03_MultiLineString\MultiLineString.ts" />
     <TypeScriptCompile Include="07_BoolCharString\04_StringInterpolationDescription\StringInterpolationDescription.ts" />
