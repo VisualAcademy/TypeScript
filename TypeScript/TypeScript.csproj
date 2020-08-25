@@ -833,7 +833,7 @@
     <Compile Include="19_Function\26_FunctionExam\FunctionExam.cs" />
     <Compile Include="19_Function\FunctionNote.cs" />
     <Compile Include="20_Interactive\CsharpInteractive.cs" />
-    <Compile Include="21_API\01_MathDemo\MathDemo.cs" />
+    <Content Include="21_API\01_MathDemo\MathDemo.txt" />
     <Compile Include="21_API\02_UsingStaticClassesDemo\UsingStaticClassesDemo.cs" />
     <Compile Include="21_API\UsingStaticExample\UsingStaticExample.cs" />
     <Compile Include="22_Struct\01_StructDemo\StructDemo.cs" />
