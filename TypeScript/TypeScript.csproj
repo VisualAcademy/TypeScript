@@ -495,6 +495,7 @@
     <TypeScriptCompile Include="13_IfElse\02_SingleMultiple\SingleMultiple.ts" />
     <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
+    <TypeScriptCompile Include="34_Field\LocalAndGlobal.ts" />
     <TypeScriptCompile Include="37_Method\MethodWithField.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="45_Interface\_\Interface.ts" />
@@ -1079,7 +1080,6 @@
     <Compile Include="33_Namespace\03_NamespaceDescription\NamespaceDescription.cs" />
     <Compile Include="33_Namespace\04_TypeDefinitionWithUsing\TypeDefinitionWithUsing.cs" />
     <Compile Include="34_Field\01_LocalVariable\LocalVariable.cs" />
-    <Compile Include="34_Field\02_VariableScope\VariableScope.cs" />
     <Compile Include="34_Field\03_FieldInitializer\FieldInitializer.cs" />
     <Compile Include="34_Field\04_FieldArray\FieldArray.cs" />
     <Compile Include="34_Field\05_PublicField\PublicField.cs" />
