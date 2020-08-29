@@ -497,6 +497,7 @@
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
     <TypeScriptCompile Include="34_Field\LocalAndGlobal.ts" />
     <TypeScriptCompile Include="37_Method\MethodWithField.ts" />
+    <TypeScriptCompile Include="38_Property\EmployeeAge.ts" />
     <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="45_Interface\_\Interface.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword\LetKeyword.ts" />
