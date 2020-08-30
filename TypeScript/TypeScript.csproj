@@ -493,6 +493,7 @@
     <TypeScriptCompile Include="07_BooleanString\EscapeSequenceDemo\EscapeSequenceDemo.ts" />
     <TypeScriptCompile Include="09_Operator\00_OperatorDemo\OperatorDemo.ts" />
     <TypeScriptCompile Include="13_IfElse\02_SingleMultiple\SingleMultiple.ts" />
+    <TypeScriptCompile Include="22_Struct\LiteralType.ts" />
     <TypeScriptCompile Include="30_LINQ\FilterEven.ts" />
     <TypeScriptCompile Include="32_Object\ObjectAndClass.ts" />
     <TypeScriptCompile Include="34_Field\LocalAndGlobal.ts" />
