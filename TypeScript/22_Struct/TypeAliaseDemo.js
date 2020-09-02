@@ -1,4 +1,4 @@
-// 형식 별칭
+// 형식 별칭(Type Aliase)
 var TypeAliaseDemo;
 (function (TypeAliaseDemo) {
     //let ts: TechType = "JavaScript"; // 에러 발생

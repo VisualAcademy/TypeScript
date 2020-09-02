@@ -841,7 +841,6 @@
     <Content Include="21_API\01_MathDemo\MathDemo.txt" />
     <Compile Include="21_API\02_UsingStaticClassesDemo\UsingStaticClassesDemo.cs" />
     <Compile Include="21_API\UsingStaticExample\UsingStaticExample.cs" />
-    <Compile Include="22_Struct\01_StructDemo\StructDemo.cs" />
     <Compile Include="22_Struct\02_StructNote\StructNote.cs" />
     <Compile Include="22_Struct\03_StructVariable\StructVariable.cs" />
     <Compile Include="22_Struct\04_StructArray\StructArray.cs" />
