@@ -436,7 +436,6 @@
     <Content Include="49_ExtensionMethod\49_ExtensionMethod.txt" />
     <Content Include="50_Dynamic\50_Dynamic.txt" />
     <Content Include="51_Tuple\51_Tuple.txt" />
-    <Content Include="52_ClassLibrary\52_ClassLibrary.txt" />
     <Content Include="53_TestProject\53_TestProject.txt" />
     <Content Include="54_NuGet\54_NuGet.txt" />
     <Content Include="55_Thread\55_Thread.txt" />
@@ -1083,7 +1082,7 @@
     <Compile Include="33_Namespace\03_NamespaceDescription\NamespaceDescription.cs" />
     <Compile Include="33_Namespace\04_TypeDefinitionWithUsing\TypeDefinitionWithUsing.cs" />
     <Compile Include="34_Field\01_LocalVariable\LocalVariable.cs" />
-    <Compile Include="34_Field\03_FieldInitializer\FieldInitializer.cs" />
+    <TypeScriptCompile Include="34_Field\FieldInitializer.ts" />
     <Compile Include="34_Field\04_FieldArray\FieldArray.cs" />
     <Compile Include="34_Field\05_PublicField\PublicField.cs" />
     <Compile Include="34_Field\06_PublicAndPrivate\PublicAndPrivate.cs" />
@@ -1146,7 +1145,7 @@
     <Compile Include="38_Property\19_NameOfOperator\NameOfOperator.cs" />
     <Compile Include="38_Property\20_AnonymousType\AnonymousType.cs" />
     <Compile Include="38_Property\21_AnonymousClass\AnonymousClass.cs" />
-    <Compile Include="38_Property\22_DuckTyping\DuckTyping.cs" />
+    <TypeScriptCompile Include="38_Property\DuckTyping.ts" />
     <Compile Include="38_Property\23_PropertyValidation\PropertyValidation.cs" />
     <Compile Include="38_Property\24_PetDemo\PetDemo.cs" />
     <Compile Include="38_Property\25_PropertyPractice\PropertyPractice.cs" />
@@ -1317,6 +1316,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <TypeScriptCompile Include="23_Enum\EnumerationPractice.ts" />
     <TypeScriptCompile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.ts" />
+    <TypeScriptCompile Include="52_TypeScriptProject\ProjectTestOther.ts" />
+    <TypeScriptCompile Include="52_TypeScriptProject\ProjectTest.ts" />
     <TypeScriptCompile Include="Car.ts" />
     <TypeScriptCompile Include="Hell.ts" />
     <TypeScriptCompile Include="Hello.ts" />
@@ -1401,6 +1402,7 @@
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
     <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.js.map" />
+    <Content Include="52_TypeScriptProject\tsconfig.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
