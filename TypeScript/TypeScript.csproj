@@ -474,6 +474,7 @@
     <TypeScriptCompile Include="00_Prepare\Function.ts" />
     <TypeScriptCompile Include="00_Prepare\FunctionDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\FunctionDemoUpgrade.ts" />
+    <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
