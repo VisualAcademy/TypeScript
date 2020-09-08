@@ -939,7 +939,7 @@
     <Compile Include="27_Collection\08_QueueDemo\QueueDemo.cs" />
     <Compile Include="27_Collection\09_ArrayListNote\ArrayListNote.cs" />
     <Compile Include="27_Collection\10_HashtableDemo\HashtableDemo.cs" />
-    <Compile Include="28_GenericClass\01_StackOfType\StackOfType.cs" />
+    <TypeScriptCompile Include="28_GenericClass\ArrayOfType.ts" />
     <Compile Include="28_GenericClass\02_GenericPros\GenericPros.cs" />
     <Compile Include="28_GenericClass\03_ListOfInt\ListOfInt.cs" />
     <Compile Include="28_GenericClass\04_ListOfString\ListOfString.cs" />
