@@ -933,7 +933,7 @@
     <Compile Include="26_Exception\08_ExceptionHandling\ExceptionHandling.cs" />
     <TypeScriptCompile Include="27_Collection\ListDemo.ts" />
     <TypeScriptCompile Include="27_Collection\ArraySort.ts" />
-    <Compile Include="27_Collection\03_ArrayClassDemo\ArrayClassDemo.cs" />
+    <TypeScriptCompile Include="27_Collection\ArrayReverse.ts" />
     <Compile Include="27_Collection\04_ArrayConvertAll\ArrayConvertAll.cs" />
     <Compile Include="27_Collection\05_StackClass\StackClass.cs" />
     <Compile Include="27_Collection\06_StackNote\StackNote.cs" />
@@ -1449,6 +1449,7 @@
     <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
     <Folder Include="25_String\05_StringConcat\" />
+    <Folder Include="27_Collection\03_ArrayClassDemo\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
