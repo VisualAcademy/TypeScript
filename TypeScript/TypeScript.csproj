@@ -930,7 +930,7 @@
     <Compile Include="26_Exception\06_ThrowNote\ThrowNote.cs" />
     <Compile Include="26_Exception\07_TryFinallyDemo\TryFinallyDemo.cs" />
     <Compile Include="26_Exception\08_ExceptionHandling\ExceptionHandling.cs" />
-    <Compile Include="27_Collection\01_ListDemo\ListDemo.cs" />
+    <TypeScriptCompile Include="27_Collection\ListDemo.ts" />
     <Compile Include="27_Collection\02_ArraySort\ArraySort.cs" />
     <Compile Include="27_Collection\03_ArrayClassDemo\ArrayClassDemo.cs" />
     <Compile Include="27_Collection\04_ArrayConvertAll\ArrayConvertAll.cs" />
@@ -1448,6 +1448,7 @@
     <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
     <Folder Include="25_String\05_StringConcat\" />
+    <Folder Include="27_Collection\01_ListDemo\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
