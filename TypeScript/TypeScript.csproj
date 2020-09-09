@@ -391,7 +391,7 @@
     <Content Include="24_Class\24_Class.txt" />
     <Content Include="25_String\25_String.txt" />
     <Content Include="26_Exception\26_Exception.txt" />
-    <Content Include="27_Collection\01_PushFunction\PushFunction.html" />
+    <Content Include="27_Collection\PushFunction\PushFunction.html" />
     <Content Include="27_Collection\27_Collection.txt" />
     <Content Include="28_GenericClass\28_GenericClass.txt" />
     <Content Include="29_Null\29_Null.txt" />
@@ -1435,7 +1435,7 @@
     <TypeScriptCompile Include="26_Exception\03_ErrorPrototype\ErrorPrototype.ts" />
     <TypeScriptCompile Include="26_Exception\04_ErrorDemo\ErrorDemo.ts" />
     <TypeScriptCompile Include="26_Exception\05_TryCatchInstanceOf\TryCatchInstanceOf.ts" />
-    <TypeScriptCompile Include="27_Collection\01_PushFunction\PushFunction.ts" />
+    <TypeScriptCompile Include="27_Collection\PushFunction\PushFunction.ts" />
     <TypeScriptCompile Include="41_Event\AddEventListenerDemo\AddEventListenerDemo.ts" />
     <TypeScriptCompile Include="43_Inheritance\10_AbstractClass\AbstractClass.ts" />
     <TypeScriptCompile Include="51_Tuple\TupleType.ts" />
@@ -1448,7 +1448,6 @@
     <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
     <Folder Include="25_String\05_StringConcat\" />
-    <Folder Include="27_Collection\01_ListDemo\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
