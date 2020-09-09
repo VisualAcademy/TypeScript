@@ -475,6 +475,7 @@
     <TypeScriptCompile Include="00_Prepare\FunctionDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\FunctionDemoUpgrade.ts" />
     <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
+    <TypeScriptCompile Include="25_String\ReplaceAll.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
@@ -899,11 +900,11 @@
     <Compile Include="24_Class\21_PatternMatchingWithIf\PatternMatchingWithIf.cs" />
     <Compile Include="24_Class\EnvironmentVariable\EnvironmentVariable.cs" />
     <Compile Include="24_Class\RandomPractice\RandomPractice.cs" />
-    <Compile Include="25_String\01_StringFunction\StringFunction.cs" />
-    <Compile Include="25_String\02_StringClass\StringClass.cs" />
+    <TypeScriptCompile Include="25_String\StringFunction.ts" />
+    <TypeScriptCompile Include="25_String\StringClass.ts" />
     <Compile Include="25_String\03_CharArrayToString\CharArrayToString.cs" />
-    <Compile Include="25_String\04_StringLength\StringLength.cs" />
-    <Compile Include="25_String\05_StringConcat\StringConcat.cs" />
+    <TypeScriptCompile Include="25_String\StringLength.ts" />
+    <TypeScriptCompile Include="25_String\StringConcat.ts" />
     <Compile Include="25_String\06_StringDisplay\StringDisplay.cs" />
     <Compile Include="25_String\07_StringEquals\StringEquals.cs" />
     <Compile Include="25_String\08_StringCompareValue\StringCompareValue.cs" />
@@ -1446,6 +1447,7 @@
   <ItemGroup>
     <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
+    <Folder Include="25_String\05_StringConcat\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
