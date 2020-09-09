@@ -476,6 +476,7 @@
     <TypeScriptCompile Include="00_Prepare\FunctionDemoUpgrade.ts" />
     <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
     <TypeScriptCompile Include="25_String\ReplaceAll.ts" />
+    <TypeScriptCompile Include="27_Collection\ArrayClass.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
@@ -931,7 +932,7 @@
     <Compile Include="26_Exception\07_TryFinallyDemo\TryFinallyDemo.cs" />
     <Compile Include="26_Exception\08_ExceptionHandling\ExceptionHandling.cs" />
     <TypeScriptCompile Include="27_Collection\ListDemo.ts" />
-    <Compile Include="27_Collection\02_ArraySort\ArraySort.cs" />
+    <TypeScriptCompile Include="27_Collection\ArraySort.ts" />
     <Compile Include="27_Collection\03_ArrayClassDemo\ArrayClassDemo.cs" />
     <Compile Include="27_Collection\04_ArrayConvertAll\ArrayConvertAll.cs" />
     <Compile Include="27_Collection\05_StackClass\StackClass.cs" />
