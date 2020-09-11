@@ -906,11 +906,11 @@
     <Compile Include="25_String\03_CharArrayToString\CharArrayToString.cs" />
     <TypeScriptCompile Include="25_String\StringLength.ts" />
     <TypeScriptCompile Include="25_String\StringConcat.ts" />
-    <Compile Include="25_String\06_StringDisplay\StringDisplay.cs" />
+    <TypeScriptCompile Include="25_String\StringDisplay.ts" />
     <Compile Include="25_String\07_StringEquals\StringEquals.cs" />
     <Compile Include="25_String\08_StringCompareValue\StringCompareValue.cs" />
     <Compile Include="25_String\09_StringToCharArray\StringToCharArray.cs" />
-    <Compile Include="25_String\10_StringSplit\StringSplit.cs" />
+    <TypeScriptCompile Include="25_String\StringSplit.ts" />
     <Compile Include="25_String\11_StringIsNullOrEmptyDemo\StringIsNullOrEmptyDemo.cs" />
     <Compile Include="25_String\12_StringValidation\StringValidation.cs" />
     <Compile Include="25_String\13_StringClassNote\StringClassNote.cs" />
@@ -1446,7 +1446,7 @@
   <ItemGroup>
     <Folder Include="01_TypeScript\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
-    <Folder Include="25_String\05_StringConcat\" />
+    <Folder Include="25_String\10_StringSplit\" />
     <Folder Include="27_Collection\03_ArrayClassDemo\" />
     <Folder Include="30_LINQ\01_LinqSum\" />
     <Folder Include="30_LINQ\02_LinqCount\" />
