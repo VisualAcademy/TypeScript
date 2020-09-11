@@ -2,7 +2,7 @@
 
 class ForDemo
 {
-    static void Main()
+    
     {
         //[1] 1부터 5까지 3개씩 출력하는 프로그램
         for (let i = 1; i <= 5; i++)

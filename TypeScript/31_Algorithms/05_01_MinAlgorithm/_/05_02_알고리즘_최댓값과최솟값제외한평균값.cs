@@ -3,9 +3,9 @@ using System;
 
 class 알고리즘_최댓값과최솟값제외한평균값
 {
-    static void Main()
+    
     {
-        int[] arr = { 10, 20, 30, 40, 50 }; // 30
+        let arr = [ 10, 20, 30, 40, 50 ]; // 30
 
         let sum = 0;
         let max = Int32.MinValue; // 해당 범위에서 가장 작은 값으로 초기화

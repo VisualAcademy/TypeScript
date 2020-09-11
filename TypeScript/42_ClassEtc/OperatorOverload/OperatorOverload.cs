@@ -23,7 +23,7 @@ namespace OperatorOverload
 
     class OperatorOverload
     {
-        static void Main()
+        
         {
             Car car = "생성자에 직접 문자열을 전달함";
             console.log(car.Name);

@@ -3,7 +3,7 @@ using System;
 
 class PostfixOperator
 {
-    static void Main()
+    
     {
         let x = 3;
 

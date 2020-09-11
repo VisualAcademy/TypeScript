@@ -3,7 +3,7 @@ using static System.Console;
 
 class TupleDeconstructionDescription
 {
-    static void Main()
+    
     {
         //[?] 튜플 분해(Tuple Deconstruction) 또는 튜플 해체 작업
         var (sum, count) = Tally();

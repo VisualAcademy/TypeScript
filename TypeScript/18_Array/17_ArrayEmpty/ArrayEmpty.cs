@@ -5,7 +5,7 @@ class ArrayEmpty
     static void Main(string[] args)
     {
         // 빈 배열 선언
-        string[] authors = { };
+        string[] authors = [ ];
         if (authors.Length > 0)
         {
             console.log($"글쓴이가 {authors.Length}명 있습니다.");

@@ -3,7 +3,7 @@ using System;
 
 class WhileFibonacci
 {
-    static void Main()
+    
     {
         let first = 0;
         let second = 1;

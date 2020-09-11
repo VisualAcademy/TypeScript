@@ -4,7 +4,7 @@ using static System.Convert;
 
 class ConvertClass
 {
-    static void Main()
+    
     {
         //[1] Convert.ToXXX()
         WriteLine(ToInt32(3.14)); // 3

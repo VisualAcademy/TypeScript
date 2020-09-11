@@ -2,7 +2,7 @@
 
 class SeeSharpSeven 
 {
-    static void Main()
+    
     {
         //[?] C# 7.0의 새로운 특징
         // 바이너리 리터럴: 0b, 0B 접두사

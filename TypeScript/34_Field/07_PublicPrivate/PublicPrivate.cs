@@ -20,7 +20,7 @@ public class TestClass
 
 class PublicPrivate
 {
-    static void Main()
+    
     {
         // TestClass.name; -> private 멤버는 외부에 노출되지 않음
         console.log(TestClass.siteName); // public 멤버는 외부에 노출

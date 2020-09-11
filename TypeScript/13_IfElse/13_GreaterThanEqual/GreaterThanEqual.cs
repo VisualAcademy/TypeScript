@@ -3,7 +3,7 @@ using System;
 
 class GreaterThanEqual
 {
-    static void Main()
+    
     {
         Console.Write("첫 번째 수: ");
         let first = Convert.ToInt32(Console.ReadLine());

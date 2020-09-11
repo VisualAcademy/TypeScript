@@ -2,7 +2,7 @@
 
 class BreakDemo
 {
-    static void Main()
+    
     {
         // break 문: for, while, do 구문을 빠져나가는 역할
         for (var i = 0; i < 100; i++)

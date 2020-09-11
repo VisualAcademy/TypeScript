@@ -2,7 +2,7 @@
 
 class TypeConversionError
 {
-    static void Main()
+    
     {
         long l = long.MaxValue; //[1] long 형식 변수의 가장 큰 값을 l 변수에 저장
         console.log($"l의 값: {l}");

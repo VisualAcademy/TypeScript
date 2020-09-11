@@ -5,7 +5,7 @@ using System;
 
 public class 수열퀴즈
 {
-    public static void Main()
+    public 
     {
         //[1] 입력
         let data = 1;

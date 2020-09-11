@@ -2,7 +2,7 @@
 
 class DateTimeDemo
 {
-    static void Main()
+    
     {
         //[1] 현재 시간 출력: DateTime 구조체
         console.log($"현재 시간: {DateTime.Now}");

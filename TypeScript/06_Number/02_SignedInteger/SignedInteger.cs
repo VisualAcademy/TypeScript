@@ -3,7 +3,7 @@ using System;
 
 class SignedInteger
 {
-    static void Main()
+    
     {
         sbyte iSByte = 127;                 //  8비트 부호 있는 정수형 변수 선언 및 할당
         short iInt16 = 32767;               // 16비트 부호 있는 정수형 변수 선언 및 할당

@@ -2,14 +2,14 @@
 
 class 알고리즘_요일별_비행기_스케줄
 {
-    static void Main()
+    
     {
         // 아래 요일 순서는 정하기 나름
-        string[] WeekString = { "일", "월", "화", "수", "목", "금", "토" };
+        string[] WeekString = [ "일", "월", "화", "수", "목", "금", "토" ];
 
-        int[] WeekArrival = { 0, 0, 0, 0, 0, 0, 0 };
-        int[] WeekDeparture = { 0, 0, 0, 0, 0, 0, 0 };
-        int[] LinkedDay = { 0, 0, 0, 0, 0, 0, 0 };
+        let WeekArrival = [ 0, 0, 0, 0, 0, 0, 0 ];
+        let WeekDeparture = [ 0, 0, 0, 0, 0, 0, 0 ];
+        let LinkedDay = [ 0, 0, 0, 0, 0, 0, 0 ];
 
         let i = 0;
 

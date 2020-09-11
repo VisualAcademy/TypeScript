@@ -3,7 +3,7 @@ using System;
 
 class VariableNote
 {
-    static void Main()
+    
     {
         //[1] 변수 만들기(선언)
         let i; // i 이름으로 변수 만들기

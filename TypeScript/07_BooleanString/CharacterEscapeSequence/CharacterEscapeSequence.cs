@@ -2,7 +2,7 @@
 
 class CharacterEscapeSequence
 {
-    static void Main()
+    
     {
         char ch1 = 'A';
         char ch2 = 'B';

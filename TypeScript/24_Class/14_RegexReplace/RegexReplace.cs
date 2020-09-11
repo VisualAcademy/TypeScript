@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 class RegexReplace
 {
-    static void Main()
+    
     {
         string s = "안녕하세요.    반갑습니다.    또 만나요.";
         var regex = new Regex("\\s+"); // 하나 이상의 공백 패턴 검사

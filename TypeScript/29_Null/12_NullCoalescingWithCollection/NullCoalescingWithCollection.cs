@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 class NullCoalescingWithCollection
 {
-    static void Main()
+    
     {
         let num;
         List<string> list;

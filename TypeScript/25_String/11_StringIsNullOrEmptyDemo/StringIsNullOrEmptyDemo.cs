@@ -3,7 +3,7 @@ using static System.Console;
 
 class StringIsNullOrEmptyDemo
 {
-    static void Main()
+    
     {
         var str = ""; // var str = String.Empty;
 

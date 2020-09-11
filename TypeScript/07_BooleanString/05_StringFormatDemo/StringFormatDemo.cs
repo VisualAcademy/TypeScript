@@ -3,7 +3,7 @@ using System;
 
 class StringFormatDemo
 {
-    static void Main()
+    
     {
         string msg = string.Format("{0}님, {1}", "홍길동", "안녕하세요.");
         console.log(msg); // 홍길동님, 안녕하세요.

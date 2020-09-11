@@ -2,7 +2,7 @@
 
 class LiteralPractice
 {
-    static void Main()
+    
     {
         char c = '가';
         string s = "HELLO";

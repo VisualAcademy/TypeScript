@@ -3,7 +3,7 @@ using System;
 
 class VariableComma
 {
-    static void Main()
+    
     {
         //[1] 콤마(,) 기호로 여러 개의 변수 선언
         let number1, number2, number3;

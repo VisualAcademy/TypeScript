@@ -10,7 +10,7 @@ public class CarInterface<T> where T : IKs { } // IKs인터페이스
 
 public class TypeConstraint
 {
-    public static void Main()
+    public 
     {
         CarValue<int> c = new CarValue<int>(); // struct 성공
         CarReference<string> cs = new CarReference<string>(); // class 성공   

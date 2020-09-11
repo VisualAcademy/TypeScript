@@ -4,7 +4,7 @@ using static System.Console;
 
 class LinqTake
 {
-    static void Main()
+    
     {
         var data = Enumerable.Range(0, 100); // 0~99
 

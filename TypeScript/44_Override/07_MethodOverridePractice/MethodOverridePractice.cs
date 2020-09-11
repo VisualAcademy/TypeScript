@@ -35,7 +35,7 @@ namespace MethodOverridePractice
 
     class MethodOverridePractice
     {
-        static void Main()
+        
         {
             ChildClass child = new ChildClass();
             child.Hi1(); // virtual -> override

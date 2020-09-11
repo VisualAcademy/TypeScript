@@ -2,7 +2,7 @@
 
 class StringPerformance
 {
-    static void Main()
+    
     {
         DateTime start = DateTime.Now;
 

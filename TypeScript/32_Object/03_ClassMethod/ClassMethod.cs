@@ -15,7 +15,7 @@ namespace ClassMethod
 
     public class ClassMethod
     {
-        public static void Main()
+        public 
         {
             //[2] MyMath 클래스의 인스턴스 생성
             MyMath myMath = new MyMath();

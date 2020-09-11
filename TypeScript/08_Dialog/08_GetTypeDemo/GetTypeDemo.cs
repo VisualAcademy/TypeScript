@@ -3,7 +3,7 @@ using System;
 
 class GetTypeDemo
 {
-    static void Main()
+    
     {
         let i = 1234;               // 정수
         string s = "안녕하세요.";    // 문자열

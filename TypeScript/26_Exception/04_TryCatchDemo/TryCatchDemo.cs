@@ -2,7 +2,7 @@
 
 class TryCatchDemo
 {
-    static void Main()
+    
     {
         try
         {

@@ -15,7 +15,7 @@ namespace StaticAndInstance
 
     class StaticAndInstance
     {
-        static void Main()
+        
         {
             //[2] 클래스 사용
             //[2][1] 정적 멤버 사용

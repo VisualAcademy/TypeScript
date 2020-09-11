@@ -2,7 +2,7 @@
 
 class 알고리즘_통계_초과근무
 {
-    static void Main()
+    
     {
         let TOT = 0; // 총합
         float AVG = 0F; // 평균

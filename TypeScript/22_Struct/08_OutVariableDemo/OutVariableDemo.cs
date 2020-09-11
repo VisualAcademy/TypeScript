@@ -2,7 +2,7 @@
 
 class OutVariableDemo
 {
-    static void Main()
+    
     {
         // xmax 변수를 외부에서 선언할 필요없이 TryParse() 구문에 포함해서 사용
         if (DateTime.TryParse("2020/12/25", out var xmas))

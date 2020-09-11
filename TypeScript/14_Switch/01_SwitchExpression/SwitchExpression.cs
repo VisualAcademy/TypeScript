@@ -3,7 +3,7 @@ using System;
 
 class SwitchExpression
 {
-    static void Main()
+    
     {
         let x = 2;
 

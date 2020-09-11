@@ -5,13 +5,13 @@ using System.Linq;
 
 class LinqForEach
 {
-    static void Main()
+    
     {
-        var numbers = new List<int>() { 10, 20, 30, 40, 50 };
+        var numbers = new List<int>() { 10, 20, 30, 40, 50 ];
 
         numbers.Where(n => n <= 20).ToList().ForEach(n => console.log(n));
 
-        var names = new List<string>() { "RedPlus", "Taeyo" };
+        var names = new List<string>() { "RedPlus", "Taeyo" ];
 
         names.ForEach(n => console.log(n));
     }

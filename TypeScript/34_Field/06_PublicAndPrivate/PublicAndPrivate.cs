@@ -22,7 +22,7 @@ namespace PublicAndPrivate
 
     class PublicAndPrivate
     {
-        static void Main()
+        
         {
             //[1] public 멤버는 항상 접근 가능
             Car.Hi();

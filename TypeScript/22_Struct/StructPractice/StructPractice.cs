@@ -18,7 +18,7 @@ namespace StructPractice
 
     class StructPractice
     {
-        static void Main()
+        
         {
             Student[] s = new Student[3];
             s[0].Num = 1; s[0].Name = "홍길동";

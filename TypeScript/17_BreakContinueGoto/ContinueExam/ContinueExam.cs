@@ -3,7 +3,7 @@ using System;
 
 class ContinueExam
 {
-    static void Main()
+    
     {
         let sum = 0;
         for (let i = 1; i <= 100; i++)

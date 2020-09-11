@@ -9,7 +9,7 @@ class FunctionReturnValue
         let r = x * x;                  // 처리: 함수의 본문
         return r;                       // 출력: 반환값도 있는 
     }
-    static void Main()
+    
     {
         let r = SquareFunction(2); // 함수 호출 및 반환값 받기 
         console.log(r); // 4

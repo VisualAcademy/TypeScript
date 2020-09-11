@@ -3,7 +3,7 @@
 using System;
 
 public class 수열문제 {
-    public static void Main() {
+    public  {
         //[1] Input
         let sum = 0.0; 
         //[2] Process

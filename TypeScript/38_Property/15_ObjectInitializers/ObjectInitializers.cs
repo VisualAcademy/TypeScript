@@ -22,7 +22,7 @@ namespace ObjectInitializers
 
     class ObjectInitializers
     {
-        static void Main()
+        
         {
             //[1] 속성 사용
             Person pp = new Person();
@@ -33,7 +33,7 @@ namespace ObjectInitializers
             Person pc = new Person("홍길동", 21);
 
             //[3] 개체 이니셜라이저 사용
-            Person pi = new Person { Name = "임꺽정", Age = 30 };
+            Person pi = new Person { Name = "임꺽정", Age = 30 ];
             console.log($"{pi.Name}, {pi.Age}");
         }
     }

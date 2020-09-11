@@ -3,7 +3,7 @@
 class LambdaExpressionTypeDeclare
 {
     delegate bool Lambda(string msg, let len);
-    static void Main()
+    
     {
         // 람다 식에 형식 선언
         Lambda isLong = (string msg, let len) => msg.Length > len;

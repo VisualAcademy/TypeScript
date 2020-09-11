@@ -3,7 +3,7 @@ using System;
 
 class LogicalAnd
 {
-    static void Main()
+    
     {
         // && 연산자: AND
         console.log($"true  && true  -> {true && true}  "); // true

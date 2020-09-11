@@ -2,7 +2,7 @@
 
 class WhileExam
 {
-    static void Main()
+    
     {
         let number = 3;
 

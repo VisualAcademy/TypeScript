@@ -2,7 +2,7 @@
 
 class NameOfOperator
 {
-    static void Main()
+    
     {
         console.log("NameToString");          // "NameToString"
         console.log(nameof(NameToString));    // "NameToString"

@@ -25,7 +25,7 @@ namespace NamespaceDescription
 {
     class NamespaceDescription
     {
-        static void Main()
+        
         {
             //[1] 네임스페이스 전체 지정
             Korea.Seoul.Car s = new Korea.Seoul.Car();

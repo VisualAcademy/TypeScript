@@ -2,7 +2,7 @@
 
 class TupleLiteral
 {
-    static void Main()
+    
     {
         var fhd = (1920, 1080); //[1] 기본: Item1, Item2 형태 
         WriteLine($"Full HD: {fhd.Item1} * {fhd.Item2}");

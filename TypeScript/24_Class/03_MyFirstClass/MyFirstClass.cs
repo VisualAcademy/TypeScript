@@ -7,7 +7,7 @@ class MyFirstClass
 
     void InstanceMethod() => console.log("[2] 인스턴스 메서드");
 
-    static void Main()
+    
     {
         //[1] 정적 메서드 호출
         MyFirstClass.StaticMethod();

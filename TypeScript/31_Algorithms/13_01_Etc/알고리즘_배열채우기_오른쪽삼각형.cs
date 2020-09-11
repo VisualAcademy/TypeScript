@@ -1,9 +1,9 @@
 ﻿
 class 알고리즘_배열채우기_오른쪽삼각형
 {
-    static void Main()
+    
     {
-        int[] TMP = new int[20]; // 0번째 무시
+        let TMP = new int[20]; // 0번째 무시
 
         TMP[1] = 2;
         TMP[2] = 3; 

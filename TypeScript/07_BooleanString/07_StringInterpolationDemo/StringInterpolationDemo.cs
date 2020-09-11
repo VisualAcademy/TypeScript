@@ -3,7 +3,7 @@ using System;
 
 class StringInterpolationDemo
 {
-    static void Main()
+    
     {
         string name = "C#";
         string version = "8.0";

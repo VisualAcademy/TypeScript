@@ -2,7 +2,7 @@
 
 class TupleReturnName
 {
-    static void Main()
+    
     {
         var t = NameTuple();
         console.log($"{t.first}, {t.second}");

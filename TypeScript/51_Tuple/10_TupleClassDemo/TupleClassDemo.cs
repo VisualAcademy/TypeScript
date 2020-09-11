@@ -2,7 +2,7 @@
 
 class TupleClassDemo
 {
-    static void Main()
+    
     {
         //[1] 생성자를 통한 튜플 개체 생성
         var one = new Tuple<int>(1234);

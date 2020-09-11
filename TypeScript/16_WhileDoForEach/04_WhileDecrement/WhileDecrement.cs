@@ -3,7 +3,7 @@ using System;
 
 class WhileDecrement
 {
-    static void Main()
+    
     {
         let index = 5;
         while (index > 0)

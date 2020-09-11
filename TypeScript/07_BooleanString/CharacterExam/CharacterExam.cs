@@ -2,7 +2,7 @@
 
 class CharacterExam
 {
-    static void Main()
+    
     {
         char ch;
         

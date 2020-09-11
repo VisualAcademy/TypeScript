@@ -19,7 +19,7 @@ namespace LinqCollectionDemo
 
     class LinqCollectionDemo
     {
-        static void Main()
+        
         {
             // 컬렉션 이니셜라이저를 사용하여 데이터 담기
             List<Car> cars = new List<Car>() {
@@ -29,7 +29,7 @@ namespace LinqCollectionDemo
                 new Car() { Make = "SUV", Model = "BBB", Year = 2018 },
                 new Car() { Make = "SUV", Model = "CCC", Year = 2019 },
                 new Car() { Make = "SUV", Model = "DDD", Year = 2020 }
-            };
+            ];
 
             // LINQ 사용해서 Camper만 출력 : select * from cars where make = 'Camper'
             var campers = from car in cars
@@ -53,7 +53,7 @@ namespace LinqCollectionDemo
             // LINQ 식을 통해서 새로운 개체 형식으로 반환
             var newObjects = from car in cars
                              orderby car.Year ascending
-                             select new NewType { Maker = car.Make }; 
+                             select new NewType { Maker = car.Make ]; 
             foreach (var c in newObjects)
             {
                 console.log("{0}", c.Maker);

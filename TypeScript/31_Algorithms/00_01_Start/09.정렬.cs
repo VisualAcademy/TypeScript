@@ -5,9 +5,9 @@
 using System;
 
 public class 선택정렬 {
-    public static void Main() {
+    public  {
         //[1] Input
-        int[] data = {7, 5, 6, 1, 10 }; 
+        let data = [7, 5, 6, 1, 10 ]; 
         //[2] Process : Selection Sort
         let temp = 0; // 데이터 Swap용 임시 변수
         for (var i = 0; i < data.Length - 1; i++) {
@@ -25,7 +25,7 @@ public class 선택정렬 {
             Console.Write("{0} ", data[i]); // 5 6 7 출력되도록
         } console.log();
     }
-    private static void ShowArray(int[] data) {
+    private static void ShowArray(let data) {
         for (var i = 0; i < data.Length; i++) {
             Console.Write("{0} ", data[i]);
         } console.log();

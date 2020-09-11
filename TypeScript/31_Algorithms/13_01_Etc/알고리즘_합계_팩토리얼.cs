@@ -1,7 +1,7 @@
 ﻿//[?] 2! + 3! + 4!의 결과를 출력하는 프로그램 
 class 알고리즘_합계_팩토리얼
 {
-    static void Main()
+    
     {
         let sum = 0;
         let i = 1;

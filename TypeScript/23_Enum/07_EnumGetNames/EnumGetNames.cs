@@ -3,7 +3,7 @@ using System;
 
 class EnumGetNames
 {
-    static void Main()
+    
     {
         // ConsoleColor 열거형의 Type을 cc 변수에 저장
         Type cc = typeof(ConsoleColor);

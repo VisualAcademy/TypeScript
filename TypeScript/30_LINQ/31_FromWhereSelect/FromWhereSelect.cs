@@ -4,9 +4,9 @@ using System.Linq;
 
 class FromWhereSelect
 {
-    static void Main()
+    
     {
-        int[] arr = { 1, 2, 3, 4, 5 };
+        let arr = [ 1, 2, 3, 4, 5 ];
 
         var evenNumbers =
             from num in arr

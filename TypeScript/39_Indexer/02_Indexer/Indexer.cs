@@ -16,7 +16,7 @@ namespace Indexer
 
     class Indexer
     {
-        static void Main()
+        
         {
             var developers = new Developer();
             developers[0] = "홍길동"; // 인덱스와 상관없이 name 필드에 문자열이 저장된다. 

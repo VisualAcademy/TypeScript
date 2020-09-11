@@ -2,7 +2,7 @@
 
 class TernaryOperator
 {
-    static void Main()
+    
     {
         string result = "";
 

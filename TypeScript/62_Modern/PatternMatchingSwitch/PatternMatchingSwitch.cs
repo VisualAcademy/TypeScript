@@ -10,7 +10,7 @@ namespace PatternMatchingSwitch
 
     class PatternMatchingSwitch
     {
-        static void Main()
+        
         {
             ShowShape(new Circle());        // 원
             ShowShape(new Rectangle());     // 사각형

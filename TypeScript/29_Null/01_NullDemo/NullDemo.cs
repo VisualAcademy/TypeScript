@@ -4,7 +4,7 @@ using static System.Console;
 
 class NullDemo
 {
-    static void Main()
+    
     {
         let i = 0;              // 값형(Value Type)
         string s = null;        // 참조형(Reference Type)

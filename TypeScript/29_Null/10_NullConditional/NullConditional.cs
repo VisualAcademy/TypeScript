@@ -3,7 +3,7 @@ using System;
 
 class NullConditional
 {
-    static void Main()
+    
     {
         int? len;
         string message;

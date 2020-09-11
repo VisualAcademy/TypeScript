@@ -11,7 +11,7 @@ public class CustomAttributeTest { }
 
 class AttributePractice
 {
-    static void Main()
+    
     {
         // [2] CustomAttributeTest 클래스에 적용된 특성들 가져오기 
         Attribute.GetCustomAttributes(typeof(CustomAttributeTest));

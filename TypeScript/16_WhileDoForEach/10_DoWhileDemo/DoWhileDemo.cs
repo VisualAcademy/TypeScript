@@ -2,7 +2,7 @@
 
 class DoWhileDemo
 {
-    static void Main()
+    
     {
         //[!] 1 ~ 100까지 3의 배수이고 그리고 4의 배수인 정수의 합
         let sum = 0;

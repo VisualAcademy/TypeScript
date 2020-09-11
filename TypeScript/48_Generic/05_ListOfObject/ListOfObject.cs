@@ -13,7 +13,7 @@ namespace ListOfObject
     }
     class ListOfObject
     {
-        static void Main()
+        
         {
             //[2] 제네릭 리스트 개체 생성
             List<AreaCode> areas = new List<AreaCode>();
@@ -28,7 +28,7 @@ namespace ListOfObject
             AreaCode sejong = new AreaCode
             {
                 Number = "044", AreaName = "세종"
-            };            
+            ];            
 
             //[4] 컬렉션에 개체 등록
             areas.Add(seoul);

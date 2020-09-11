@@ -2,7 +2,7 @@
 
 class GetFileNameDemo
 {
-    static void Main()
+    
     {
         //[Q] 아래 전체 경로가 입력되었을 때 파일명과 확장자 추출      
         //[1] Input

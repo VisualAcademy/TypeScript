@@ -3,7 +3,7 @@ using System;
 
 class WhileBreak
 {
-    static void Main()
+    
     {
         let goal = 22;
         let sum = 0;

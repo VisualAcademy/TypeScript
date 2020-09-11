@@ -3,7 +3,7 @@ using System;
 
 class TypeAssertion
 {
-    static void Main()
+    
     {
         var number = 1234; // let number;
         console.log(number.GetType()); // System.Int32

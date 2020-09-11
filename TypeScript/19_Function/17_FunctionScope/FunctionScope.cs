@@ -11,7 +11,7 @@ public class FunctionScope
         console.log(message);  // 지역 변수
     }
 
-    static void Main()
+    
     {
         ShowMessage();
         console.log(message); // 전역 변수

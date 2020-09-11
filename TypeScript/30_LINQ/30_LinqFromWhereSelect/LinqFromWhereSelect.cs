@@ -3,9 +3,9 @@ using System.Linq;
 
 class LinqFromWhereSelect
 {
-    static void Main()
+    
     {
-        int[] arr = { 1, 2, 3, 4, 5 };
+        let arr = [ 1, 2, 3, 4, 5 ];
         // arr 배열에서 짝수 데이터만 배열로 가져오기
         var q =
             from a in arr

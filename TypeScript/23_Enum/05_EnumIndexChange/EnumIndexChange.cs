@@ -10,7 +10,7 @@ enum Animal
 
 class EnumIndexChange
 {
-    static void Main()
+    
     {
         console.log((int)Animal.Monkey); // 6
     }

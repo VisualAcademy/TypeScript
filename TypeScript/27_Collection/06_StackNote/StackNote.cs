@@ -8,7 +8,7 @@ using System.Collections; // 주요 자료구조 관련 클래스들
 
 class StackNote
 {
-    static void Main()
+    
     {
         //[1] Stack 클래스의 인스턴스 생성
         Stack stack = new Stack();

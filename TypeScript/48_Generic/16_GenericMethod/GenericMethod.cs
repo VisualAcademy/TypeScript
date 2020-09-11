@@ -15,7 +15,7 @@ namespace DotNet
 
     class GenericMethod
     {
-        static void Main()
+        
         {
             //[2] 제네릭 클래스 호출
             Hello<int> hi = new Hello<int>();

@@ -2,7 +2,7 @@
 
 class ForSum
 {
-    static void Main()
+    
     {
         let n = 3; 
         let sum = 0;

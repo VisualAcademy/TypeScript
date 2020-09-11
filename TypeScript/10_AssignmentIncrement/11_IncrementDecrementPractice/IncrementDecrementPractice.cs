@@ -3,7 +3,7 @@ using System;
 
 class IncrementDecrementPractice
 {
-    static void Main()
+    
     {
         let number1 = 3; //[1]
         let number2 = 5; //[2]

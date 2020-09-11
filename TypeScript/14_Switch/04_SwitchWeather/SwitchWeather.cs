@@ -3,7 +3,7 @@ using System;
 
 class SwitchWeather
 {
-    static void Main()
+    
     {
         console.log("오늘 날씨는 어떤가요? (맑음, 흐림, 비, 눈, ...)");
         string weather = Console.ReadLine();

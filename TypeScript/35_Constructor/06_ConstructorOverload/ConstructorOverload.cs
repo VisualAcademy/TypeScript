@@ -15,7 +15,7 @@ class ConstructorLog
 
 class ConstructorOverload
 {
-    static void Main()
+    
     {
         ConstructorLog log1 = new ConstructorLog();
         ConstructorLog log2 = new ConstructorLog("C#");

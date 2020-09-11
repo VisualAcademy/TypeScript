@@ -4,7 +4,7 @@ using static System.Console;
 
 class BitXor
 {
-    static void Main()
+    
     {
         byte x = 0b_1010; // 10
         byte y = 0b_1100; // 12

@@ -3,7 +3,7 @@ using System;
 
 class PlaceHolder
 {
-    static void Main()
+    
     {
         console.log("{0}", "Hello, C#");
     }

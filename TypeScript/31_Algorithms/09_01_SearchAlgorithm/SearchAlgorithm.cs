@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class SearchAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] data = { 1, 3, 5, 7, 9 }; // 오름차순으로 정렬되었다고 가정
+        let data = [ 1, 3, 5, 7, 9 ]; // 오름차순으로 정렬되었다고 가정
         let N = data.Length; // 의사코드
         let search = 3; // 검색할 데이터: Console.ReadLine() 등으로 가져오기
         bool flag = false; // 플래그 변수: 찾으면 true 찾지못하면 false 
@@ -47,7 +47,7 @@ class SearchAlgorithm
     }
 }
 
-//int[] data = { 1, 3, 5, 7, 9 };
+//let data = [ 1, 3, 5, 7, 9 ];
 //if (Array.BinarySearch<int>(data, 3) >= 0)
 //{
 //    console.log($"{3} - {Array.BinarySearch<int>(data, 3)}");

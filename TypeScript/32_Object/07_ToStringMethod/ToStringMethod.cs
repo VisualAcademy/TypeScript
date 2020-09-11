@@ -15,7 +15,7 @@ namespace ToStringMethod
 
     class ToStringMethod
     {
-        static void Main()
+        
         {
             My my = new My();
             console.log(my); // "My": 개체를 출력하면 기본은 클래스 이름이 출력

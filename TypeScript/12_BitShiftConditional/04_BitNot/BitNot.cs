@@ -4,7 +4,7 @@ using static System.Console;
 
 class BitNot
 {
-    static void Main()
+    
     {
         byte x = 0b_0000_1010; // 10
 

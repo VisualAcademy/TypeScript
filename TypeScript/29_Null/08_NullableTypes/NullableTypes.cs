@@ -2,7 +2,7 @@
 
 class NullableTypes
 {
-    static void Main()
+    
     {
         bool? unknown = null;
         if (unknown ?? true)

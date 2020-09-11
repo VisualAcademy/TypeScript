@@ -8,7 +8,7 @@ class UserService
 
 class AutoProperty
 {
-    static void Main()
+    
     {
         console.log(UserService.UserId); // 1234
     }

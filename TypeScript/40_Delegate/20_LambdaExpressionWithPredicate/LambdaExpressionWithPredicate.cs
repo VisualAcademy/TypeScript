@@ -15,7 +15,7 @@ public class LambdaExpressionWithPredicate
         }
     }
 
-    static void Main()
+    
     {
         var numbers = FindNumbers(f => f % 33 == 0);
         foreach (var n in numbers)

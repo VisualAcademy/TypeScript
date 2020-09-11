@@ -2,7 +2,7 @@
 
 public class 수학관련함수
 {
-    public static void Main()
+    public 
     {
         console.log( Math.E ); // 자연로그
         console.log( Math.PI ); // 3.1415926535

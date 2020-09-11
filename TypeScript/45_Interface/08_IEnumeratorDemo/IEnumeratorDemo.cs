@@ -4,9 +4,9 @@ using System.Collections;
 
 class IEnumeratorDemo
 {
-    static void Main()
+    
     {
-        string[] names = { "닷넷코리아", "비주얼아카데미" };
+        string[] names = [ "닷넷코리아", "비주얼아카데미" ];
 
         //[1] foreach 문으로 출력
         foreach (string name in names)

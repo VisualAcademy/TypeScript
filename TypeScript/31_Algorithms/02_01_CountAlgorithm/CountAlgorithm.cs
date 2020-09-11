@@ -7,7 +7,7 @@ using System.Linq;
 /// </summary>
 class CountAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input: 1부터 1,000까지의 데이터 
         var numbers = Enumerable.Range(1, 1_000).ToArray();

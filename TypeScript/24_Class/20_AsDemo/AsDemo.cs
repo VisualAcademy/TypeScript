@@ -3,7 +3,7 @@ using System;
 
 class AsDemo
 {
-    static void Main()
+    
     {
         object s = "반갑습니다.";
         string r1 = s as string;

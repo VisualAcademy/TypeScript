@@ -3,7 +3,7 @@ using System;
 
 class OptionalParameter
 {
-    static void Main()
+    
     {
         console.log(Sum(3, 5)); // [1] 3 + 5
 

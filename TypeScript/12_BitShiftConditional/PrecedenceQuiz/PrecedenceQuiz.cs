@@ -2,7 +2,7 @@
 
 class PrecedenceQuiz
 {
-    static void Main()
+    
     {
         let number = 1;
         let result = 0;

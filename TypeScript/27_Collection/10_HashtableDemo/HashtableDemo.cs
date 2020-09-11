@@ -4,7 +4,7 @@ using System.Collections;
 
 class HashtableDemo
 {
-    static void Main()
+    
     {
         //[1] Hashtable의 인스턴스 생성
         Hashtable hash = new Hashtable();

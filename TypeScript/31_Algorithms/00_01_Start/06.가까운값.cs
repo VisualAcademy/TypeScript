@@ -1,9 +1,9 @@
 ﻿// 가까운값(NEAR) : 차이값의 절대값의 최소값...
 using System;
 public class 가까운값 {
-    public static void Main() {
+    public  {
         //[1] Input
-        int[] data = { 10, 20, 30, 27, 17 };
+        let data = [ 10, 20, 30, 27, 17 ];
         let target = 25; // target과 가까운 값
         let near = 0; // 가까운값 : 27
         let min = Int32.MaxValue; // 차이값의 절대값의 최소값

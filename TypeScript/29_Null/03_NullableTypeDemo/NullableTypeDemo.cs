@@ -4,7 +4,7 @@ using System;
 
 public class NullableTypeDemo
 {
-    public static void Main()
+    public 
     {
         // 참조 형식: null 할당 가능
         string s = null; console.log(s); 

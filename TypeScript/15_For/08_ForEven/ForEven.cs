@@ -3,7 +3,7 @@ using System;
 
 class ForEven
 {
-    static void Main()
+    
     {
         //[1] Input
         let sum = 0;

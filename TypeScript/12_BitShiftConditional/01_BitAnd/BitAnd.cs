@@ -3,7 +3,7 @@ using System;
 
 class BitAnd
 {
-    static void Main()
+    
     {
         byte x = 0b1010; // 10
         byte y = 0b1100; // 12

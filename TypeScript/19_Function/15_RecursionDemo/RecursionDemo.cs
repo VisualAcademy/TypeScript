@@ -4,7 +4,7 @@ using System;
 
 class RecursionDemo
 {
-    static void Main()
+    
     {
         // 재귀 호출을 사용하여 Factorial을 구하기: 4! = 4 * 3 * 2 * 1 = 24
         console.log(4 * 3 * 2 * 1); // 24

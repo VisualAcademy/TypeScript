@@ -2,7 +2,7 @@
 
 class ArrayMultiPractice
 {
-    static void Main()
+    
     {
         int[,] grid = new int[2, 3];
 

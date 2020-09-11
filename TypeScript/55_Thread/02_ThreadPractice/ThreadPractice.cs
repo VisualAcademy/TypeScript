@@ -24,7 +24,7 @@ class ThreadPractice
         console.log("[1] OS: Windows Server");
     }
 
-    static void Main()
+    
     {
         //[1] 스레드
         ThreadStart ts1 = new ThreadStart(Win);
@@ -35,7 +35,7 @@ class ThreadPractice
         var t3 = new Thread(new ThreadStart(Ide))
         {
             Priority = ThreadPriority.Highest // 우선순위 높게 
-        };
+        ];
 
         t1.Start();
         t2.Start();

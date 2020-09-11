@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqSingle
 {
-    static void Main()
+    
     {
-        List<string> colors = new List<string> { "Red", "Green", "Blue" };
+        List<string> colors = new List<string> { "Red", "Green", "Blue" ];
 
         string red = colors.Single(c => c == "Red");
 

@@ -2,7 +2,7 @@
 
 class PlaceHolderEtc
 {
-    static void Main()
+    
     {
         console.log("자리" + "표시자");
         console.log("{0} {1} {2}", "안녕", "방가", "또봐");

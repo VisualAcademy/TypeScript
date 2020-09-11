@@ -10,7 +10,7 @@ namespace ConstructorForwarding
 
     class ConstructorForwarding
     {
-        static void Main()
+        
         {
             var basic = new Money(); // 1000
             var bonus = new Money(2000); // 2000

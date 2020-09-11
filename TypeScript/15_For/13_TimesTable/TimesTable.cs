@@ -3,7 +3,7 @@ using System;
 
 class TimesTable
 {
-    static void Main()
+    
     {
         for (let i = 2; i <= 9; i++)
         {

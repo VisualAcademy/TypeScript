@@ -3,7 +3,7 @@ using System;
 
 class StringCompareValue
 {
-    static void Main()
+    
     {
         string s1 = "Gilbut";
         string s2 = "gilbut";

@@ -5,10 +5,10 @@ using System.Linq;
 
 class StringArray
 {
-    static void Main()
+    
     {
         //[1] 문자열 배열을 선언하는 기본적인 방법
-        var a1 = new string[] { "Red", "Green", "Blue" };
+        var a1 = new string[] { "Red", "Green", "Blue" ];
 
         //[2] List<T> 개체를 생성 후 문자열 배열을 ToList() 메서드로 변환
         var a2 = new List<string>(); a2 = a1.ToList();

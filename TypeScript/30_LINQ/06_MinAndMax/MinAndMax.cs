@@ -3,9 +3,9 @@ using System.Linq;
 
 class MinAndMax
 {
-    static void Main()
+    
     {
-        int[] arr = { 1, 2, 3 };
+        let arr = [ 1, 2, 3 ];
         let min = arr.Min();
         let max = arr.Max();
 

@@ -62,7 +62,7 @@ namespace PropertyAll
 
     class PropertyAll
     {
-        static void Main()
+        
         {
             //[1] Set과 Get 메서드 사용
             Car car1 = new Car();

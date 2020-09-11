@@ -17,7 +17,7 @@ namespace ClassToString
 
     class ClassToString
     {
-        static void Main()
+        
         {
             Person person = new Person("박용준");
             console.log(person); // 개체를 문자열로 출력하면 ToString() 호출됨

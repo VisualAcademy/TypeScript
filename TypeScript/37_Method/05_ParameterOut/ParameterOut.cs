@@ -2,7 +2,7 @@
 
 class ParameterOut
 {
-    static void Main()
+    
     {
         let num; // [A] 변수를 반드시 초기화할 필요없음
 

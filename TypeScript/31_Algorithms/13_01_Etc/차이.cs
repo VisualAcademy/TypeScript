@@ -2,7 +2,7 @@
 
 class 차이
 {
-    static void Main()
+    
     {
         let num1 = 3;
         let num2 = 5;

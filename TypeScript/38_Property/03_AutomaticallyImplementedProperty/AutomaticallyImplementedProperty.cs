@@ -29,7 +29,7 @@ namespace AutomaticallyImplementedProperty
 
     class AutomaticallyImplementedProperty
     {
-        static void Main()
+        
         {
             Car c1 = new Car();
             c1.Name = "남보러가니"; // setter

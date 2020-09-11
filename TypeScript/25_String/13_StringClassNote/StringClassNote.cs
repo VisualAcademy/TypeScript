@@ -3,7 +3,7 @@ using static System.Console;
 
 class StringClassNote
 {
-    static void Main()
+    
     {
         // str 변수에 테스트 문자열 설정
         string str = "";        // 빈 값으로 초기화

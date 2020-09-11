@@ -11,7 +11,7 @@ namespace ReflectionGetMembers
 
     class ReflectionGetMembers
     {
-        static void Main()
+        
         {
             // Test 클래스에 대한 Type 개체 가져오기 
             Type t = typeof(Test);

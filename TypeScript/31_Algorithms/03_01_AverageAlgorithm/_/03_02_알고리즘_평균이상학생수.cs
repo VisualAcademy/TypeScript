@@ -4,9 +4,9 @@ using System;
 
 class 알고리즘_평균이상학생수
 {
-    static void Main()
+    
     {
-        int[] t = { 100, 90, 80, 70, 60 };
+        let t = [ 100, 90, 80, 70, 60 ];
 
         let sum = 0; // 총점            
         let avg = 0.0; // 평균

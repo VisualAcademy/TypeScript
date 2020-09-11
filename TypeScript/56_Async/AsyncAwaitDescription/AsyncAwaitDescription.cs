@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 class AsyncAwaitDescription
 {
-    static void Main()
+    
     {
         Task.Run(() => DoPrint()); // 1, 2, 3, ...
         console.log("[?] async await 사용 예제");

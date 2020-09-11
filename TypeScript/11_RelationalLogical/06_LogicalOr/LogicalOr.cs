@@ -3,7 +3,7 @@ using System;
 
 class LogicalOr
 {
-    static void Main()
+    
     {
         // || 연산자: OR
         console.log($"true  || true  -> {true || true}  "); // true

@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqAnyNumber
 {
-    static void Main()
+    
     {
-        int[] arr = { 1, 2, 3 };
+        let arr = [ 1, 2, 3 ];
         bool bln = arr.Any(num => num == 2); // bool 값 반환
         if (bln)
         {

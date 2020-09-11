@@ -3,7 +3,7 @@ using System;
 
 class WrapperType
 {
-    static void Main()
+    
     {
         let number1 = 1234; // let 키워드: 기본 형식
         Int32 number2 = 1234; // System.Int32 구조체: .NET 형식

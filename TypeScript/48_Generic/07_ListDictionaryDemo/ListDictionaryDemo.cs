@@ -13,14 +13,14 @@ namespace ListDictionaryDemo
 
     class ListDictionaryDemo
     {
-        static void Main()
+        
         {
             //[1] 개체의 인스턴스 생성 -> 속성값 초기화
             Book b1 = new Book();
             b1.Title = "ASP.NET"; b1.Author = "박용준"; b1.ISBN = "1234";
 
             //[2] Object Intializer(개체 초기화자)
-            Book b2 = new Book() { Title = "C#", Author = "박용준", ISBN = "4321" };
+            Book b2 = new Book() { Title = "C#", Author = "박용준", ISBN = "4321" ];
 
             //[3] ListDictionary 클래스에 개체 담기 : Key, Value 쌍으로 개체 값 저장
             ListDictionary ld = new ListDictionary();

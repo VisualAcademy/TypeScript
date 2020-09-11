@@ -7,7 +7,7 @@ using System.Collections.Generic;
 /// </summary>
 class GenericPros
 {
-    static void Main()
+    
     {
         //[1] 제네릭 사용 전
         Stack s1 = new Stack();

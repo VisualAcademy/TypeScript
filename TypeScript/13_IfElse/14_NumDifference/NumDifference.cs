@@ -3,7 +3,7 @@ using System;
 
 class NumDifference
 {
-    static void Main()
+    
     {
         let first = 3;
         let second = 5;

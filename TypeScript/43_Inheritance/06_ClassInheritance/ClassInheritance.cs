@@ -15,7 +15,7 @@ namespace ClassInheritance
 
     class ClassInheritance : Object
     {
-        static void Main()
+        
         {
             //[1] 부모 클래스의 인스턴스 생성
             ParentClass p = new ParentClass();

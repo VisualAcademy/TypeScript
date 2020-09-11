@@ -3,7 +3,7 @@ using System;
 
 class DateTimeTryParse
 {
-    static void Main()
+    
     {
         DateTime dt; // [1] 반환형 매개 변수에 사용될 지역 변수(초기화하지 않음)
         

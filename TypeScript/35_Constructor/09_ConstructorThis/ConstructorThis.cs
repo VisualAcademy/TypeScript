@@ -18,6 +18,6 @@ namespace ConstructorThis
     class ConstructorThis
     {
         //[A] 매개변수가 있는 생성자 호출할 때 매개변수가 없는 생성자도 함께 호출
-        static void Main() => new Say("[2] 잘가요.");
+         => new Say("[2] 잘가요.");
     }
 }

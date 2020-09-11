@@ -6,7 +6,7 @@ using System.Collections;
 
 class QueueDemo
 {
-    static void Main()
+    
     {
         //[1] Queue 클래스의 인스턴스 생성
         var queue = new Queue();

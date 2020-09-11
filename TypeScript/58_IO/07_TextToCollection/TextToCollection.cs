@@ -13,7 +13,7 @@ namespace DotNet
 
     class TextToCollection
     {
-        static void Main()
+        
         {
             //[1] 텍스트 파일 읽기
             string[] lines =

@@ -17,7 +17,7 @@ namespace VirtualMethod
 
     class VirtualMethod
     {
-        static void Main()
+        
         {
             //[A] 부모 인스턴스 생성
             Animal animal = new Animal();

@@ -20,7 +20,7 @@ namespace ExtensionMethodDemo
 
     class ExtensionMethodDemo
     {
-        static void Main()
+        
         {
             string s = "안녕하세요? 확장 메서드... ...";
             console.log(s.Length); // [1] 문자의 개수

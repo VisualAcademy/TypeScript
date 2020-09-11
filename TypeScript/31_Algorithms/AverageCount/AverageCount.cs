@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class AverageCount
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] scores = { 100, 90, 80, 70, 60 };
+        let scores = [ 100, 90, 80, 70, 60 ];
         var sum = 0; // 총점
         var count = 0; // 개수
         var avg = 0.0; // 평균

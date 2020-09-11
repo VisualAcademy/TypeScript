@@ -8,7 +8,7 @@ class Fish
 
 class PropertyPractice
 {
-    static void Main()
+    
     {
         var fish = new Fish();
         fish.Weight = 10;

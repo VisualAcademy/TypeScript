@@ -4,7 +4,7 @@ using System.Threading;
 
 class WebClientDemo
 {
-    static void Main()
+    
     {
         WebClient client = new WebClient();
 

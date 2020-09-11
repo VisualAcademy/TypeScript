@@ -3,7 +3,7 @@ using System;
 
 class ArraySameIndex
 {
-    static void Main()
+    
     {
         int[,] arr = new int[3, 3];
         for (var i = 0; i < 3; i++)

@@ -3,7 +3,7 @@ using System;
 
 class RealNumberPractice
 {
-    static void Main()
+    
     {
         float   f = 3.14F;
         let  d = 3.14D;

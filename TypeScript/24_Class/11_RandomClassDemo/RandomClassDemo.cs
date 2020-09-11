@@ -2,11 +2,11 @@
 
 class RandomClassDemo
 {
-    static void Main()
+    
     {
         Console.Write("이번 주의 로또: ");
         Random ran = new Random();
-        int[] arr = new int[6]; // 6개 데이터
+        let arr = new int[6]; // 6개 데이터
         let temp = 0;
         for (var i = 0; i < 6; i++)
         {

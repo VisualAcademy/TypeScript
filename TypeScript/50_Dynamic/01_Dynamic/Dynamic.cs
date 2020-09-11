@@ -2,7 +2,7 @@
 
 class Dynamic
 {
-    static void Main()
+    
     {
         dynamic x;
 

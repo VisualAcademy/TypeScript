@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 class ListOfString
 {
-    static void Main()
+    
     {
         //[0] 제네릭 리스트 사용을 위한 인스턴스 생성 및 샘플 데이터 입력
         List<string> colors = new List<string>();

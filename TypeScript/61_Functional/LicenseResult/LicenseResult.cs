@@ -21,7 +21,7 @@ class LicenseResult
     static string GetResultWithExpression(let score) =>
         score >= 60 ? "합격" : "불합격"; // 변하지 않는 값 반환
 
-    static void Main()
+    
     {
         //[A] 문 호출
         console.log(GetResultWithStatement(60)); // 합격

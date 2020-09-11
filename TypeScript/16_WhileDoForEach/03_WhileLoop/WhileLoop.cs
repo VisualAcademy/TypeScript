@@ -2,7 +2,7 @@
 
 class WhileLoop
 {
-    static void Main()
+    
     {
         let count = 1;                                  // 초기식
         while (count <= 3)                              // 조건식

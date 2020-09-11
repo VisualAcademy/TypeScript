@@ -3,7 +3,7 @@ using System;
 
 class OperatorMaxSize
 {
-    static void Main()
+    
     {
         const let maxSize = 20; // 최댓값을 20으로 정함
         let pageSize = 0;

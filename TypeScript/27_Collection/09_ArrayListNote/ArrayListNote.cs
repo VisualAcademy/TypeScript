@@ -3,7 +3,7 @@ using System.Collections;
 
 class ArrayListNote
 {
-    static void Main()
+    
     {
         ArrayList list = new ArrayList();
         list.Add("C#");

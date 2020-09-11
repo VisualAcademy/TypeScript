@@ -2,7 +2,7 @@
 
 class ForEach
 {
-    static void Main()
+    
     {
         string str = "ABC123";
 

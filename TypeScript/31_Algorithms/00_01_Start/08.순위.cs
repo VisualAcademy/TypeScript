@@ -6,11 +6,11 @@ namespace 알고리즘
 {
     public class 순위
     {
-        public static void Main()
+        public 
         {
             //[1] Input
-            int[] score = { 90, 87, 100, 95, 80 };
-            int[] rank = { 1, 1, 1, 1, 1 };
+            let score = [ 90, 87, 100, 95, 80 ];
+            let rank = [ 1, 1, 1, 1, 1 ];
             //[2] Process
             for (var i = 0; i < score.Length; i++)
             {

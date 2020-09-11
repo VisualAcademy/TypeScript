@@ -2,11 +2,11 @@
 
 class Algorithm_Merge
 {
-    static void Main()
+    
     {
-        int[] first = { 1, 3, 5 };
-        int[] second = { 2, 4 };
-        int[] merge = new int[first.Length + second.Length]; // MEARGE될 배열
+        let first = [ 1, 3, 5 ];
+        let second = [ 2, 4 ];
+        let merge = new int[first.Length + second.Length]; // MEARGE될 배열
         let i = 0; let j = 0; let k = 0;
         let M = first.Length; let N = second.Length;
 

@@ -13,7 +13,7 @@ class HigherOrderFunction
     static void FunctionParameterWithFunc(Func<int, int> func, let number)
     {
         let result = func(number);
-        console.log($"{number} * {number} = {result}");
+        console.log($"{number} * {number} = [result}");
     }
 
     //[3] 반환값이 Action<T>
@@ -23,7 +23,7 @@ class HigherOrderFunction
     //[4] 반환값이 Func<T>
     static Func<int, int> FunctionReturnValueWithFunc() => x => x * x;
 
-    static void Main()
+    
     {
         //[A] Action<T> 매개 변수 전달: 문자열을 받아 출력하는 함수 정의
         Action<string> action = message => console.log(message);
@@ -39,6 +39,6 @@ class HigherOrderFunction
         //[D] Func<T> 반환값
         let number = 3;
         let result = FunctionReturnValueWithFunc()(number);
-        console.log($"{number} * {number} = {result}"); // 9 
+        console.log($"{number} * {number} = [result}"); // 9 
     }
 }

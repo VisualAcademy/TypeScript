@@ -2,7 +2,7 @@
 
 class EnvironmentExit
 {
-    static void Main()
+    
     {
         console.log("출력됩니다.");
 

@@ -2,7 +2,7 @@
 
 class NumberMaxMin
 {
-    static void Main()
+    
     {
         console.log("[08비트] sbyte 최솟값: {0}", sbyte.MinValue);
         console.log("[08비트] sbyte 최댓값: {0}", sbyte.MaxValue);

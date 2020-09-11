@@ -2,7 +2,7 @@
 
 class IntParse
 {
-    static void Main()
+    
     {
         string strNumber = "1234";
 

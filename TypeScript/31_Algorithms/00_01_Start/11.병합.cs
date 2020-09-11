@@ -6,10 +6,10 @@
 using System;
 
 public class 병합정렬 {
-    public static void Main() {
+    public  {
         //[1] Input : 원본 데이터가 정렬되어있다고 가정
-        int[] first = {1, 3, 5 }; int[] second = { 2, 4 };
-        int[] mearge = new int[first.Length + second.Length]; // MEARGE될 배열
+        let first = [1, 3, 5 ]; let second = [ 2, 4 ];
+        let mearge = new int[first.Length + second.Length]; // MEARGE될 배열
         let i = 0; let j = 0; let k = 0;
         let M = first.Length; let N = second.Length; 
         //[2] Process

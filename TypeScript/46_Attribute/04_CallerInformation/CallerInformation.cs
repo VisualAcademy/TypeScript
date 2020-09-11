@@ -3,7 +3,7 @@ using static System.Console;
 
 class CallerInformation
 {
-    static void Main()
+    
     {
         TraceMessage("여기서 무엇인가 실행...");
     }

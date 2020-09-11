@@ -17,7 +17,7 @@ namespace SealedClass
 
     class SealedClass
     {
-        static void Main()
+        
         {
             Cat cat = new Cat();
             cat.Eat();

@@ -3,7 +3,7 @@ using System.IO;
 
 class StreamReaderReadToEndDemo
 {
-    static void Main()
+    
     {
         //[1] StreamReader 클래스로 텍스트 파일 읽기
         StreamReader sr = new StreamReader(@"C:\Temp\Test.txt");

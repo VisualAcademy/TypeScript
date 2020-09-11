@@ -2,7 +2,7 @@
 
 class TupleNamed
 {
-    static void Main()
+    
     {
         var boy = (Name: "철수", IsStudent: true, OrderPrice: 1_000 );
         console.log(

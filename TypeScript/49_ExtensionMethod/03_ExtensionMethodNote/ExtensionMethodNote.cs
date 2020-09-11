@@ -10,7 +10,7 @@ public static class OriginalExtension
 
 class ExtensionMethodNote
 {
-    static void Main()
+    
     {
         (new Original()).NewMethod(); // 확장 메서드 호출 
     }

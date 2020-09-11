@@ -3,7 +3,7 @@ using static System.Console;
 
 class FormatExceptionDemo
 {
-    static void Main()
+    
     {
         string inputNumber = "3.14";
         let number = 0;

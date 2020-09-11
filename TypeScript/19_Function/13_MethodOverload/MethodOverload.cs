@@ -16,7 +16,7 @@ class MethodOverload
         console.log(msg);
     }
 
-    static void Main()
+    
     {
         Hi();
         Hi("반갑습니다.");

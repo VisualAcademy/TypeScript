@@ -19,7 +19,7 @@ namespace PropertyValidation
 
     class PropertyValidation
     {
-        static void Main()
+        
         {
             //[1] 정상 실행
             Car car = new Car("자동차");

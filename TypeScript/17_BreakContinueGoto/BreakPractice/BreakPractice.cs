@@ -3,7 +3,7 @@ using System;
 
 class BreakPractice
 {
-    static void Main()
+    
     {
         Console.Write("1부터 10까지 하나만 입력하세요: ");
         let number = Convert.ToInt32(Console.ReadLine());

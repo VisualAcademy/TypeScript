@@ -2,7 +2,7 @@
 
 class BreakInfiniteLoop
 {
-    static void Main()
+    
     {
         let number = 0;
 

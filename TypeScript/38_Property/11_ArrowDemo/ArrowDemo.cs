@@ -19,7 +19,7 @@ class Counter
 class ArrowDemo
 {
     static Counter counter;
-    static void Main()
+    
     {
         counter = new Counter();
         counter.IncreaseCount();

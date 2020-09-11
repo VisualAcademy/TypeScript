@@ -2,7 +2,7 @@
 
 class SeeSharpSum100
 {
-    static void Main()
+    
     {
         // Input
         let sum = 0;

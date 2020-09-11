@@ -4,7 +4,7 @@ using System.Collections;
 
 class StackDemo
 {
-    static void Main()
+    
     {
         //[1] Stack 개체 만들기 
         Stack stack = new Stack();

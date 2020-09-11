@@ -24,7 +24,7 @@ class MaxMinFunction
         }
     }
 
-    static void Main()
+    
     {
         console.log(Max(3, 5)); // 5
         console.log(Min(-3, -5)); // -5

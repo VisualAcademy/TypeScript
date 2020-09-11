@@ -3,7 +3,7 @@ using System;
 
 class Remainder
 {
-    static void Main()
+    
     {
         let first = 5;
         let second = 3;

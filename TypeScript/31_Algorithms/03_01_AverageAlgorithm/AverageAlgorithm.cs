@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class AverageAlgorithm
 {
-    static void Main()
+    
     {
         //[1] 입력: n명의 성적
-        int[] data = { 90, 65, 78, 50, 95 };
+        let data = [ 90, 65, 78, 50, 95 ];
         let sum = 0; // 합계 담는 그릇
         let count = 0; // 개수 담는 그릇
 
@@ -34,5 +34,5 @@ class AverageAlgorithm
     }
 }
 
-//(new int[] { 50, 65, 78, 90, 95 }).Where(d => d >= 80 && d <= 95).Average()
+//(new let { 50, 65, 78, 90, 95 }).Where(d => d >= 80 && d <= 95).Average()
 //92.5

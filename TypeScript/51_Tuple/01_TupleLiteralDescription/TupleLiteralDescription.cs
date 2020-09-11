@@ -2,7 +2,7 @@
 
 class TupleLiteralDescription
 {
-    static void Main() =>  Tally();
+     =>  Tally();
 
     static void Tally()
     {

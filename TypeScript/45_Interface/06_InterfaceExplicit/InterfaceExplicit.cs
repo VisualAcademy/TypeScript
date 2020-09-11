@@ -19,7 +19,7 @@ class Pet : IDog, ICat
 
 class InterfaceExplicit
 {
-    static void Main()
+    
     {
         Pet pet = new Pet();
         ((IDog)pet).Eat(); // [A] pet 개체를 IDog 형식으로 형식 변환

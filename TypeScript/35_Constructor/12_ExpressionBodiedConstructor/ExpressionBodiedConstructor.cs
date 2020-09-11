@@ -18,7 +18,7 @@ namespace ExpressionBodiedConstructor
 
     class ExpressionBodiedConstructor
     {
-        static void Main()
+        
         {
             var pet = new Pet("야옹이");
             console.log(pet.ToString());

@@ -21,7 +21,7 @@ namespace VirtualOverrideBase
 
     class VirtualOverrideBase
     {
-        static void Main()
+        
         {
             (new Parent()).Work();      // 프로그래머
             (new Child()).Work();       // 프로그래머

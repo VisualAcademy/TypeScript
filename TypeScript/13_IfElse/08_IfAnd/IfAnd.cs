@@ -2,7 +2,7 @@
 
 class IfAnd
 {
-    static void Main()
+    
     {
         let number = 1234;
 

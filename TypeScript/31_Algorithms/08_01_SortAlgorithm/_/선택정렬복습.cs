@@ -2,10 +2,10 @@
 
 class 선택정렬복습
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] data = { 3, 2, 1, 5, 4 };
+        let data = [ 3, 2, 1, 5, 4 ];
 
         //[2] Process: 선택정렬 알고리즘
         let N = data.Length;

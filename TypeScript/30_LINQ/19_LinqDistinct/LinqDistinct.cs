@@ -4,7 +4,7 @@ using System.Linq;
 
 class LinqDistinct
 {
-    static void Main()
+    
     {
         var data = Enumerable.Repeat(3, 5); // 3을 5개 저장
         var result = data.Distinct(); // Distinct()로 중복 제거
@@ -14,7 +14,7 @@ class LinqDistinct
         }
         console.log();
 
-        int[] arr = { 2, 2, 3, 3, 3 }; // 2와 3을 중복해서 배열에 저장
+        let arr = [ 2, 2, 3, 3, 3 ]; // 2와 3을 중복해서 배열에 저장
         var r = arr.Distinct();
         foreach (var num in r)
         {

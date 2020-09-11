@@ -2,7 +2,7 @@
 
 class DigitSeparatorDemo
 {
-    static void Main()
+    
     {
         let bin = 0b0001_0001; // 0001 0001 
         let dec = 1_000_000; // 1,000,000

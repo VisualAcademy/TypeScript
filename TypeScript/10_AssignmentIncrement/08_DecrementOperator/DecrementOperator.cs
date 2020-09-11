@@ -3,7 +3,7 @@ using System;
 
 class DecrementOperator
 {
-    static void Main()
+    
     {
         let num = -100;
         --num; // 1 감소

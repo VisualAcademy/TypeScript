@@ -12,7 +12,7 @@ class RecursionPower
         return num * MyPower(num, --cnt); // 2 * (2 * (1))
     }
 
-    static void Main()
+    
     {
         console.log(MyPower(2, 2)); // 2 * 2 * 1 = 4
     }

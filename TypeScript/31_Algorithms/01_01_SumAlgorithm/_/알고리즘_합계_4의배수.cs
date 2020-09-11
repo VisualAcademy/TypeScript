@@ -2,9 +2,9 @@
 
 class 알고리즘_합계_4의배수
 {
-    static void Main()
+    
     {
-        int[] arr = { 8, 16, 15, 12, 17 }; 
+        let arr = [ 8, 16, 15, 12, 17 ]; 
         let sum = 0; // 합계 보관
         let rem = 0; // 나머지 값 임시 보관
         let i = 0; 

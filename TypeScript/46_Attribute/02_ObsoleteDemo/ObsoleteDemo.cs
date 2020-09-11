@@ -2,7 +2,7 @@
 
 public class ObsoleteDemo
 {
-    static void Main()
+    
     {
 
     }

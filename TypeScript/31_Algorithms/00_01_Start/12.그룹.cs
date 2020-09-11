@@ -17,7 +17,7 @@ namespace 알고리즘
     }
     public class 그룹
     {
-        public static void Main()
+        public 
         {
             //[1] Input
             List<ProductInfo> lst = new List<ProductInfo>(); // 입력데이터

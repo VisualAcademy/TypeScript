@@ -3,7 +3,7 @@ using System;
 
 class IDisposableDemo
 {
-    static void Main()
+    
     {
         console.log("[1] 열기");
         using (var t = new Toilet())

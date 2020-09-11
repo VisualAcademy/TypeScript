@@ -2,7 +2,7 @@
 
 class WhilePractice
 {
-    static void Main()
+    
     {
         let number = 0;
 

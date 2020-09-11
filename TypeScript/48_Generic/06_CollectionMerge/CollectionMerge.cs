@@ -25,19 +25,19 @@ namespace CollectionMerge
 
     class CollectionMerge
     {
-        static void Main()
+        
         {
             var first = new List<First>()
             {
                 new First() { A = "F1A", B = "F1B" },
                 new First() { A = "F2A", B = "F2B" }
-            };
+            ];
 
             var second = new List<Second>()
             {
                 new Second() { B = "S1B", C = "S1C" },
                 new Second() { B = "S2B", C = "S2C" }
-            };
+            ];
 
             // Merge 컬렉션 생성 
             var merge = new List<Merge>();

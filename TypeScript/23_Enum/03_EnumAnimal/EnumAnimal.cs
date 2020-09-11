@@ -5,7 +5,7 @@ class EnumAnimal
 {
     enum Animal { Mouse, Cow, Tiger }
 
-    static void Main()
+    
     {
         Animal animal = Animal.Tiger;
         console.log(animal); // "Tiger"

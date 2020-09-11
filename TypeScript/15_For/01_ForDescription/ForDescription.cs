@@ -2,7 +2,7 @@
 
 class ForDescription
 {
-    static void Main()
+    
     {
         // for (초기식;조건식;증감식) { }
         for (var i = 0; i < 3; i++) // i가 0, 1, 2일 때 

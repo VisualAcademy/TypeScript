@@ -11,7 +11,7 @@ namespace PropertyAutoImplemented
 
     class PropertyAutoImplemented
     {
-        static void Main()
+        
         {
             Exam exam = new Exam();
             exam.Id = 1;

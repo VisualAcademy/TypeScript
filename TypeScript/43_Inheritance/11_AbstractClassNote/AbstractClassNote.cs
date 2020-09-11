@@ -15,9 +15,9 @@ namespace AbstractClassNote
 
     class AbstractClassNote
     {
-        static void Main()
+        
         {
-            var child = new Children() { Id = 1, Active = true, Name = "아이" };
+            var child = new Children() { Id = 1, Active = true, Name = "아이" ];
             if (child.Active)
             {
                 console.log($"{child.Id} - {child.Name}");

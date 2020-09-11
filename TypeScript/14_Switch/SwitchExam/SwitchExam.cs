@@ -2,7 +2,7 @@
 
 class SwitchExam
 {
-    static void Main()
+    
     {
         console.log("100 또는 500을 입력하세요.");
         let coin = Convert.ToInt32(Console.ReadLine());

@@ -10,7 +10,7 @@ class ConstructorDemo
     }
 
     // 진입점
-    static void Main()
+    
     {
         ConstructorDemo c = new ConstructorDemo();
     }

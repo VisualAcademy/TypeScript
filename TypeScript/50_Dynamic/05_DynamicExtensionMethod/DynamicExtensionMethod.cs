@@ -5,7 +5,7 @@ static class DynamicExtensionMethod
     // 확장 메서드 
     static string PreDotNet(this string str) => $"....{str}";
 
-    static void Main()
+    
     {
         string s1 = "DotNet";
         console.log(s1.PreDotNet()); //[1] 실행됨

@@ -7,7 +7,7 @@ namespace EnumIndex
 
     class EnumIndex
     {
-        static void Main()
+        
         {
             Animal animal = Animal.Dragon;
             let num = (int)animal; // 1

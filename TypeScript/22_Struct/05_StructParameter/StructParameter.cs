@@ -11,7 +11,7 @@ namespace StructParameter
 
     class StructParameter
     {
-        static void Main()
+        
         {
             //[1] 변수 사용
             string name = "홍길동";

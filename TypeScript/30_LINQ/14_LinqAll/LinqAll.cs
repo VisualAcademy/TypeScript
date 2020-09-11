@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqAll
 {
-    static void Main()
+    
     {
-        bool[] completes = { true, true, true };
+        bool[] completes = [ true, true, true ];
 
         // 배열 또는 컬렉션의 모든 항목이 true일때에만 true을 반환
         console.log(completes.All(c => c == true));

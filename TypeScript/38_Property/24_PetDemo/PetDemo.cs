@@ -24,7 +24,7 @@ namespace PetDemo
 
     class PetDemo
     {
-        static void Main()
+        
         {
             Pet pet = new Pet();
             pet.Weight = 50; // 속성으로 값 초기화

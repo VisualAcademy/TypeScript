@@ -3,7 +3,7 @@ using System;
 
 class DynamicallyTypedObjects
 {
-    static void Main()
+    
     {
         dynamic x = 1; // 컴파일 시 dynamic, 런타임 시 System.Int32
         dynamic y = "Hello"; // 컴파일 시점에는 dynamic, 런타임 시점에는 System.String 

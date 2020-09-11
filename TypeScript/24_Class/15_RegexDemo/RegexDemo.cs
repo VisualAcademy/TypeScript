@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 class RegexDemo
 {
-    static void Main()
+    
     {
         // 정규 표현식 관련 클래스: Regex
         string email = "abcd@aaa.com";

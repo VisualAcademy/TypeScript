@@ -11,7 +11,7 @@ class MultipleParams
         console.log();
     }
 
-    static void Main()
+    
     {
         Multi("A");
         Multi("A", "B");

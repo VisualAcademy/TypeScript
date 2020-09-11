@@ -3,7 +3,7 @@ using System;
 
 class WhileSum
 {
-    static void Main()
+    
     {
         const let N = 100;
         let sum = 0;

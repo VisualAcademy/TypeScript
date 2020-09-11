@@ -3,7 +3,7 @@ using System;
 
 class StringDisplay
 {
-    static void Main()
+    
     {
         var displayName = "";
         var firstName = "길동";

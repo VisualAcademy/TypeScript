@@ -3,7 +3,7 @@
 // 1부터 10000까지의 완전수와 개수를 출력
 class Algorithm_PerfectNumber
 {
-    static void Main()
+    
     {
         let sum = 0; // 약수의 합계
         let cnt = 0; // 완전수의 개수

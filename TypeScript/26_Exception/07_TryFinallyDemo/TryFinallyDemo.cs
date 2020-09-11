@@ -2,7 +2,7 @@
 
 class TryFinallyDemo
 {
-    static void Main()
+    
     {
         console.log("[1] 시작");
 

@@ -4,7 +4,7 @@ using System;
 
 class 알고리즘_등차수열_홀수의합
 {
-    static void Main()
+    
     {
         //[1] Input
         let sum = 0;

@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class BubbleSortAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] data = { 3, 2, 1, 5, 4 };
+        let data = [ 3, 2, 1, 5, 4 ];
         let N = data.Length;
 
         //[2] Process: Bubble Sort(거품 정렬) 알고리즘

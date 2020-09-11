@@ -14,7 +14,7 @@ class Catalog
 
 class IndexerNote
 {
-    static void Main()
+    
     {
         Catalog catalog = new Catalog();
         console.log(catalog[0]); //[2] 개체명[인덱스] 형태로 호출 가능

@@ -12,7 +12,7 @@ class YieldReturn
         yield return "C#";
     }
 
-    static void Main()
+    
     {
         //[2] 반복기를 foreach 문으로 호출해서 사용 
         foreach (var item in MultiData())

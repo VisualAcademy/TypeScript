@@ -2,7 +2,7 @@
 
 class WhileDescription
 {
-    static void Main()
+    
     {
         let count = 0;                          // 초기식
         while (count < 3)                       // 조건식

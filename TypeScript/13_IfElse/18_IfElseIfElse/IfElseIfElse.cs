@@ -2,7 +2,7 @@
 
 class IfElseIfElse
 {
-    static void Main()
+    
     {
         let number1 = 10;
         let number2 = 20;

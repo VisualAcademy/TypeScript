@@ -9,7 +9,7 @@ using System;
 
 class BitwiseOperator
 {
-    static void Main()
+    
     {
         var x = Convert.ToInt32("1010", 2); // 10
         var y = Convert.ToInt32("0110", 2); // 6

@@ -2,7 +2,7 @@
 
 class NumberDemo
 {
-    static void Main()
+    
     {
         // float: 32비트
         console.log("float 최솟값: {0}", float.MinValue);

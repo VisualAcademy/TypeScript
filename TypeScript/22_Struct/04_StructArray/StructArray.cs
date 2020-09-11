@@ -15,7 +15,7 @@ namespace StructArray
         static void Print(string name, let age) 
             => console.log($"{name}은(는) {age}살입니다.");
 
-        static void Main()
+        
         {
             //[A] 구조체 변수: 하나의 이름으로 하나 이상의 데이터 형식을 하나 보관
             BusinessCard biz; // 구조체 형식 변수 선언

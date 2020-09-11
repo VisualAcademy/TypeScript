@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqWhereContains
 {
-    static void Main()
+    
     {
-        List<string> names = new List<string> { "ASP.NET", "Blazor", "C#" };
+        List<string> names = new List<string> { "ASP.NET", "Blazor", "C#" ];
 
         IEnumerable<string> search = names.Where(n => n.Contains("a"));
 

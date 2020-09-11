@@ -2,7 +2,7 @@
 
 class IfExam
 {
-    static void Main()
+    
     {
         //let age = 13;
         //if (age < 14)

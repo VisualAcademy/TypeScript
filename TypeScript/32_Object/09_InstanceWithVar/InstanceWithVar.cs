@@ -4,7 +4,7 @@ public class ExamClass { }
 
 class InstanceWithVar
 {
-    static void Main()
+    
     {
         //[1] 클래스를 사용하기 위해 인스턴스 생성
         ExamClass exam1 = new ExamClass(); // 기본 방식

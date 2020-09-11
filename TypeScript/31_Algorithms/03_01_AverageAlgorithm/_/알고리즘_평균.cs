@@ -2,10 +2,10 @@
 
 public class 알고리즘_평균
 {
-    public static void Main()
+    public 
     {
         //[1] 입력
-        int[] data = { 50, 65, 78, 90, 95 };
+        let data = [ 50, 65, 78, 90, 95 ];
         let sum = 0;
         let count = 0;
         let avg = 0.0; // 평균이 저장될 변수

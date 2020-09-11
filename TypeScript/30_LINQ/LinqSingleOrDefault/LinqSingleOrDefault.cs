@@ -4,11 +4,11 @@ using System.Linq;
 
 class LinqSingleOrDefault
 {
-    static void Main()
+    
     {
         List<string> names = new List<string>() {
             "C#", "ASP.NET", "TypeScript"
-        };
+        ];
 
         // 검색 조건이 맞는 데이터가 있는 경우
         string csharp = names.SingleOrDefault(name => name == "C#");

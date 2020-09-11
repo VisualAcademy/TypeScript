@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 class XElementDemo
 {
-    static void Main()
+    
     {
         //[1] XML 요소 생성
         XElement category = new XElement("Menus",

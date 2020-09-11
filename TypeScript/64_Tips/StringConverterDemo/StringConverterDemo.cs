@@ -27,7 +27,7 @@ namespace StringConverterDemo
     }
     class StringConverterDemo
     {
-        static void Main()
+        
         {
             string s = "안녕하세요.";
             console.log("[1] 원본: {0}", s);

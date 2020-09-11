@@ -3,7 +3,7 @@ using System;
 
 class LogicalNot
 {
-    static void Main()
+    
     {
         // ! 연산자: NOT
         console.log($"!true  -> {!true}  "); // false

@@ -3,7 +3,7 @@ using System;
 
 class NullableTypeCheck
 {
-    static void Main()
+    
     {
         int? x = null;
 

@@ -3,7 +3,7 @@ using System;
 
 class StructVariable
 {
-    static void Main()
+    
     {
         // 구조체 형식 변수 선언
         Product product;

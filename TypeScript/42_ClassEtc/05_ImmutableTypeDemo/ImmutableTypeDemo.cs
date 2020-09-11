@@ -12,7 +12,7 @@ namespace ImmutableTypeDemo
 
     class ImmutableTypeDemo
     {
-        static void Main()
+        
         {
             //[1] 생성자를 통해서 반지름이 10인 Circle 개체 생성
             Circle circle = new Circle(10);

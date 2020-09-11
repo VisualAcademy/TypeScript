@@ -2,7 +2,7 @@
 
 class ParameterIn
 {
-    static void Main()
+    
     {
         let num = 10;
         console.log($"[1] {num}"); // [1] 10

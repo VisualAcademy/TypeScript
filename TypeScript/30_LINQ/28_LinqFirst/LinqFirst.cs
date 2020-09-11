@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqFirst
 {
-    static void Main()
+    
     {
-        List<string> colors = new List<string> { "Red", "Green", "Blue" };
+        List<string> colors = new List<string> { "Red", "Green", "Blue" ];
 
         string red = colors.First(c => c == "Red");
 
@@ -25,7 +25,7 @@ class LinqFirst
         }
     }
 }
-//> List<string> colors = new List<string> { "Red", "Green", "Blue" };
+//> List<string> colors = new List<string> { "Red", "Green", "Blue" ];
 //> colors.First(c => c == "Red")
 //"Red"
 //> colors.First(color => color == "Black")

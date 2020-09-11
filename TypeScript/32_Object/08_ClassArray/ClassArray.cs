@@ -8,7 +8,7 @@ public class CategoryClass
 
 class ClassArray
 {
-    static void Main()
+    
     {
         //[1] 클래스 배열 생성
         CategoryClass[] categories = new CategoryClass[3];

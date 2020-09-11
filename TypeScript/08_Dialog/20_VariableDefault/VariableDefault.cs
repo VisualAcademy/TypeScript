@@ -2,7 +2,7 @@
 
 class VariableDefault
 {
-    static void Main()
+    
     {
         let i = default;
         let d = default;

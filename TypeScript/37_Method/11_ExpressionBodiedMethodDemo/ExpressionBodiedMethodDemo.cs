@@ -3,7 +3,7 @@ using System;
 
 class ExpressionBodiedMethodDemo
 {
-    static void Main()
+    
     {
         Hello(); // Hello. 
         console.log(DoubleValue(4)); // 8

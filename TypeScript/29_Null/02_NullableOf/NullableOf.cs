@@ -2,7 +2,7 @@
 
 class NullableOf
 {
-    static void Main()
+    
     {
         // Nullable<T> 구조체를 사용하여 널 가능 형식 변수 만들기
         Nullable<bool> bln = null;

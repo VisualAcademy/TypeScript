@@ -3,7 +3,7 @@ using System;
 
 class UnsignedInteger
 {
-    static void Main()
+    
     {
         byte iByte   = 255;                  //  8비트 부호 없는 정수형 변수 선언 및 할당
         ushort iUInt16 = 65535;                // 16비트 부호 없는 정수형 변수 선언 및 할당

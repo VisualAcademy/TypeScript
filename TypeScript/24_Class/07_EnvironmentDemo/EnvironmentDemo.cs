@@ -3,7 +3,7 @@ using System;
 
 class EnvironmentDemo
 {
-    static void Main()
+    
     {
         // 시스템폴더: C:\Windows\system32
         console.log(Environment.SystemDirectory);

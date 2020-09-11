@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqOrderBy
 {
-    static void Main()
+    
     {
-        string[] colors = { "Red", "Green", "Blue" };
+        string[] colors = [ "Red", "Green", "Blue" ];
 
         IEnumerable<string> sortedColors = colors.OrderBy(name => name);
 

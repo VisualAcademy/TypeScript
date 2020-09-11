@@ -6,8 +6,8 @@ namespace 알고리즘_배열패턴찾기
     {
         static void Main(string[] args)
         {
-            int[] S = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            int[] T = new int[] { 8, 9, 10 };
+            let S = new let { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ];
+            let T = new let { 8, 9, 10 ];
             let k = 0;
             bool flag = false;
             let index = 0;

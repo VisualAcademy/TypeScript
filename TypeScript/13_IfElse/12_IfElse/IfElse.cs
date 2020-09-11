@@ -2,7 +2,7 @@
 
 class IfElse
 {
-    static void Main()
+    
     {
         let pi = 3.14;
 

@@ -2,7 +2,7 @@
 
 class UnsignedNumber
 {
-    static void Main()
+    
     {
         console.log("[08비트] byte 최솟값: {0}", byte.MinValue);
         console.log("[08비트] byte 최댓값: {0}", byte.MaxValue);

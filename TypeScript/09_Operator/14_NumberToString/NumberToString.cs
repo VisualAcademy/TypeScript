@@ -2,7 +2,7 @@
 
 class NumberToString
 {
-    static void Main()
+    
     {
         let days = 28;
 

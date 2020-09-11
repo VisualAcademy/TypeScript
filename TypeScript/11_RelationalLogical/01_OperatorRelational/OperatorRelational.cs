@@ -4,7 +4,7 @@ using System;
 
 class OperatorRelational
 {
-    static void Main()
+    
     {
         let x = 3;
         let y = 5;

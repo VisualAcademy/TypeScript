@@ -2,7 +2,7 @@ using System;
 
 public class LocalVariable
 {
-    public static void Main()
+    public 
     {
         let i = 1234;
         let j = 2345;

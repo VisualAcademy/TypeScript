@@ -2,7 +2,7 @@
 
 class IntToByte
 {
-    static void Main()
+    
     {
         let x = 255;
 

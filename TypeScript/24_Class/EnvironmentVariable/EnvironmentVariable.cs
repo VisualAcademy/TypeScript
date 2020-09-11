@@ -3,7 +3,7 @@ using System;
 
 class EnvironmentVariable
 {
-    static void Main()
+    
     {
         console.log(Environment.SystemDirectory); // 시스템폴더
         console.log(Environment.Version); // 닷넷기준버전: 4.0.30319.42000

@@ -3,7 +3,7 @@ using System;
 
 class ConditionalOperator
 {
-    static void Main()
+    
     {
         let number = 3;
 

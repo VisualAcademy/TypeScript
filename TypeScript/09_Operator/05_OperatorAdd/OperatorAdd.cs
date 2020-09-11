@@ -3,7 +3,7 @@ using System;
 
 class OperatorAdd
 {
-    static void Main()
+    
     {
         let i = 10;
         let j = 20;

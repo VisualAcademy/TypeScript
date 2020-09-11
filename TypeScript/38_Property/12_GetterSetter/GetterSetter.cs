@@ -9,7 +9,7 @@ class GetterSetter
         get => (DateTime.Now - BirthDate).Days / 365 + 1; 
     }
 
-    static void Main()
+    
     {
         GetterSetter user = new GetterSetter();
         user.Name = "마이크로소프트";

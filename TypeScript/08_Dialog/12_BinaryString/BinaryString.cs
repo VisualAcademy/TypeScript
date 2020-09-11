@@ -3,7 +3,7 @@ using System;
 
 class BinaryString
 {
-    static void Main()
+    
     {
         byte x = 10; // 0000 1010
 

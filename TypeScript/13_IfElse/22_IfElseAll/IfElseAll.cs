@@ -2,7 +2,7 @@
 
 class IfElseAll
 {
-    static void Main()
+    
     {
         //let a = 3;
         Console.Write("정수 입력: _\b");

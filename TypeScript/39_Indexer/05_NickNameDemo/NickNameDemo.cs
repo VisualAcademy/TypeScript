@@ -4,7 +4,7 @@ namespace NickNameDemo
 {
     class NickNameDemo
     {
-        static void Main()
+        
         {
             //[A] NickName 클래스의 인스턴스(개체) 생성
             var nick = new NickName();

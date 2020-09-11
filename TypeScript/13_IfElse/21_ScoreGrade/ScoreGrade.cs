@@ -3,7 +3,7 @@ using System;
 
 class ScoreGrade
 {
-    static void Main()
+    
     {
         let score = 0;
         char grade = 'F';

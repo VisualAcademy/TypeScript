@@ -23,7 +23,7 @@ class GroupAlgorithm
         public let Quantity { get; set; }
     }
 
-    static void Main()
+    
     {
         //[0][1] 테스트용 데이터 채우기용 로컬 함수
         List<Record> GetAll()
@@ -34,7 +34,7 @@ class GroupAlgorithm
                 new Record { Name = "TV", Quantity = 1 },
                 new Record { Name = "RADIO", Quantity = 2 },
                 new Record { Name = "DVD", Quantity = 4 }
-            };
+            ];
         }
 
         //[0][2] 컬렉션 데이터 출력용 로컬 함수 

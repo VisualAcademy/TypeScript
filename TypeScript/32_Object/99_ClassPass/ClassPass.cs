@@ -10,7 +10,7 @@ namespace ClassPass
 
     class ClassPass
     {
-        static void Main()
+        
         {
             //[1] 개체 선언: 클래스의 인스턴스 생성: (예)자동차 설계도로부터 하나의 자동차 생성
             Car car1 = new Car();

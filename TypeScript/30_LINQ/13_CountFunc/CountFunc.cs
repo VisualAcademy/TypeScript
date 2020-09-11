@@ -3,9 +3,9 @@ using System.Linq;
 
 class CountFunc
 {
-    static void Main()
+    
     {
-        bool[] blns = { true, false, true, false, true };
+        bool[] blns = [ true, false, true, false, true ];
 
         console.log(blns.Count()); // 5
         console.log(blns.Count(bln => bln == true)); // 3

@@ -13,7 +13,7 @@ namespace ConstructorMethod
 
     class ConstructorMethod
     {
-        static void Main()
+        
         {
             Student student;
             student = new Student(); // 생성자를 통해서 개체를 생성

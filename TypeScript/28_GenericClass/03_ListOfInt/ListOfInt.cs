@@ -4,10 +4,10 @@ using System.Collections.Generic;
 
 class ListOfInt
 {
-    static void Main()
+    
     {
         //[1] 배열 사용
-        int[] arrNumbers = new int[2];
+        let arrNumbers = new int[2];
         arrNumbers[0] = 10;
         arrNumbers[1] = 20;
         for (var i = 0; i < arrNumbers.Length; i++)

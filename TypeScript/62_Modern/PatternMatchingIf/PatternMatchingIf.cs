@@ -11,7 +11,7 @@ namespace PatternMatchingIf
 
     class PatternMatchingIf
     {
-        static void Main() => ShowShape(new Rectangle());
+         => ShowShape(new Rectangle());
 
         static void ShowShape(Shape shape)
         {

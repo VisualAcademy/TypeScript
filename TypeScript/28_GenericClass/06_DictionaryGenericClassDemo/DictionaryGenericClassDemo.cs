@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class DictionaryGenericClassDemo
 {
-    static void Main()
+    
     {
         //[1] Dictionary 클래스의 인스턴스 생성: IDictionary 인터페이스로 받기
         IDictionary<string, string> data = new Dictionary<string, string>();

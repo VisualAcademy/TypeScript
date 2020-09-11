@@ -2,7 +2,7 @@
 
 class ForQuiz
 {
-    static void Main()
+    
     {
         for (var i = 0; i < 5; i++)
         {

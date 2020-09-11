@@ -3,7 +3,7 @@ using static System.Console;
 
 class PatternMatchingWithIf
 {
-    static void Main()
+    
     {
         PrintStars(null);
         PrintStars("하나");

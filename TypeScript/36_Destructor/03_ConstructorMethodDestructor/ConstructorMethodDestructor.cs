@@ -26,7 +26,7 @@ namespace ConstructorMethodDestructor
 
     class ConstructorMethodDestructor
     {
-        static void Main()
+        
         {
             // Car 클래스의 인스턴스 생성
             Car car = new Car(); // 생성

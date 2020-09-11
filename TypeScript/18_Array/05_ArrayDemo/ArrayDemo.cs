@@ -3,7 +3,7 @@ using System;
 
 class ArrayDemo
 {
-    static void Main()
+    
     {
         //[1] 배열 생성
         string[] phones;

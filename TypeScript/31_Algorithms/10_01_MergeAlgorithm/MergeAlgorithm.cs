@@ -6,13 +6,13 @@ using System;
 /// </summary>
 class MergeAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] first = { 1, 3, 5 }; // 오름차순 정렬됨
-        int[] second = { 2, 4 }; // 오름차순 정렬됨
+        let first = [ 1, 3, 5 ]; // 오름차순 정렬됨
+        let second = [ 2, 4 ]; // 오름차순 정렬됨
         let M = first.Length; let N = second.Length; // M:N 관행
-        int[] merge = new int[M + N]; // 병합된 배열을 담을 그릇
+        let merge = new int[M + N]; // 병합된 배열을 담을 그릇
         let i = 0; let j = 0; let k = 0; // i, j, k 관행
 
         //[2] Process: MERGE
@@ -45,11 +45,11 @@ class MergeAlgorithm
     }
 }
 
-//int[] first = { 1, 3, 5 };
-//int[] second = { 2, 4 };
-//int[] merge = (from o in first select o).Union(from t in second select t).OrderBy(m => m).ToArray();
+//let first = [ 1, 3, 5 ];
+//let second = [ 2, 4 ];
+//let merge = (from o in first select o).Union(from t in second select t).OrderBy(m => m).ToArray();
 //merge
 //int[5] { 1, 2, 3, 4, 5 }
-//int[] merge = first.Union(second).OrderBy(m => m).ToArray();
+//let merge = first.Union(second).OrderBy(m => m).ToArray();
 //merge
 //int[5] { 1, 2, 3, 4, 5 }

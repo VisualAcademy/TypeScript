@@ -7,7 +7,7 @@ public class Page
 
 class PropertyPrivateSet
 {
-    static void Main()
+    
     {
         Page page = new Page();
         //page.Message = "외부에서 쓰기 불가능";

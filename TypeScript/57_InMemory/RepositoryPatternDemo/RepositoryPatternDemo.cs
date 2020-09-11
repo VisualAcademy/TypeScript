@@ -26,7 +26,7 @@ public class TableXmlRepository : ITableRepository
 
 class RepositoryPatternDemo
 {
-    static void Main()
+    
     {
         // SQL, InMemoy, XML 등 넘어오는 값에 따른 인스턴스 생성(저장소 결정)
         string repo = "SQL"; // 여기 값을 SQL, InMemory, XML 중 하나로 변경

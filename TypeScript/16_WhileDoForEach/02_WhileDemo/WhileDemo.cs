@@ -3,7 +3,7 @@ using System;
 
 class WhileDemo
 {
-    static void Main()
+    
     {
         let i = 1; // 초기식부터
         while (i <= 5) // 조건식을 만족하는동안

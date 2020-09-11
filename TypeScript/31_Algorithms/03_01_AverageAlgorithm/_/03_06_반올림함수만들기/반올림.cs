@@ -2,7 +2,7 @@
 
 public class 반올림
 {
-    public static void Main() {
+    public  {
         let d = 1234.5678;
         console.log( Math.Round(d, 2) ); // 1234.57
         console.log( MyRound(d, 3) ); // 1234.57

@@ -23,7 +23,7 @@ namespace BaseKeyword
 
     class BaseKeyword
     {
-        static void Main()
+        
         {
             (new My()).Run();
             (new My("나의 끝내주는 자동차")).Run();

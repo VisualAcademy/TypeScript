@@ -17,7 +17,7 @@ namespace GenericsDemo
 
     class GenericsDemo
     {
-        static void Main()
+        
         {
             //[A] string, bool 2개 형식 받기
             var my = new Pair<string, bool>("나는 멋져!", true);

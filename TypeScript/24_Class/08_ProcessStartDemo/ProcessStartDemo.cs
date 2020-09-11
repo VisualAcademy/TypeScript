@@ -4,7 +4,7 @@ namespace DotNet
 {
     class ProcessStartDemo
     {
-        static void Main()
+        
         {
             //[1] 메모장을 실행합니다. 
             Process.Start("Notepad.exe"); 

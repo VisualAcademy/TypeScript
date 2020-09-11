@@ -3,7 +3,7 @@ using System;
 
 class DecimalDemo
 {
-    static void Main()
+    
     {
         decimal d = 12.34M; // decimal 변수 선언 후 실수 데이터 저장 
         console.log("{0}", d); // 12.34

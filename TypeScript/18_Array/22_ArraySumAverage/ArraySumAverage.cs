@@ -2,14 +2,14 @@
 
 class ArraySumAverage
 {
-    static void Main()
+    
     {
         int[,] scores =
         {
             { 90, 100, 0, 0 },
             { 80, 90, 0, 0 },
             { 100, 80, 0, 0 }
-        };
+        ];
 
         for (var i = 0; i < 3; i++)
         {

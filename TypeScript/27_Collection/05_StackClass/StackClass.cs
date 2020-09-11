@@ -3,7 +3,7 @@ using System.Collections;
 
 class StackClass
 {
-    static void Main()
+    
     {
         Stack stack = new Stack();
         stack.Push("First");

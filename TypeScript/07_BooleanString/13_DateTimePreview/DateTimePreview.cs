@@ -2,7 +2,7 @@
 
 class DateTimePreview
 {
-    static void Main()
+    
     {
         //[1] 날짜 전체
         console.log(DateTime.Now);

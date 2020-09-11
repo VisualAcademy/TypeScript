@@ -3,7 +3,7 @@ using System;
 
 class ForIfContinue
 {
-    static void Main()
+    
     {
         for (let i = 1; i <= 5; i++)
         {

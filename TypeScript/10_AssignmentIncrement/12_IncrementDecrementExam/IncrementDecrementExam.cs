@@ -2,7 +2,7 @@
 
 class IncrementDecrementExam
 {
-    static void Main()
+    
     {
         Console.Write("정수 입력: ");
         let number1 = Convert.ToInt32(Console.ReadLine());

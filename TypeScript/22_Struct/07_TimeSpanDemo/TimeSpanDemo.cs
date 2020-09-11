@@ -2,7 +2,7 @@
 
 class TimeSpanDemo
 {
-    static void Main()
+    
     {
         // 시간차(D-Day) 구하기: TimeSpan 구조체
         TimeSpan dday = Convert.ToDateTime("2018-12-25") - DateTime.Now;

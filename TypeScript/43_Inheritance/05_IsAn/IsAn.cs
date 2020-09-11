@@ -11,7 +11,7 @@ namespace IsAn
 
     class IsAn
     {
-        static void Main()
+        
         {
             // 운송 수단(탈것) is a Vehicle.
             Vehicle vehicle = new Vehicle();

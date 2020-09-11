@@ -2,10 +2,10 @@
 
 class ArrayOne2
 {
-    static void Main()
+    
     {
         //[!] 1차원 배열 선언, 요소 생성, 초기화를 동시에...
-        int[] intArray = new int[3] { 1, 2, 3 };
+        let intArray = new int[3] { 1, 2, 3 ];
 
         //[1] for문 사용 출력: 정확하게 배열의 범위를 알고 있을 때
         for (var i = 0; i < 3; i++) // 배열 참조

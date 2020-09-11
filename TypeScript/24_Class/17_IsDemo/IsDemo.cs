@@ -5,7 +5,7 @@ using System;
 
 class IsDemo
 {
-    static void Main()
+    
     {
         object s = "안녕하세요.";
         object i = 1234;

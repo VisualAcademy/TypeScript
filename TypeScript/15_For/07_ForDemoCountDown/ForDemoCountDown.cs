@@ -2,7 +2,7 @@
 
 class ForDemoCountDown
 {
-    static void Main()
+    
     {
         //[1] i 변수의 값이 0, 1, 2, 3, 4로 증가
         for (var i = 0; i < 5; i++)

@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 public class ConditionalDemo
 {
-    static void Main()
+    
     {
         DebugMethod();
         ReleaseMethod();

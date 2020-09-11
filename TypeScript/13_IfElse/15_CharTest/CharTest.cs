@@ -2,7 +2,7 @@
 
 class CharTest
 {
-    static void Main()
+    
     {
         // 콘솔로부터 문자 하나 입력 받기
         console.log("영문 대문자 또는 소문자 하나를 입력하세요.");

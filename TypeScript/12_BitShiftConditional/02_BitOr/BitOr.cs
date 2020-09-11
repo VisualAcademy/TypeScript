@@ -4,7 +4,7 @@ using static System.Console; // System.Console 줄여서 사용
 
 class BitOr
 {
-    static void Main()
+    
     {
         byte x = 0b1010; // 10
         byte y = 0b1100; // 12

@@ -13,7 +13,7 @@ public class ClassName
 
 public class ClassAndMember
 {
-    public static void Main()
+    public 
     {
         // [2][1] 클래스 사용
         ClassName.MemberName(); // 정적(Static) 멤버 접근

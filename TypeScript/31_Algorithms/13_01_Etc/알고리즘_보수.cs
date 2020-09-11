@@ -1,10 +1,10 @@
 ﻿class 알고리즘_보수
 {
-    static void Main()
+    
     {
-        int[] arr = { 0, 1, 0, 1, 1, 1 }; // 010111
-        int[] comp1 = new int[6];
-        int[] comp2 = new int[6];
+        let arr = [ 0, 1, 0, 1, 1, 1 ]; // 010111
+        let comp1 = new int[6];
+        let comp2 = new int[6];
         let p = 0;
         let c = 1; //[1] 
 

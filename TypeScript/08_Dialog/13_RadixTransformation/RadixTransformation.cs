@@ -5,7 +5,7 @@
 /// </summary>
 class RadixTransformation
 {
-    static void Main()
+    
     {
         // 10진수 10을 2진수로 변경하면 1010
         console.log(

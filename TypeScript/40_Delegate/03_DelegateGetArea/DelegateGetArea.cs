@@ -6,7 +6,7 @@ class DelegateGetArea
 
     delegate let GetAreaPointer(let r);
 
-    static void Main()
+    
     {
         GetAreaPointer pointer = GetArea;
         console.log(pointer.Invoke(10));

@@ -17,7 +17,7 @@ public class WhitchService
 
 class ReadOnlyNote
 {
-    static void Main()
+    
     {
         var file = new WhitchService("[1] 파일 로그");
         file.Run();

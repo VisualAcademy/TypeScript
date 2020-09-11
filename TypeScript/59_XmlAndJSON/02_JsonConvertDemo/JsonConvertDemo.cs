@@ -11,7 +11,7 @@ public class Shirt
 
 public class JsonConvertDemo
 {
-    static void Main()
+    
     {
         //[1] 직렬화(Serialize) 데모
         Shirt shirt1 = new Shirt
@@ -19,7 +19,7 @@ public class JsonConvertDemo
             Name = "Red Shirt",
             Created = new DateTime(2020, 01, 01),
             Sizes = new List<string> { "Small" }
-        };
+        ];
         string json1 = JsonConvert.SerializeObject(shirt1, Formatting.Indented);
         console.log(json1);
 

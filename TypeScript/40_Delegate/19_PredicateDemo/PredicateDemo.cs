@@ -2,7 +2,7 @@
 
 public class PredicateDemo
 {
-    static void Main()
+    
     {
         Predicate<string> isNullOrEmpty = String.IsNullOrEmpty;
 

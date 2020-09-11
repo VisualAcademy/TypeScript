@@ -21,7 +21,7 @@ public class Circle
 // CircleClass.cs
 class CircleClass
 {
-    static void Main()
+    
     {
         var circle1 = new Circle(10); 
         console.log(circle1.GetArea()); // 314

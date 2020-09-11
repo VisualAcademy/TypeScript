@@ -97,7 +97,7 @@ namespace CarWorld
 
     class CarWorld
     {
-        static void Main()
+        
         {
             //[A] 클래스, 생성자, 메서드 테스트
             Car campingCar = new Car("캠핑카");

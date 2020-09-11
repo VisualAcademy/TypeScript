@@ -7,7 +7,7 @@ using System;
 /// </summary>
 class ArithmeticSequence
 {
-    static void Main()
+    
     {
         //[1] Input
         var sum = 0;

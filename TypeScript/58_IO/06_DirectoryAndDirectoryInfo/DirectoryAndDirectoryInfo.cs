@@ -3,7 +3,7 @@ using System.IO;
 
 class DirectoryAndDirectoryInfo
 {
-    static void Main()
+    
     {
         string dir = "C:\\";
 

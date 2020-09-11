@@ -16,7 +16,7 @@ class Dog
 
 class MethodPrivate
 {
-    static void Main()
+    
     {
         Dog dog = new Dog();
         dog.Eat(); // [1] public 메서드 호출 

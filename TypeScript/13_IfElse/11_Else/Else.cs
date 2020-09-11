@@ -2,7 +2,7 @@
 
 class Else
 {
-    static void Main()
+    
     {
         let score = 59;
 

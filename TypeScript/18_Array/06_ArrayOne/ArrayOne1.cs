@@ -3,9 +3,9 @@ using System;
 
 class ArrayOne1
 {
-    static void Main()
+    
     {
-        int[] intArray; // 일차원 배열 선언
+        let intArray; // 일차원 배열 선언
         intArray = new int[3]; // 메모리 영역 확보(0, 1, 2)
 
         intArray[0] = 1; // 배열 초기화

@@ -2,7 +2,7 @@
 
 class VariableSameValue
 {
-    static void Main()
+    
     {
         let a, b, c;
 

@@ -13,7 +13,7 @@ class ThreadDemo
         console.log("[?] 다른 작업자 일 종료");
     }
 
-    static void Main()
+    
     {
         console.log("[1] 메인 작업자 일 시작");
 

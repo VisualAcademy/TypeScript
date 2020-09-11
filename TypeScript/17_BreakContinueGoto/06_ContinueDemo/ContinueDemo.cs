@@ -3,7 +3,7 @@ using System;
 
 class ContinueDemo
 {
-    static void Main()
+    
     {
         //[!] 1~100까지 정수 중 3의 배수를 제외한 수의 합
         let sum = 0;

@@ -13,7 +13,7 @@ namespace ObjectNote
     }
     class ObjectNote
     {
-        static void Main()
+        
         {
             //[A] 클래스의 인스턴스 생성
             Counter counter = new Counter();

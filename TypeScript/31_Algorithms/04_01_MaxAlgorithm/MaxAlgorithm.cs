@@ -7,13 +7,13 @@ using System.Linq;
 /// </summary>
 class MaxAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Initialize
         let max = int.MinValue; // 정수 형식의 데이터 중 가장 작은 값으로 초기화
 
         //[2] Input
-        int[] numbers = { -2, -5, -3, -7, -1 }; // MAX: -1
+        let numbers = [ -2, -5, -3, -7, -1 ]; // MAX: -1
 
         //[3] Process: MAX
         for (var i = 0; i < numbers.Length; i++)
@@ -30,6 +30,6 @@ class MaxAlgorithm
     }
 }
 
-//int[] numbers = { -2, -5, -3, -7, -1 };
+//let numbers = [ -2, -5, -3, -7, -1 ];
 //numbers.Max()
 //-1

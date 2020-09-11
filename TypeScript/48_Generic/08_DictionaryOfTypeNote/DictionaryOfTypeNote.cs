@@ -5,7 +5,7 @@ namespace DotNet
 {
     public class DictionaryOfTypeNote
     {
-        static void Main()
+        
         {
             //[1] 키와 값으로 이루어진 Dictionary<T> 개체 생성
             Dictionary<int, double> keyValuePairs = new Dictionary<int, double>();

@@ -2,13 +2,13 @@
 
 public class 알고리즘_최솟값
 {
-    public static void Main()
+    public 
     {
         //[1] Init
         let min = Int32.MaxValue; // 정수형 중 가장 큰 값으로 초기화
 
         //[2] Input
-        int[] data = { -2, -5, -3, -7, -1 };
+        let data = [ -2, -5, -3, -7, -1 ];
 
         //[3] Process : MIN
         for (var i = 0; i < data.Length; i++)

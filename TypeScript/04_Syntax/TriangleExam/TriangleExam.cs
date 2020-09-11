@@ -2,7 +2,7 @@
 
 class TriangleExam
 {
-    static void Main()
+    
     {
         console.log("*");
         console.log("**");

@@ -1,6 +1,6 @@
 ﻿class 알고리즘_배열채우기_달팽이
 {
-    static void Main()
+    
     {
         int[,] arr = new int[6,6];
 

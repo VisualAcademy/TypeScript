@@ -3,7 +3,7 @@ using System.IO;
 
 class FileAndFileInfo
 {
-    static void Main()
+    
     {
         string file = "C:\\Temp\\Test.txt";
 

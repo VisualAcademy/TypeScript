@@ -3,7 +3,7 @@ using System;
 
 class DynamicDemo
 {
-    static void Main()
+    
     {
         string ss = "안녕하세요."; //[1] 코드 작성시 문자열로 판단
         console.log(ss.Length); // 인텔리센스의 도움 받음

@@ -29,7 +29,7 @@ namespace FieldHiding
 
     class FieldHiding
     {
-        static void Main()
+        
         {
             Child child = new Child();
             child.SetWord("필드 숨기기 및 자식 클래스에게만 멤버 상속하기");

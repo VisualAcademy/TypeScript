@@ -2,7 +2,7 @@
 
 class IfElseScoreGrade
 {
-    static void Main()
+    
     {
         Console.Write("점수: ");
         let score = Convert.ToInt32(Console.ReadLine());

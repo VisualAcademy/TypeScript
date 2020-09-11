@@ -2,7 +2,7 @@
 
 class IfNot
 {
-    static void Main()
+    
     {
         bool bln = false;
         if (!bln)

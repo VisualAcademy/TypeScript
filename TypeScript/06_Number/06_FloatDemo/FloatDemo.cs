@@ -3,7 +3,7 @@ using System;
 
 class FloatDemo
 {
-    static void Main()
+    
     {
         float f = 99.99F; // 단정밀도 부동 소수점 변수를 선언하고 값을 할당 
         console.log("{0}", f); // 99.99

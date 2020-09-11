@@ -21,7 +21,7 @@ namespace ListNote
 
     class ListNote
     {
-        static void Main()
+        
         {
             //[1] 개체 형식의 리스트 생성: 컬렉션 이니셜라이저로 값 초기화 
             List<Insolation> insolations = new List<Insolation>()
@@ -30,7 +30,7 @@ namespace ListNote
                 new Insolation { Month = 2, Value = 0.6f },
                 new Insolation { Month = 3, Value = 0.9f },
                 new Insolation { Month = 4, Value = 1.2f }
-            };
+            ];
 
             //[2] Add() 메서드로 리스트에 값 추가: 개체 이니셜라이저로 값 초기화 
             insolations.Add(new Insolation() { Month = 5, Value = 1.5f });
@@ -45,7 +45,7 @@ namespace ListNote
                 new Insolation { Month = 10, Value = 0.9f },
                 new Insolation { Month = 11, Value = 0.6f },
                 new Insolation { Month = 12, Value = 0.1f }
-            };
+            ];
             insolations.AddRange(tempInsolations);
 
             //[4] 리스트 출력

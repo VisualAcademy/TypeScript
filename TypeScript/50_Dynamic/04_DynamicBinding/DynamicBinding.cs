@@ -2,7 +2,7 @@
 
 class DynamicBinding
 {
-    static void Main()
+    
     {
         //[?] 동적 바인딩
         dynamic now = DateTime.Now; 

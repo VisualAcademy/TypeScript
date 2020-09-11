@@ -47,7 +47,7 @@ namespace NamespaceDemo
 {
     class NamespaceDemo
     {
-        static void Main()
+        
         {
             console.log("네임스페이스 데모");
             AllCar.MyCar.Car car = new AllCar.MyCar.Car();

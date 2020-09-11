@@ -2,7 +2,7 @@
 
 class ReadLineCharacter
 {
-    static void Main()
+    
     {
         Console.Write("문자를 입력하세요: ");
         string input = Console.ReadLine(); // "가"를 입력하면 

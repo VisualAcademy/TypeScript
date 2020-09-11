@@ -8,13 +8,13 @@ using static System.Console;
 /// </summary>
 class MinAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Initialize
         var min = Int32.MaxValue; // 정수 형식의 데이터 중 가장 큰 값으로 초기화
 
         //[2] Input: 이진수로 표현 + 숫자 구분자 사용({ 2, 5, 3, 7, 1 })
-        int[] numbers = { 0b0010, 0B_0101, 0b0011, 0B_0111, 0b0000_0001 };
+        let numbers = [ 0b0010, 0B_0101, 0b0011, 0B_0111, 0b0000_0001 ];
 
         //[3] Process: MIN
         for (var i = 0; i < numbers.Length; i++)
@@ -31,6 +31,6 @@ class MinAlgorithm
     }
 }
 
-//int[] numbers = { 0b0010, 0B_0101, 0b0011, 0B_0111, 0b0000_0001 };
+//let numbers = [ 0b0010, 0B_0101, 0b0011, 0B_0111, 0b0000_0001 ];
 //numbers.Where(n => n % 2 == 0).Min()
 //2

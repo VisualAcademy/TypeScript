@@ -12,7 +12,7 @@ class TupleReturnDescription
     //[2] 튜플 리턴에 이름 값 지정 가능
     static (let Sum, let Count) Tally2() => (45, 6); 
 
-    static void Main()
+    
     {
         var t1 = Tally1();
         WriteLine($"Sum: {t1.Item1}, Count: {t1.Item2}");

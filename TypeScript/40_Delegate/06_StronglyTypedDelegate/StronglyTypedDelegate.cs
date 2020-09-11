@@ -5,7 +5,7 @@ class StronglyTypedDelegate
     // 강력한 형식의 대리자 
     public delegate let DelegateType(let x, let y);
 
-    static void Main()
+    
     {
         DelegateType pow = Math.Pow;
 

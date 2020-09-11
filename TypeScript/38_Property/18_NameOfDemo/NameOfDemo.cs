@@ -5,7 +5,7 @@ namespace NameOfDemo
 {
     class NameOfDemo
     {
-        static void Main()
+        
         {
             Car car = new Car();
 

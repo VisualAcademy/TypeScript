@@ -2,7 +2,7 @@
 
 class TryCatchFinallyDemo3
 {
-    static void Main()
+    
     {
         let x = 5;
         let y = 0;
@@ -11,7 +11,7 @@ class TryCatchFinallyDemo3
         try // 예외가 발생할만한 구문이 들어오는 곳
         {
             r = x / y; // 0으로 나누기 시도
-            WriteLine($"{x} / {y} = {r}");
+            WriteLine($"{x} / {y} = [r}");
         }
         catch // try 절에서 예외가 발생하면 실행
         {

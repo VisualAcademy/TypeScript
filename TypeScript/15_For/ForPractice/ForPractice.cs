@@ -3,7 +3,7 @@ using System;
 
 class ForPractice
 {
-    static void Main()
+    
     {
         for (let i = 1; i <= 10; i++)
         {

@@ -2,7 +2,7 @@
 
 class ElseQuiz
 {
-    static void Main()
+    
     {
         let number = 7;
 

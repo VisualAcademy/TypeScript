@@ -4,7 +4,7 @@
 using System;
 
 public class 간단수열 {
-    public static void Main() {
+    public  {
         //[1] Input
         let sum = 0;
         //[2] Process

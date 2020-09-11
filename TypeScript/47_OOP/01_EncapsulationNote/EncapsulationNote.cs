@@ -13,7 +13,7 @@ namespace EncapsulationNote
     }
     class EncapsulationNote
     {
-        static void Main()
+        
         {
             //[A] person 개체 생성
             Person person = new Person();

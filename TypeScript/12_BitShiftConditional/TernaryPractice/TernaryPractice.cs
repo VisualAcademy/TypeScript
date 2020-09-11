@@ -3,7 +3,7 @@ using System;
 
 class TernaryPractice
 {
-    static void Main()
+    
     {
         let score = 59;
         string result = "";

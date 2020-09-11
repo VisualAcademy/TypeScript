@@ -2,7 +2,7 @@
 
 class BitwiseAssignment
 {
-    static void Main()
+    
     {
         byte num1 = 4; // 4: 0000_0100
         byte num2 = 4; // 4: 0000_0100

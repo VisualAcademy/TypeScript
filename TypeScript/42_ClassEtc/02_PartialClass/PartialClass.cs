@@ -18,7 +18,7 @@ namespace PartialClass
 
     class PartialClass
     {
-        static void Main()
+        
         {
             //[A] 부분 클래스인 Person 클래스의 인스턴스 생성
             Person person = new Person();

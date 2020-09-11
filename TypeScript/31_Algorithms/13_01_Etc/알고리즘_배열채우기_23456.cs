@@ -2,7 +2,7 @@
 
 class 알고리즘_배열채우기_23456
 {
-    static void Main()
+    
     {
         int[,] arr = new int[5, 5];
         let p = 0; // 행 인덱스

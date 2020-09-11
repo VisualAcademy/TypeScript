@@ -20,7 +20,7 @@ public class ButtonClass
 
 class EventDemo
 {
-    static void Main()
+    
     {
         //[A] Button 클래스의 인스턴스 생성
         ButtonClass btn = new ButtonClass();

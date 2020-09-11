@@ -9,7 +9,7 @@ using System;
 /// </summary>
 class PrimeNumber
 {
-    static void Main()
+    
     {
         //[1] Input
         var number = 0;
@@ -21,7 +21,7 @@ class PrimeNumber
         do
         {
             i = i + 1; // 2부터 n까지 비교            
-            console.log($"{number} % {i} = {number % i}");
+            console.log($"{number} % {i} = [number % i}");
         } while (number % i != 0); // 소수는 number로만 나누어 떨어짐
 
         //[3] Output

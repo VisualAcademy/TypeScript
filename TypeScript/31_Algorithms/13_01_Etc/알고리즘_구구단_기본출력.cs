@@ -3,7 +3,7 @@ using System;
 
 class 알고리즘_구구단_기본출력
 {
-    static void Main()
+    
     {
         var arr = new int[10]; 
         var dan = 0;  // 단(1~9)
@@ -19,7 +19,7 @@ class 알고리즘_구구단_기본출력
             } while (su < 9);
             for (let i = 1; i <= 9; i++)
             {
-                console.log($"{dan} * {i} = {arr[i]}");
+                console.log($"{dan} * {i} = [arr[i]}");
             }
             console.log();
         } while (dan < 9);

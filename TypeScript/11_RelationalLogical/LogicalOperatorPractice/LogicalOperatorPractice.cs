@@ -2,7 +2,7 @@
 
 class LogicalOperatorPractice
 {
-    static void Main()
+    
     {
         bool bln1 = true;
         bool bln2 = false;

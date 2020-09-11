@@ -3,7 +3,7 @@ using System;
 
 class LogicalNegation
 {
-    static void Main()
+    
     {
         var bln = false;
 

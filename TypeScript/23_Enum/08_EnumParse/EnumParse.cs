@@ -3,7 +3,7 @@ using System;
 
 class EnumParse
 {
-    static void Main()
+    
     {
         string color = "Red"; // 열거형에 없는 상수 문자열을 지정하면 예외
 

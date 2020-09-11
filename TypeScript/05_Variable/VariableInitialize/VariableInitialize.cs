@@ -2,7 +2,7 @@
 
 class VariableInitialize
 {
-    static void Main()
+    
     {
         //[1] 변수 선언과 초기화를 한 번에 처리 
         let first = 10;

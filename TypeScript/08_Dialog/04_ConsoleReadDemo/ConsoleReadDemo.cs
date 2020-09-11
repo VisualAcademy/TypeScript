@@ -2,7 +2,7 @@
 
 class ConsoleReadDemo
 {
-    static void Main()
+    
     {
         //[1] 콘솔로부터 문자 하나를 입력 후 엔터키를 누릅니다. 
         let x = Console.Read();

@@ -2,7 +2,7 @@
 
 class ForEachUp
 {
-    static void Main()
+    
     {
         var str = "ABC123";
 

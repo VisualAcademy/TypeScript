@@ -2,7 +2,7 @@
 
 class ElseIf
 {
-    static void Main()
+    
     {
         let score = 59;
 

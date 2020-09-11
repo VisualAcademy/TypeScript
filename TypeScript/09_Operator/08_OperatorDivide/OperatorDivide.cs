@@ -3,7 +3,7 @@ using System;
 
 class OperatorDivide
 {
-    static void Main()
+    
     {
         let i = 1.5;
         let j = 0.5;

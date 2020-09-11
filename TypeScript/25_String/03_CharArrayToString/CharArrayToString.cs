@@ -3,9 +3,9 @@ using System;
 
 class CharArrayToString
 {
-    static void Main()
+    
     {
-        char[] charArray = { 'A', 'B', 'C' };
+        char[] charArray = [ 'A', 'B', 'C' ];
 
         String str = new String(charArray);
 

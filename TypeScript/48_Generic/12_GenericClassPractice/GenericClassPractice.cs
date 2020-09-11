@@ -7,7 +7,7 @@ public class Multi<T>
 
 class GenericClassPractice
 {
-    static void Main()
+    
     {
         Multi<string> title = new Multi<string>();
         title.Data = "연봉";

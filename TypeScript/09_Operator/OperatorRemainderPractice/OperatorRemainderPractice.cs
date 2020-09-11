@@ -2,7 +2,7 @@
 
 class OperatorRemainderPractice
 {
-    static void Main()
+    
     {
         let x = 8;
         let y = 5;

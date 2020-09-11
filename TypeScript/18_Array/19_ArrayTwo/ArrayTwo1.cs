@@ -2,7 +2,7 @@
 
 class ArrayTwo1
 {
-    static void Main()
+    
     {
         int[,] intArray; // 2차원 배열 선언
         intArray = new int[2, 3]; // 2 * 3개의 요소 생성

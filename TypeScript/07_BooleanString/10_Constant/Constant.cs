@@ -2,7 +2,7 @@
 
 class Constant
 {
-    static void Main()
+    
     {
         // 변수(Variable) 
         string name = "박용준";

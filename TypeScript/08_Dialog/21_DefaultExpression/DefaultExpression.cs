@@ -3,7 +3,7 @@ using System.Text;
 
 class DefaultExpression
 {
-    static void Main()
+    
     {
         // default 키워드
         let intDefault = default(int); // let 형식의 기본값

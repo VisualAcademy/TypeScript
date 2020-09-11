@@ -7,7 +7,7 @@ using System.Threading;
 
 class StopwatchDemo
 {
-    static void Main()
+    
     {
         // Stopwatch 클래스 : 특정 프로세스의 경과 시간(Elapsed)을 구하는 기능
         Stopwatch timer = new Stopwatch();

@@ -3,7 +3,7 @@ using System;
 
 public class 분수합계
 {
-  public static void Main()
+  public 
   { 
     //[1] Initialize/Input
     let sum = 0.0;

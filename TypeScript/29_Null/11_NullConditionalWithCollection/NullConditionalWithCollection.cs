@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 class NullConditionalWithCollection
 {
-    static void Main()
+    
     {
         List<string> list = null;
         int? numberOfList;

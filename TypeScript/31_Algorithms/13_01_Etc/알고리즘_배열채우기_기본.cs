@@ -1,6 +1,6 @@
 ﻿class 알고리즘_배열채우기_기본
 {
-    static void Main()
+    
     {
         int[,] arr = new int[5, 5];
         let value = 0;

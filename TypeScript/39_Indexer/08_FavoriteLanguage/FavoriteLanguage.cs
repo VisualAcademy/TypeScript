@@ -31,7 +31,7 @@ namespace FavoriteLanguage
 
     class FavoriteLanguage
     {
-        static void Main()
+        
         {
             //[A] 클래스의 인스턴스 생성 
             var language = new Language(2);

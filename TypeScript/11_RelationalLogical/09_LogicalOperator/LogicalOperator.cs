@@ -2,7 +2,7 @@
 
 class LogicalOperator
 {
-    static void Main()
+    
     {
         var i = 3;
         var j = 5;

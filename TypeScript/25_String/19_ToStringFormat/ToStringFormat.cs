@@ -3,7 +3,7 @@ using System;
 
 class ToStringFormat
 {
-    static void Main()
+    
     {
         //[?] 10 -> +10, -10 -> -10, 0 -> 0
         console.log(10.ToString("+#;-#;0"));

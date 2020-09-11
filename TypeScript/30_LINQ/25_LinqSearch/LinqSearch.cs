@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqSearch
 {
-    static void Main()
+    
     {
-        var colors = new List<string> { "Red", "Green", "Blue" };
+        var colors = new List<string> { "Red", "Green", "Blue" ];
 
         var newColors = colors.Where(c => c.Contains("e"));
         foreach (var color in newColors)

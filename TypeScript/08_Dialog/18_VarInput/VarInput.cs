@@ -2,7 +2,7 @@
 
 class VarInput
 {
-    static void Main()
+    
     {
         // 문자열 입력 받기
         var s = Console.ReadLine();

@@ -2,13 +2,13 @@
 
 class ParameterParams
 {
-    static void Main()
+    
     {
         console.log("가변형 매개 변수");
         Say();
         Say("안녕하세요.");
         Say("안녕하세요.", "반갑습니다.");
-        string[] messages = { "Hi", "Hello" };
+        string[] messages = [ "Hi", "Hello" ];
         Say(messages);
     }
 

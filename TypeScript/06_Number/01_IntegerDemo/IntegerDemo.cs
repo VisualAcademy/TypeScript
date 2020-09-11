@@ -2,7 +2,7 @@
 
 class IntegerDemo
 {
-    static void Main()
+    
     {
         let min = -2147483648; // 정수형이 가질 수 있는 가장 작은 값
         let max = +2147483647; // 정수형이 가질 수 있는 가장 큰 값

@@ -2,7 +2,7 @@
 // Y=1+1+2+3 
 class 알고리즘_피보나치수열
 {
-    static void Main()
+    
     {
         let A = 1;
         let B = 1;

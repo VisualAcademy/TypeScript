@@ -2,7 +2,7 @@
 
 class ConstantExam
 {
-    static void Main()
+    
     {
         const char c = '가';
         const string s = "HELLO";

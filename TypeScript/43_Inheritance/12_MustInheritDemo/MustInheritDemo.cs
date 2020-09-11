@@ -21,7 +21,7 @@ namespace MustInheritDemo
 
     class MustInheritDemo
     {
-        static void Main()
+        
         {
             var person = new Person();
             person.SayHumor();

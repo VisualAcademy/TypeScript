@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class SortAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input: Data Structure(Array, List, Stack, Queue, Tree, DB, ...)
-        int[] data = { 3, 2, 1, 5, 4 }; // 정렬되지 않은 데이터
+        let data = [ 3, 2, 1, 5, 4 ]; // 정렬되지 않은 데이터
         let N = data.Length; // 의사코드(슈도코드) 형태로 알고리즘을 표현하기 위함
 
         //[2] Process: Selection Sort(선택 정렬) 알고리즘
@@ -33,11 +33,11 @@ class SortAlgorithm
     }
 }
 
-//int[] data = { 3, 2, 1, 5, 4 };
+//let data = [ 3, 2, 1, 5, 4 ];
 //Array.Sort(data);
 //data
 //int[5] { 1, 2, 3, 4, 5 }
-//int[] data = { 3, 2, 1, 5, 4 };
+//let data = [ 3, 2, 1, 5, 4 ];
 //var sort = data.OrderBy(n => n).ToArray();
 //sort
 //int[5] { 1, 2, 3, 4, 5 }

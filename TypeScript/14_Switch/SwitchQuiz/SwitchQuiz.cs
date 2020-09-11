@@ -2,7 +2,7 @@
 
 class SwitchQuiz
 {
-    static void Main()
+    
     {
         string result = "";
         string color = "green";

@@ -3,7 +3,7 @@ using System;
 
 class PositiveNegativeZero
 {
-    static void Main()
+    
     {
         let number = -10; //[1] 원하는 정수 데이터 입력
 

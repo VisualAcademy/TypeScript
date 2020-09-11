@@ -11,7 +11,7 @@ public class Messenger
 
 class MethodOverloadNamed
 {
-    static void Main()
+    
     {
         Messenger messenger = new Messenger();
         messenger.PrintMessage("My"); // [A]

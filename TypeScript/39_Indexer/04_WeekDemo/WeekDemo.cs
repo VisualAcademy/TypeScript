@@ -36,7 +36,7 @@ namespace WeekDemo
 
     class WeekDemo
     {
-        static void Main()
+        
         {
             //[A] 배열 형식 생성
             Week week = new Week(3);

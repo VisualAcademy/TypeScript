@@ -3,7 +3,7 @@ using System;
 
 class ArrayTwoDescription
 {
-    static void Main()
+    
     {
         //[1] 2차원 배열 선언
         char[,] arr = new char[2, 2];

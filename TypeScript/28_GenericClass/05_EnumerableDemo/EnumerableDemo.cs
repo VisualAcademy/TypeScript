@@ -3,7 +3,7 @@ using System.Linq;
 
 class EnumerableDemo
 {
-    static void Main()
+    
     {
         // 1부터 5까지
         var numbers = Enumerable.Range(1, 5);

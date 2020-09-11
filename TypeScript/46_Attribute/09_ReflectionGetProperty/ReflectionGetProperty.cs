@@ -10,7 +10,7 @@ namespace ReflectionGetProperty
 
     class ReflectionGetProperty
     {
-        static void Main()
+        
         {
             // Name 속성의 정보 얻기
             PropertyInfo pi = typeof(Person).GetProperty("Name");

@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqSumEven
 {
-    static void Main()
+    
     {
-        var numbers = new List<int> { 1, 2, 3 };
+        var numbers = new List<int> { 1, 2, 3 ];
 
         let sum = numbers.Where(number => number % 2 == 0).Sum(); 
 

@@ -19,7 +19,7 @@ namespace Bar
 
 class NamespaceNote
 {
-    static void Main()
+    
     {
         Foo.Car fooCar = new Foo.Car();
         fooCar.Go(); // [1] Foo 네임스페이스의 Car 클래스 호출

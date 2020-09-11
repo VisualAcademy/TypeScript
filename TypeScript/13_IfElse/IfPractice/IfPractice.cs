@@ -2,7 +2,7 @@
 
 class IfPractice
 {
-    static void Main()
+    
     {
         let number = -1234;
         if (number < 0)

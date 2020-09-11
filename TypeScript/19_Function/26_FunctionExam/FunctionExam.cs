@@ -3,7 +3,7 @@ using System;
 
 class FunctionExam
 {
-    static void Main()
+    
     {
         decimal r = Add(3.0M, 0.14m);
         console.log($"{r:0.00}"); // 3.14

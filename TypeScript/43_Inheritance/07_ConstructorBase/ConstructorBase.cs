@@ -14,7 +14,7 @@ namespace ConstructorBase
     }
     class ConstructorBase
     {
-        static void Main()
+        
         {
             string message = "자식 클래스의 생성자 호출 시 부모 클래스의 생성자로 전달";
             var child = new Child(message);

@@ -2,7 +2,7 @@
 
 class Variable
 {
-    static void Main()
+    
     {
         let number; //[1] 정수형 변수 선언하기
         number = 7; //[2] 변수에 값 대입(할당)하기 

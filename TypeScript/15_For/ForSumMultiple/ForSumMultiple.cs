@@ -3,7 +3,7 @@ using System;
 
 class ForSumMultiple
 {
-    static void Main()
+    
     {
         //[1] 입력
         let sum = 0;

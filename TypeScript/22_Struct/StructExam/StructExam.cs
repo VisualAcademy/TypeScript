@@ -13,7 +13,7 @@ struct Score
 
 class StructExam
 {
-    static void Main()
+    
     {
         Score[] scores = new Score[3];
         scores[0].Name = "홍길동"; scores[0].Kor = 100; scores[0].Eng = 90;

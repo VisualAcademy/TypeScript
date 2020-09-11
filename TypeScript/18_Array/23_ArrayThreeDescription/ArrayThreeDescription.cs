@@ -3,7 +3,7 @@ using System;
 
 class ArrayThreeDescription
 {
-    static void Main()
+    
     {
         //[1] 3차원 배열 선언
         string[,,] names = new string[2, 2, 2]; // 2*2*2=8

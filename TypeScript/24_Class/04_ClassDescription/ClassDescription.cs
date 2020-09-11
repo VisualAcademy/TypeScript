@@ -11,7 +11,7 @@ public class MyClass
 
 class ClassDescription
 {
-    static void Main()
+    
     {
         MyClass.MyMethod(); // 클래스명.메서드명()
     }

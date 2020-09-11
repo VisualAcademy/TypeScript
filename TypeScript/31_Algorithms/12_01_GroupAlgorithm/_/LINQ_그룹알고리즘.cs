@@ -8,14 +8,14 @@ namespace LINQ
         public let Quantity { get; set; }
     }
     public class 그룹알고리즘 {
-        public static void Main() {
+        public  {
             //[1] Input
             List<ProductInfo> lst = new List<ProductInfo>() {
                 new ProductInfo{Name="RADIO", Quantity=3},
                 new ProductInfo{Name="TV", Quantity=1},
                 new ProductInfo{Name="RADIO", Quantity=2},
                 new ProductInfo{Name="DVD", Quantity=5}
-            };
+            ];
             //[2] Process
             IEnumerable<IGrouping<string, ProductInfo>> q =
                 from p in lst group p by p.Name; 

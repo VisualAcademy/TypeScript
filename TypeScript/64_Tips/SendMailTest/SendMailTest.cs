@@ -3,7 +3,7 @@ using System.Net.Mail;
 
 class SendMailTest
 {
-    static void Main()
+    
     {
         SmtpClient SmtpServer = new SmtpClient("smtp.live.com");
         var mail = new MailMessage();

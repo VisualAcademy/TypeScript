@@ -10,7 +10,7 @@ enum Priority
 
 class EnumerationDemo
 {
-    static void Main()
+    
     {
         Priority high = Priority.High; // 인텔리센스의 도움 받을 수 있어 편리함
         Priority normal = Priority.Normal;

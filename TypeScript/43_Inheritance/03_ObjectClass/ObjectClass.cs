@@ -14,7 +14,7 @@ namespace ObjectClass
 
     class ObjectClass : Object 
     {
-        static void Main()
+        
         {
             Child.Hi();
             Child.Hello();

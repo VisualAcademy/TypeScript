@@ -20,7 +20,7 @@ namespace ConstructorParameter
 
     class ConstructorParameter
     {
-        static void Main()
+        
         {
             My my = new My("홍길동", 21);
             my.PrintMy(); // 이름: 홍길동, 나이: 21

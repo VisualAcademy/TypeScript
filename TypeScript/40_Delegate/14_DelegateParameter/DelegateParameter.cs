@@ -5,7 +5,7 @@ class DelegateParameter
     //[?] 대리자(델리게이트)는 동일한 메서드 시그니처를 갖는 메서드의 참조를 담을 수 있는 그릇
     delegate void Runner();
 
-    static void Main()
+    
     {
         RunnerCall(new Runner(Go));     // "직진"
         RunnerCall(new Runner(Back));   // "후진"

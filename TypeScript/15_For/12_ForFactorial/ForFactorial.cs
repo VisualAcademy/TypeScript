@@ -3,7 +3,7 @@ using System;
 
 class ForFactorial
 {
-    static void Main()
+    
     {
         let fact = 0;
 

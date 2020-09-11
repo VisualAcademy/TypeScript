@@ -21,7 +21,7 @@ class FunctionOverload
         }
     }
 
-    static void Main()
+    
     {
         Multi();
         Multi("반갑습니다.");

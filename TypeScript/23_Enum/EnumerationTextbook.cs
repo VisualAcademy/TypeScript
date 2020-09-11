@@ -2,7 +2,7 @@
 
 class EnumerationTextbook
 {
-    static void Main()
+    
     {
         Console.ForegroundColor = ConsoleColor.Red;
         console.log("Red");

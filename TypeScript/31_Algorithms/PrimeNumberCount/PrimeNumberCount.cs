@@ -7,7 +7,7 @@ using System;
 /// </summary>
 class PrimeNumberCount
 {
-    static void Main()
+    
     {
         //[1] Input
         var count = 0; // 소수 개수 

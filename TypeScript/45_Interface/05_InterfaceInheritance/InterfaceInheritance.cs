@@ -20,7 +20,7 @@ namespace InterfaceInheritance
 
     class InterfaceInheritance
     {
-        static void Main()
+        
         {
             Dog dog = new Dog();
             dog.Eat();  //[A] IAnimal 인터페이스 상속

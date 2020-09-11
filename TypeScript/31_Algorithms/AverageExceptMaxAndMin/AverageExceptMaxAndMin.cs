@@ -6,10 +6,10 @@ using System;
 /// </summary>
 class AverageExceptMaxAndMin
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] scores = { 10, 20, 30, 40, 50 }; // 30
+        let scores = [ 10, 20, 30, 40, 50 ]; // 30
         var sum = 0; // SUM
         var max = Int32.MinValue; // 해당 범위에서 가장 작은 값으로 초기화 
         var min = Int32.MaxValue; // 해당 범위에서 가장 큰 값으로 초기화 

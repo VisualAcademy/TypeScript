@@ -2,7 +2,7 @@
 
 class ElsePractice
 {
-    static void Main()
+    
     {
         bool bln = false;
 

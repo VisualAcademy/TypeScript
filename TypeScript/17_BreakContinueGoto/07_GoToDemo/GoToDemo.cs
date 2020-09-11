@@ -3,7 +3,7 @@ using System;
 
 class GoToDemo
 {
-    static void Main()
+    
     {
         console.log("시작");
         Start:

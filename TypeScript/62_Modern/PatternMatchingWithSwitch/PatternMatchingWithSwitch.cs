@@ -16,7 +16,7 @@ namespace PatternMatchingWithSwitch
 
     class PatternMatchingWithSwitch
     {
-        static void Main()
+        
         {
             PrintShape(new Circle()); // 원
             PrintShape(new Rectangle { Length = 20, Height = 10 }); // 직사각형

@@ -33,7 +33,7 @@ namespace InterfaceFriends
 
     class InterfaceFriends
     {
-        static void Main()
+        
         {
             Car cla = new Car();
             cla.Run(); cla.Left(); cla.Right(); cla.Back();

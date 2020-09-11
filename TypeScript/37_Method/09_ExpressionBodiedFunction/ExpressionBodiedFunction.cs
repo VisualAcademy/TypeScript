@@ -2,7 +2,7 @@
 
 class ExpressionBodiedFunction
 {
-    static void Main()
+    
     {
         Work();
         Walk();

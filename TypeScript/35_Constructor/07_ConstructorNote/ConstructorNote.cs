@@ -25,7 +25,7 @@ namespace ConstructorNote
     }
     class ConstructorNote
     {
-        static void Main()
+        
         {
             //[1] 매개변수가 없는 기본 생성자 호출
             Person saram1 = new Person();

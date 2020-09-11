@@ -3,7 +3,7 @@ using System;
 
 class Is
 {
-    static void Main()
+    
     {
         object x = 1234;
 

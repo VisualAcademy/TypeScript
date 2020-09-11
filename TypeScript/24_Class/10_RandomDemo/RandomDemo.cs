@@ -2,7 +2,7 @@
 
 class RandomDemo
 {
-    static void Main()
+    
     {
         // Random 클래스의 인스턴스 생성
         Random random = new Random();

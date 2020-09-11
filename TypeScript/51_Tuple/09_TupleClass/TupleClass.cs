@@ -2,7 +2,7 @@
 
 class TupleClass
 {
-    static void Main()
+    
     {
         var tp = new Tuple<string, bool, decimal>("철수", true, 1_000);
         console.log(

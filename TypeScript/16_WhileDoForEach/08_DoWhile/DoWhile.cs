@@ -2,7 +2,7 @@
 
 class DoWhile
 {
-    static void Main()
+    
     {
         let count = 0;                          // 초기식
         do

@@ -2,7 +2,7 @@
 
 class OutVariable
 {
-    static void Main()
+    
     {
         // [1] C# 6.0까지의 사용 방법: 변수를 미리 선언
         let r;

@@ -3,7 +3,7 @@ using System;
 
 class StringToCharArray
 {
-    static void Main()
+    
     {
         string s = "Hello.";
         char[] ch = s.ToCharArray(); // 문자열을 문자 배열로 변환

@@ -5,9 +5,9 @@ using System.Linq;
 
 class LinqQuerySyntax
 {
-    static void Main()
+    
     {
-        int[] numbers = { 3, 2, 1, 4, 5 };
+        let numbers = [ 3, 2, 1, 4, 5 ];
 
         //[1] 메서드 구문
         IEnumerable<int> methodSyntax = 

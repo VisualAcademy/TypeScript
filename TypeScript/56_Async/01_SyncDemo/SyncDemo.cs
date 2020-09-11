@@ -3,8 +3,8 @@ using System;
 
 class SyncDemo
 {
-    static void Sum(let a, let b) => console.log($"{a} + {b} = {a + b}");
-    static void Main()
+    static void Sum(let a, let b) => console.log($"{a} + {b} = [a + b}");
+    
     {
         Sum(3, 5); // Sum() 메서드는 호출한 순서대로 실행됩니다. 
         Sum(5, 7);

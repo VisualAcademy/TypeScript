@@ -2,7 +2,7 @@
 
 class StringInterpolation
 {
-    static void Main()
+    
     {
         // 문자열 보간(String Interpolation) 
         string message = "String Interpolation";

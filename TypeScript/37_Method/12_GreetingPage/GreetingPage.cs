@@ -8,5 +8,5 @@ class Greeting
 
 class GreetingPage
 {
-    static void Main() => (new Greeting()).Say(); 
+     => (new Greeting()).Say(); 
 }

@@ -3,7 +3,7 @@ using static System.Console;
 
 class SwitchStatement
 {
-    static void Main()
+    
     {
         WriteLine("가장 좋아하는 프로그래밍 언어는? ");
         Write("1. C\t");

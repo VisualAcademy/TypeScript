@@ -2,7 +2,7 @@
 
 class KeyboardInput
 {
-    static void Main()
+    
     {
         console.log("아무키나 누르세요.");
         // 키보드 키 값 입력

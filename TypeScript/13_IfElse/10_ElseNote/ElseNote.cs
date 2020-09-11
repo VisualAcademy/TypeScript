@@ -2,7 +2,7 @@
 
 class ElseNote
 {
-    static void Main()
+    
     {
         if (1 != 1)
         {

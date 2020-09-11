@@ -11,7 +11,7 @@ namespace TypeAndActivator
 
     class TypeAndActivator
     {
-        static void Main()
+        
         {
             //[2] Type.GetType() 메서드에 지정한 클래스 형식을 가져옴
             Type type = Type.GetType("TypeAndActivator.MyClass");

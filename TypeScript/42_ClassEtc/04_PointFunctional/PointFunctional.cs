@@ -23,7 +23,7 @@ namespace PointFunctional
 
     class PointFunctional
     {
-        static void Main()
+        
         {
             //[A] 함수형 프로그래밍 스타일: 메서드 체이닝
             var p = (new Point(0, 0)).MoveBy(10, 10).MoveBy(20, 20).MoveBy(30, 30);

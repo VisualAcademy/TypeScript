@@ -2,7 +2,7 @@
 
 class SignalLight
 {
-    static void Main()
+    
     {
         char signalLight = 'A';
         string message = "";

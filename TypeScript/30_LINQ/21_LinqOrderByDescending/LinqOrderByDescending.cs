@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqOrderByDescending
 {
-    static void Main()
+    
     {
-        var colors = new List<string> { "Red", "Blue", "Green" };
+        var colors = new List<string> { "Red", "Blue", "Green" ];
 
         var sortedColors = colors.OrderByDescending(c => c);
 

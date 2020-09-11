@@ -3,10 +3,10 @@ using System;
 
 class ArrayStudents
 {
-    static void Main()
+    
     {
         // 3개의 요소를 가지는 1차원 배열 생성
-        int[] students = new int[3];
+        let students = new int[3];
 
         // 사용자로부터 정수 데이터 3개 입력받아 배열에 저장
         students[0] = Convert.ToInt32(Console.ReadLine());

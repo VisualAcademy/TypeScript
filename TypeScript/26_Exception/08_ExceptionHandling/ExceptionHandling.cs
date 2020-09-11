@@ -2,7 +2,7 @@
 
 class ExceptionHandling
 {
-    static void Main()
+    
     {
         let a = 3;
         let b = 0;

@@ -2,7 +2,7 @@
 
 class FuncDelegate
 {
-    static void Main()
+    
     {
         // [1] Add 함수 직접 호출
         console.log(Add(3, 5));

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class DictionaryOfString
 {
-    static void Main()
+    
     {
         //[1] Dictionary<T> 클래스: 키(Key)와 값(Value)의 쌍으로 컬렉션을 관리
         Dictionary<string, string> nickNames = new Dictionary<string, string>();

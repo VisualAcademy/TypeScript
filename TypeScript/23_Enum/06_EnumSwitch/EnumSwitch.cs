@@ -7,7 +7,7 @@ namespace EnumSwitch
 
     class EnumSwitch
     {
-        static void Main()
+        
         {
             Animal animal = Animal.Dog;
 

@@ -3,7 +3,7 @@ using System.IO;
 
 class StreamWriterWriteLineDemo
 {
-    static void Main()
+    
     {
         string data =
             "안녕하세요.\r\n반가습니다." + Environment.NewLine + "또 만나요.";

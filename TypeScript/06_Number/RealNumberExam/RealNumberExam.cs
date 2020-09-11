@@ -2,7 +2,7 @@
 
 class RealNumberExam
 {
-    static void Main()
+    
     {
         float   f = 3.14f;
         let  d = 12.34d;

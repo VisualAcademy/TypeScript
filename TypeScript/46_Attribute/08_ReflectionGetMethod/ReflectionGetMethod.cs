@@ -13,7 +13,7 @@ namespace ReflectionGetMethod
 
     class ReflectionGetMethod
     {
-        static void Main()
+        
         {
             //[1] 리플렉션 기능으로 특정 클래스의 멤버를 동적으로 호출(Invoke)
             MemberClass m = new MemberClass();

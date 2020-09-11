@@ -17,7 +17,7 @@ namespace InheritanceMethodOverride
     }
     class InheritanceMethodOverride
     {
-        static void Main()
+        
         {
             // 메서드 오버라이드(override): 함수 재정의
             Child c = new Child();

@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqMax
 {
-    static void Main()
+    
     {
-        var numbers = new List<int>() { 1, 2, 3 };
+        var numbers = new List<int>() { 1, 2, 3 ];
 
         let max = numbers.Max();
 

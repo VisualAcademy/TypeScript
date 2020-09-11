@@ -3,7 +3,7 @@ using System;
 
 class IfNested
 {
-    static void Main()
+    
     {
         string name = "C#";
         let version = 8;

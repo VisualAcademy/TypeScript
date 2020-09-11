@@ -3,7 +3,7 @@ using System;
 
 class NamedParameter
 {
-    static void Main()
+    
     {
         // 기본 형태
         Sum(10, 20); // 30

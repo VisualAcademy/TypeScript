@@ -2,7 +2,7 @@
 
 class IntegerExam
 {
-    static void Main()
+    
     {
         SByte i08; // sbyte
         Int16 i16; // short

@@ -19,7 +19,7 @@ namespace VirtualOverride
 
     class VirtualOverride
     {
-        static void Main()
+        
         {
             //[A] 부모 클래스의 인스턴스 생성
             (new Parent()).Work(); // 프로그래머

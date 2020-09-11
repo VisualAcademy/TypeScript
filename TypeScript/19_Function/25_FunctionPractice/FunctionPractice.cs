@@ -3,7 +3,7 @@ using System;
 
 class FunctionPractice
 {
-    static void Main()
+    
     {
         decimal result = 0;
 

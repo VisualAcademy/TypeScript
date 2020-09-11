@@ -23,7 +23,7 @@ namespace ConstructorInheritance
 
     class ConstructorInheritance
     {
-        static void Main()
+        
         {
             (new Child()).Say();
             (new Child("[2] 매개변수가 있는 생성자 실행")).Say();

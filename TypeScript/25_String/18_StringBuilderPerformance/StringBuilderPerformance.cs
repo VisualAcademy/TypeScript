@@ -3,7 +3,7 @@ using System.Text;
 
 class StringBuilderPerformance
 {
-    static void Main()
+    
     {
         DateTime start = DateTime.Now;
 

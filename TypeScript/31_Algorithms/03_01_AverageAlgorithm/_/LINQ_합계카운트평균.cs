@@ -2,9 +2,9 @@
 using System.Linq;
 
 public class 합계카운트평균 {
-    public static void Main() {
+    public  {
         // Input
-        int[] data = {3, 5, 4, 2, 1};
+        let data = [3, 5, 4, 2, 1];
         // Process
         var q = from d in data
                 where d % 2 == 0

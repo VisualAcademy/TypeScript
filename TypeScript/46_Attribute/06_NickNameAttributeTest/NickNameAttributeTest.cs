@@ -14,7 +14,7 @@ public class NickNameAttribute : Attribute
 [NickName("RedPlus")]
 class NickNameAttributeTest
 {
-    static void Main() => ShowMetaData();
+     => ShowMetaData();
 
     static void ShowMetaData()
     {

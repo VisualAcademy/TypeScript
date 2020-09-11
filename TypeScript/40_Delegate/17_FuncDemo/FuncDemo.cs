@@ -3,7 +3,7 @@ using System;
 
 class FuncDemo
 {
-    static void Main()
+    
     {
         // [1] int를 입력 받아 0이면 true을 반환
         Func<int, bool> zero = number => number == 0;

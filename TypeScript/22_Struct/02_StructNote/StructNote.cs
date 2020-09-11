@@ -12,7 +12,7 @@ namespace StructNote
     
     class StructNote
     {
-        static void Main()
+        
         {
             //[A] let 형식, string 형식 변수가 아닌 구조체 형식 변수 선언
             BusinessCard my;

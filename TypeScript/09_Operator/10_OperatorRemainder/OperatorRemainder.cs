@@ -3,7 +3,7 @@ using System;
 
 class OperatorRemainder
 {
-    static void Main()
+    
     {
         let i = 5;
         let j = 3;

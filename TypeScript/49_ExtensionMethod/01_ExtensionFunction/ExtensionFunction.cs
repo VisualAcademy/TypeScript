@@ -9,7 +9,7 @@ static class ExtensionFunction
         return value.Substring(0, 3);
     }
 
-    static void Main()
+    
     {
         console.log("안녕하세요.".Three());
     }

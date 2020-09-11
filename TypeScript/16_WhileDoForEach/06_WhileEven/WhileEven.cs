@@ -2,7 +2,7 @@
 
 class WhileEven
 {
-    static void Main()
+    
     {
         //[!] while 문을 사용하여 짝수의 합
         let sum = 0;

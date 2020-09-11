@@ -2,7 +2,7 @@
 
 class CharStruct
 {
-    static void Main()
+    
     {
         char a = 'A'; char b = 'a';
         char c = '1'; char d = '\t'; // 이스케이프 시퀀스도 하나의 문자로 인식

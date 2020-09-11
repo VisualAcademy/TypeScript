@@ -4,10 +4,10 @@ using System.Linq;
 
 class LinqZip
 {
-    static void Main()
+    
     {
-        int[] numbers = { 1, 2, 3 }; 
-        string[] words = { "하나", "둘" }; 
+        let numbers = [ 1, 2, 3 ]; 
+        string[] words = [ "하나", "둘" ]; 
 
         var numbersAndWords = 
             numbers.Zip(words, (first, second) => first + "-" + second);

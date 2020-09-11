@@ -2,7 +2,7 @@
 using System;
 
 class Algorithm_Count_Money {
-    static void Main() {
+     {
         //let money = 66666;  // 입력 받은 화폐
         let money = Convert.ToInt32(Console.ReadLine()); // READ money
         let won = 50000;    // 화폐 단위(종류): 10가지

@@ -2,7 +2,7 @@
 
 class GetDateTimeFromYearlyHour
 {
-    static void Main()
+    
     {
         console.log(GetDateTimeFromYearlyHourNumber(1));
         console.log(GetDateTimeFromYearlyHourNumber(8760/2));

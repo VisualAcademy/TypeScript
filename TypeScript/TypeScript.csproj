@@ -477,6 +477,7 @@
     <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
     <TypeScriptCompile Include="25_String\ReplaceAll.ts" />
     <TypeScriptCompile Include="27_Collection\ArrayClass.ts" />
+    <TypeScriptCompile Include="27_Collection\ArrayJoin.ts" />
     <TypeScriptCompile Include="27_Collection\ArraySlice.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
@@ -961,8 +962,8 @@
     <Compile Include="29_Null\11_NullConditionalWithCollection\NullConditionalWithCollection.cs" />
     <Compile Include="29_Null\12_NullCoalescingWithCollection\NullCoalescingWithCollection.cs" />
     <TypeScriptCompile Include="30_LINQ\LinqSum.ts" />
-    <Compile Include="30_LINQ\02_LinqCount\LinqCount.cs" />
-    <Compile Include="30_LINQ\03_LinqAverage\LinqAverage.cs" />
+    <TypeScriptCompile Include="30_LINQ\LinqCount.ts" />
+    <TypeScriptCompile Include="30_LINQ\LinqAverage.ts" />
     <Compile Include="30_LINQ\04_LinqMax\LinqMax.cs" />
     <Compile Include="30_LINQ\05_LinqMin\LinqMin.cs" />
     <Compile Include="30_LINQ\06_MinAndMax\MinAndMax.cs" />
@@ -1452,6 +1453,8 @@
     <Folder Include="25_String\05_StringConcat\" />
     <Folder Include="27_Collection\03_ArrayClassDemo\" />
     <Folder Include="30_LINQ\01_LinqSum\" />
+    <Folder Include="30_LINQ\02_LinqCount\" />
+    <Folder Include="30_LINQ\03_LinqAverage\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

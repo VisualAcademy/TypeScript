@@ -13,11 +13,11 @@ class FunctionAddNumbers
         return a + b;
     }
 
-    static void Main()
+    
     {
         let a = 3;
         let b = 5;
         let c = AddNumbers(3, 5);
-        console.log($"{a} + {b} = {c}");
+        console.log($"{a} + {b} = [c}");
     }
 }

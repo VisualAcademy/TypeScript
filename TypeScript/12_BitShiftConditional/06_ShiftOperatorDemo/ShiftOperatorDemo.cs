@@ -2,7 +2,7 @@
 
 class ShiftOperatorDemo
 {
-    static void Main()
+    
     {
         let number = 2; // 0010
 

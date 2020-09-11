@@ -9,7 +9,7 @@ class DelegateNote
     //[2] 샘플 함수 생성 
     static void Hello() => console.log("Hello Delegate");
 
-    static void Main()
+    
     {
         //[A] 대리자의 인스턴스 생성 후 매개변수로 대신 실행할 함수명 전달 
         SayPointer sayPointer = new SayPointer(Hello);

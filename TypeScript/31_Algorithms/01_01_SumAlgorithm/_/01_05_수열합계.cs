@@ -4,7 +4,7 @@ using System;
 
 public class 수열합계
 {
-  public static void Main()
+  public 
   { 
     //[1] Init/Input
     let sum = 0;

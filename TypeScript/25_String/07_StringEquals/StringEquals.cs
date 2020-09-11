@@ -3,7 +3,7 @@ using System;
 
 class StringEquals
 {
-    static void Main()
+    
     {
         string userName = "RedPlus";
         string userNameInput = "redPlus";

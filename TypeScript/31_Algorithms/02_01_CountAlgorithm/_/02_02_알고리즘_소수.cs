@@ -8,7 +8,7 @@ using System;
 
 class 알고리즘_소수
 {
-    static void Main()
+    
     {
         let k = 1;
         let num = 0;
@@ -21,7 +21,7 @@ class 알고리즘_소수
         {
             k = k + 1;
 
-            console.log("{0} % {1} = {2}", num, k, num % k);
+            console.log("{0} % {1} = [2}", num, k, num % k);
         } while (num % k != 0); 
 
         // 나누어 떨어졌을 때의 값이 입력된 수와 같다면,

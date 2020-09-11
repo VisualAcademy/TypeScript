@@ -2,11 +2,11 @@
 
 class ArrayOne4
 {
-    static void Main()
+    
     {
         // 1차원 배열 선언, 요소 생성, 초기화를 동시에...
-        // new 키워드와 int[] 생략하고 바로 초기화 가능
-        int[] intArray = { 1, 2, 3 };
+        // new 키워드와 let 생략하고 바로 초기화 가능
+        let intArray = [ 1, 2, 3 ];
 
         //[1] for문 사용 출력: 정확하게 배열의 범위를 알고 있을 때
         for (var i = 0; i < 3; i++) // 배열 참조

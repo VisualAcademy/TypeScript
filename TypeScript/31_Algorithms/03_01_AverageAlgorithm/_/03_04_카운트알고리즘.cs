@@ -6,7 +6,7 @@ public class 카운트알고리즘
   public static void Main(string[] args)
   {
     //[1] Init/Input
-    int[] intNum = { 21, 34, 56, 27, 39 };
+    let intNum = [ 21, 34, 56, 27, 39 ];
     let count = 0; // 카운트 저장
     //[2] Process : COUNT 알고리즘
     for (var i = 0; i < intNum.Length; i++)

@@ -4,9 +4,9 @@ using System.Collections.Generic;
 
 class NearAll
 {
-    static void Main()
+    
     {
-        int[] data = { 10, 20, 23, 27, 17 };
+        let data = [ 10, 20, 23, 27, 17 ];
         let target = 25; // 25와 가까운 값들은 23, 27
         List<int> nears = new List<int>(); // 가까운 값들...
         let min = Int32.MaxValue;

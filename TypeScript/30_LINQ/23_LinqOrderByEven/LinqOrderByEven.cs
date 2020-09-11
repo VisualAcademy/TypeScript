@@ -3,7 +3,7 @@ using System.Linq;
 
 class LinqOrderByEven
 {
-    static void Main()
+    
     {
         var numbers = Enumerable.Range(1, 10);
 

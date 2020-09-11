@@ -2,7 +2,7 @@
 
 class CharacterPractice
 {
-    static void Main()
+    
     {
         char ch = '\n';
 

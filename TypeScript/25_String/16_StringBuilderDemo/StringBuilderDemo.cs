@@ -4,7 +4,7 @@ using System.Text;
 
 class StringBuilderDemo
 {
-    static void Main()
+    
     {
         //[!] StringBuilder 클래스: 긴 문자열 묶을 때 효과적
         StringBuilder sb = new StringBuilder();

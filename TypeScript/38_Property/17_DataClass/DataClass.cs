@@ -10,10 +10,10 @@ public class Customer
 
 class DataClass
 {
-    static void Main()
+    
     {
         // 개체 리터럴을 사용하여 개체 초기화 
-        var customer = new Customer { Id = 1, Name = "박용준", City = "인천" };
+        var customer = new Customer { Id = 1, Name = "박용준", City = "인천" ];
         console.log($"{customer.Id}, {customer.Name}, {customer.City}");
     }
 }

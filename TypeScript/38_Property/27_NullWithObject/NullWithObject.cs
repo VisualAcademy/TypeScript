@@ -16,9 +16,9 @@ namespace NullWithObject
 
     class NullWithObject
     {
-        static void Main()
+        
         {
-            var people = new Person[] { new Person { Name = "RedPlus" }, null };
+            var people = new Person[] { new Person { Name = "RedPlus" }, null ];
 
             ProcessPeople(people);
 

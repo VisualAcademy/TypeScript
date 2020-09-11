@@ -17,7 +17,7 @@ namespace MethodNew
 
     class MethodNew
     {
-        static void Main()
+        
         {
             //[!] 자식 클래스의 인스턴스 생성
             var child = new Child();

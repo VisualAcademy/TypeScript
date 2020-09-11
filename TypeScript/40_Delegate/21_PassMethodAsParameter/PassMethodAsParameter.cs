@@ -10,5 +10,5 @@ class PassMethodAsParameter
         => console.log($"메시지의 크기는 {stringLength(message)}입니다.");
 
     // [A] 메서드의 매개 변수로 특정 메서드(StringLength) 전달하기 
-    static void Main() => StringLengthPrint(StringLength, "안녕하세요.");
+     => StringLengthPrint(StringLength, "안녕하세요.");
 }

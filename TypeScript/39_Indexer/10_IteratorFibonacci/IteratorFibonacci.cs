@@ -18,7 +18,7 @@ class IteratorFibonacci
             yield return current; 
         }
     }
-    static void Main()
+    
     {
         let count = 7;
         let i = 0;

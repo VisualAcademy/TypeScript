@@ -3,7 +3,7 @@ using System;
 
 class AdditionOperator
 {
-    static void Main()
+    
     {
         console.log("Hello" + "World"); // 문자열 더하기 
         console.log("Hi" + " " + "everyone");

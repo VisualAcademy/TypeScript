@@ -31,7 +31,7 @@ namespace ConstructorAll
     }
     class ConstructorAll
     {
-        static void Main()
+        
         {
             //[A] 정적 생성자 실행
             Person.Show(); // 정적인 멤버 호출

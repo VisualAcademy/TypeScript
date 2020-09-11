@@ -3,7 +3,7 @@ using System;
 
 class PrefixOperator
 {
-    static void Main()
+    
     {
         let i = 3;
 

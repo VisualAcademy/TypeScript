@@ -2,7 +2,7 @@
 
 class CharStringBoolean
 {
-    static void Main()
+    
     {
         Char c = 'A'; // char
         String s = "안녕하세요."; // string

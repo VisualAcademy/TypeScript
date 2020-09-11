@@ -25,7 +25,7 @@ namespace PointImperative
 
     class PointImperative
     {
-        static void Main()
+        
         {
             Point point = new Point(0, 0); // 좌표 기본값 설정
             point.MoveBy(100, 200); // 100, 200으로 이동

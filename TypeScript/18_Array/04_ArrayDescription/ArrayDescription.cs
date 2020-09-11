@@ -3,7 +3,7 @@ using System;
 
 class ArrayDescription
 {
-    static void Main()
+    
     {
         //[1] 배열 선언
         ushort[] numbers;

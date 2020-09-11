@@ -4,9 +4,9 @@ using System.Linq;
 
 class LinqSumOdd
 {
-    static void Main()
+    
     {
-        var numbers = new List<int> { 1, 2, 3 };
+        var numbers = new List<int> { 1, 2, 3 ];
 
         let sum = numbers.Where(n => n % 2 == 1).Sum();
 

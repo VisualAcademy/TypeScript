@@ -3,7 +3,7 @@ using System;
 
 class SizeOf
 {
-    static void Main()
+    
     {
         console.log("sizeof(데이터 형식)");
         console.log($"  char 형식: {sizeof(  char)} byte");      

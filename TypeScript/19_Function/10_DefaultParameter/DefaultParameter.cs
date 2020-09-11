@@ -2,7 +2,7 @@
 
 class DefaultParameter
 {
-    static void Main()
+    
     {
         Log("디버그");        // [A] 두 번째 매개 변수 생략
         Log("에러", 4);       // [B] 전체 매개 변수 사용

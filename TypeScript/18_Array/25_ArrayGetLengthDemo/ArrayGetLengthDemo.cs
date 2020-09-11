@@ -2,11 +2,11 @@
 
 class ArrayGetLengthDemo
 {
-    static void Main()
+    
     {
         // 3차원 배열 선언/요소수생성/초기화: 층/행/열
         int[,,] arr = new int[2, 2, 2] 
-            { { { 1, 2 }, { 3, 4 } }, { { 5, 6 }, { 7, 8 } } };
+            { { { 1, 2 }, { 3, 4 } }, { { 5, 6 }, { 7, 8 } } ];
         // 차수 출력
         console.log("차수 출력: {0}", arr.Rank);
         // 길이 출력

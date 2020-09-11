@@ -14,7 +14,7 @@ namespace PartialClassPerson
 
     class PartialClass
     {
-        static void Main()
+        
         {
             Person person = new Person();
             person.Name = "C#";

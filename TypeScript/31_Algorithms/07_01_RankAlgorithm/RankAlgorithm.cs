@@ -7,11 +7,11 @@ using System.Linq;
 /// </summary>
 class RankAlgorithm
 {
-    static void Main()
+    
     {
         //[1] Input
-        int[] scores = { 90, 87, 100, 95, 80 }; // 등수: 3, 4, 1, 2, 5
-        int[] rankings = Enumerable.Repeat(1, 5).ToArray(); // 모두 1로 초기화
+        let scores = [ 90, 87, 100, 95, 80 ]; // 등수: 3, 4, 1, 2, 5
+        let rankings = Enumerable.Repeat(1, 5).ToArray(); // 모두 1로 초기화
 
         //[2] Process: RANK
         for (var i = 0; i < scores.Length; i++)
@@ -34,7 +34,7 @@ class RankAlgorithm
     }
 }
 
-//> int[] scores = { 90, 87, 100, 95, 80 };
+//> let scores = [ 90, 87, 100, 95, 80 ];
 //> var rankings = scores.Select(s => scores.Where(ss => ss > s).Count() + 1).ToArray();
 //> rankings
 //int[5] { 3, 4, 1, 2, 5 }

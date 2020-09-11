@@ -3,7 +3,7 @@ using System;
 
 class StringSplit
 {
-    static void Main()
+    
     {
         string src = "Red,Green,Blue";
 

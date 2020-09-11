@@ -3,7 +3,7 @@ using System;
 
 class DoWhileSum
 {
-    static void Main()
+    
     {
         let sum = 0;
 

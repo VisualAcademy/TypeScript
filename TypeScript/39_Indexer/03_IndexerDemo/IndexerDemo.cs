@@ -35,7 +35,7 @@ namespace IndexerDemo
 
     class IndexerDemo
     {
-        static void Main()
+        
         {
             // 자동차 클래스의 인스턴스 생성시 생성자의 매개변수로 배열의 크기 전달
             Car car = new Car(3);

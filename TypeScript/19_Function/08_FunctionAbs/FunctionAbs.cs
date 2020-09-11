@@ -8,7 +8,7 @@ class FunctionAbs
         return (num < 0) ? -num : num;
     }
 
-    static void Main()
+    
     {
         let num = -21;
         let abs = Abs(num);

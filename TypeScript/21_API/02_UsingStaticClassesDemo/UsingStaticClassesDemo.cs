@@ -5,7 +5,7 @@ using static System.Math;
 
 class UsingStaticClassesDemo
 {
-    static void Main()
+    
     {
         //[1] 기본 사용 방식
         WriteLine(Math.Pow(2, 10));

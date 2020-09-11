@@ -3,7 +3,7 @@ using System;
 
 class TernaryExam
 {
-    static void Main()
+    
     {
         let number = Convert.ToInt32(Console.ReadLine());
 

@@ -21,7 +21,7 @@ public class DestructorTest
 
 class ConstructorToDestructor
 {
-    static void Main()
+    
     {
         DestructorTest test = new DestructorTest(); // 생성
         test.Run(); // 실행

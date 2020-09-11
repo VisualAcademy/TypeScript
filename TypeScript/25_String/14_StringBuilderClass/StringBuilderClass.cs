@@ -4,7 +4,7 @@ using System.Text;
 
 class StringBuilderClass
 {
-    static void Main()
+    
     {
         //[1] StringBuilder 클래스의 인스턴스 생성
         StringBuilder sb = new StringBuilder();

@@ -2,7 +2,7 @@
 
 class TypeConversion
 {
-    static void Main()
+    
     {
         let d = 12.34;
         let i = 1234;

@@ -1,7 +1,7 @@
 ﻿//[!] 메인 클래스: ClassOne과 ClassTwo 클래스를 사용
 class ClassDemo
 {
-    static void Main()
+    
     {
         //[!] 다른 클래스의 멤버 호출
         //[a] 스태틱 멤버 호출

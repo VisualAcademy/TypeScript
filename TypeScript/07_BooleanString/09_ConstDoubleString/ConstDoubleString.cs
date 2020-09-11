@@ -3,7 +3,7 @@ using System;
 
 class ConstDoubleString
 {
-    static void Main()
+    
     {
         //[1] 상수 선언과 동시에 초기화
         const let PI = 3.14;

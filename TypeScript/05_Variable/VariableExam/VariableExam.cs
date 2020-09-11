@@ -2,7 +2,7 @@
 
 class VariableExam
 {
-    static void Main()
+    
     {
         let first;
 

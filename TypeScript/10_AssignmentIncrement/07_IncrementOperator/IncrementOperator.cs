@@ -3,7 +3,7 @@ using System;
 
 class IncrementOperator
 {
-    static void Main()
+    
     {
         let num = 100;
         ++num; // 1 증가

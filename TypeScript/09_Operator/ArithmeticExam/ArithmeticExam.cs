@@ -3,7 +3,7 @@ using System;
 
 class ArithmeticExam
 {
-    static void Main()
+    
     {
         let number1;
         let number2;

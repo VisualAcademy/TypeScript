@@ -3,7 +3,7 @@ using static System.Console;
 
 class OperatorPrecedence
 {
-    static void Main()
+    
     {
         WriteLine(3 + 4 * 2); // 곱하기가 우선: 3 * 8 => 11
         WriteLine((3 + 4) * 2); // 괄호가 우선: 7 * 2 => 14

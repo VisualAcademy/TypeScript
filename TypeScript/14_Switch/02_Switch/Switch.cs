@@ -2,7 +2,7 @@
 
 class Switch
 {
-    static void Main()
+    
     {
         console.log("정수를 입력하세요.");
         let answer = Convert.ToInt32(Console.ReadLine());

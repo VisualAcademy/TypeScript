@@ -14,7 +14,7 @@ namespace PublicField
 
     class PublicField
     {
-        static void Main()
+        
         {
             Category book = new Category();
             book.CategoryName = "책";

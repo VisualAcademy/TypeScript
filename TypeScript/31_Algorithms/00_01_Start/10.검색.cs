@@ -1,9 +1,9 @@
 ﻿using System;
 
 public class 이진검색 {
-    public static void Main() {
+    public  {
         //[1] Input
-        int[] data = {1, 3, 5, 7, 9 }; //[!] 오름차순 정렬되었다고 가정...
+        let data = [1, 3, 5, 7, 9 ]; //[!] 오름차순 정렬되었다고 가정...
         console.log("찾을 데이터 : ");
         let search = Convert.ToInt32(Console.ReadLine());
         bool flag = false; // 찾았으면 true 그렇지않으면 false 

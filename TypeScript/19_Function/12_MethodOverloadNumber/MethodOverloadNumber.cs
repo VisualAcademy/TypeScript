@@ -16,7 +16,7 @@ class MethodOverloadNumber
         console.log($"Int64: {number}");
     }
 
-    static void Main()
+    
     {
         GetNumber(1234);    // Int32: 1234
         GetNumber(1234L);   // Int64: 1234
