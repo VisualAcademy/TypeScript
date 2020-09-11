@@ -95,8 +95,7 @@
     <Content Include="00_Prepare\Hello\Hello.js" />
     <Content Include="00_Prepare\ICalculator\ICalculator.js" />
     <Content Include="00_Prepare\LetKeyword\LetKeyword.js" />
-    <Content Include="00_Prepare\NamespaceModule\NamespaceModule.js" />
-    <Content Include="00_Prepare\NamespaceSample\NamespaceSample.js" />
+    <Content Include="33_Namespace\NamespaceModule\NamespaceModule.js" />
     <Content Include="00_Prepare\ObjectForEach\ObjectForEach.js" />
     <Content Include="00_Prepare\OptionalParameter\OptionalParameter.js" />
     <Content Include="00_Prepare\PalgakCom\Articles\고수가 되는 길.txt" />
@@ -521,8 +520,8 @@
     <TypeScriptCompile Include="43_Inheritance\01_InheritanceDemo\InheritanceDemo.ts" />
     <TypeScriptCompile Include="45_Interface\_\Interface.ts" />
     <TypeScriptCompile Include="00_Prepare\LetKeyword\LetKeyword.ts" />
-    <TypeScriptCompile Include="00_Prepare\NamespaceModule\NamespaceModule.ts" />
-    <TypeScriptCompile Include="00_Prepare\NamespaceSample\NamespaceSample.ts" />
+    <TypeScriptCompile Include="33_Namespace\NamespaceModule\NamespaceModule.ts" />
+    <TypeScriptCompile Include="33_Namespace\NamespaceSample.ts" />
     <TypeScriptCompile Include="00_Prepare\ObjectForEach\ObjectForEach.ts" />
     <TypeScriptCompile Include="32_Object\ObjectLiteral.ts" />
     <TypeScriptCompile Include="00_Prepare\OptionalParameter\OptionalParameter.ts" />
@@ -1369,8 +1368,7 @@
     <Content Include="00_Prepare\Hello\Hello.js.map" />
     <Content Include="00_Prepare\ICalculator\ICalculator.js.map" />
     <Content Include="00_Prepare\LetKeyword\LetKeyword.js.map" />
-    <Content Include="00_Prepare\NamespaceModule\NamespaceModule.js.map" />
-    <Content Include="00_Prepare\NamespaceSample\NamespaceSample.js.map" />
+    <Content Include="33_Namespace\NamespaceModule\NamespaceModule.js.map" />
     <Content Include="00_Prepare\ObjectForEach\ObjectForEach.js.map" />
     <Content Include="00_Prepare\OptionalParameter\OptionalParameter.js.map" />
     <Content Include="00_Prepare\PalgakCom\img\StageTypeBig\Thumbs.db" />
