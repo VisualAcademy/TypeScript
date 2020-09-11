@@ -346,7 +346,6 @@
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js" />
     <Content Include="00_Prepare\TypeInference\TypeInference.js" />
     <Content Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.js" />
-    <Content Include="00_Prepare\UnionType\UnionType.js" />
     <Content Include="00_Prepare\VariableExample\VariableExample.js" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js" />
@@ -547,7 +546,7 @@
     <TypeScriptCompile Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeInference\TypeInference.ts" />
     <TypeScriptCompile Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.ts" />
-    <TypeScriptCompile Include="00_Prepare\UnionType\UnionType.ts" />
+    <TypeScriptCompile Include="45_Interface\45_04_UnionTypeDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\VariableExample\VariableExample.ts" />
     <TypeScriptCompile Include="05_Variable\Variable.ts" />
     <TypeScriptCompile Include="00_Prepare\VarLet\VarLet_1.ts" />
@@ -1416,7 +1415,6 @@
     <Content Include="00_Prepare\TypeConversionDemo\TypeConversionDemo.js.map" />
     <Content Include="00_Prepare\TypeInference\TypeInference.js.map" />
     <Content Include="00_Prepare\TypeScriptCompile\TypeScriptCompile.js.map" />
-    <Content Include="00_Prepare\UnionType\UnionType.js.map" />
     <Content Include="00_Prepare\VariableExample\VariableExample.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
