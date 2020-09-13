@@ -472,6 +472,7 @@
     <TypeScriptCompile Include="00_Prepare\Function.ts" />
     <TypeScriptCompile Include="00_Prepare\FunctionDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\FunctionDemoUpgrade.ts" />
+    <TypeScriptCompile Include="07_BooleanString\Terms.ts" />
     <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
     <TypeScriptCompile Include="25_String\ReplaceAll.ts" />
     <TypeScriptCompile Include="27_Collection\ArrayClass.ts" />
