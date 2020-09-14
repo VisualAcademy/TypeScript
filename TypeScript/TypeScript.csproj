@@ -771,8 +771,8 @@
     <Compile Include="16_WhileDoForEach\09_DoWhileSum\DoWhileSum.cs" />
     <Compile Include="16_WhileDoForEach\10_DoWhileDemo\DoWhileDemo.cs" />
     <Compile Include="16_WhileDoForEach\11_ForEachDemo\ForEachDemo.cs" />
-    <Compile Include="16_WhileDoForEach\12_ForEach\ForEach.cs" />
-    <Compile Include="16_WhileDoForEach\13_ForEachUp\ForEachUp.cs" />
+    <TypeScriptCompile Include="16_WhileDoForEach\ForEach.ts" />
+    <TypeScriptCompile Include="16_WhileDoForEach\ForEachUp.ts" />
     <Compile Include="16_WhileDoForEach\WhileExam\WhileExam.cs" />
     <Compile Include="16_WhileDoForEach\WhilePractice\WhilePractice.cs" />
     <Compile Include="17_BreakContinueGoto\01_BreakFor\BreakFor.cs" />
@@ -1192,7 +1192,7 @@
     <Compile Include="40_Delegate\11_LambdaExpressionArgs\LambdaExpressionArgs.cs" />
     <Compile Include="40_Delegate\12_LambdaExpressionTypeDeclare\LambdaExpressionTypeDeclare.cs" />
     <Compile Include="40_Delegate\13_LambdaExpressionMultiLine\LambdaExpressionMultiLine.cs" />
-    <Compile Include="40_Delegate\14_DelegateParameter\DelegateParameter.cs" />
+    <TypeScriptCompile Include="40_Delegate\DelegateParameter.ts" />
     <Compile Include="40_Delegate\15_FuncLambda\FuncLambda.cs" />
     <Compile Include="40_Delegate\16_LambdaExpressionWithFunc\LambdaExpressionWithFunc.cs" />
     <Compile Include="40_Delegate\17_FuncDemo\FuncDemo.cs" />
@@ -1446,12 +1446,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="01_TypeScript\" />
+    <Folder Include="16_WhileDoForEach\12_ForEach\" />
+    <Folder Include="16_WhileDoForEach\13_ForEachUp\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
     <Folder Include="25_String\10_StringSplit\" />
     <Folder Include="27_Collection\03_ArrayClassDemo\" />
     <Folder Include="30_LINQ\01_LinqSum\" />
     <Folder Include="30_LINQ\02_LinqCount\" />
     <Folder Include="30_LINQ\03_LinqAverage\" />
+    <Folder Include="40_Delegate\14_DelegateParameter\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
