@@ -418,6 +418,9 @@
     <Content Include="34_Field\34_Field.txt" />
     <Content Include="35_Constructor\35_Constructor.txt" />
     <Content Include="36_Project\36_Project.txt" />
+    <Content Include="36_Project\TypeScriptWeb\css\app.css" />
+    <Content Include="36_Project\TypeScriptWeb\index.html" />
+    <Content Include="36_Project\TypeScriptWeb\js\app.js" />
     <Content Include="37_Method\37_Method.txt" />
     <Content Include="38_Property\38_Property.txt" />
     <Content Include="39_Indexer\39_Indexer.txt" />
@@ -480,6 +483,7 @@
     <TypeScriptCompile Include="27_Collection\ArraySlice.ts" />
     <TypeScriptCompile Include="36_Project\TypeScriptProject\index.ts" />
     <TypeScriptCompile Include="36_Project\TypeScriptProject\project.ts" />
+    <TypeScriptCompile Include="36_Project\TypeScriptWeb\js\app.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
@@ -1421,6 +1425,7 @@
     <Content Include="36_Project\TypeScriptProject\package-lock.json" />
     <Content Include="36_Project\TypeScriptProject\package.json" />
     <Content Include="36_Project\TypeScriptProject\tsconfig.json" />
+    <Content Include="36_Project\TypeScriptWeb\tsconfig.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
