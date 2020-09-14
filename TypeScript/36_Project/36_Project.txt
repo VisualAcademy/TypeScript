@@ -1,0 +1,2 @@
+﻿// 타입스크립트 프로젝트: 특정 폴더에 tsconfig.json과 package.json 파일이 지정된 폴더
+

@@ -417,7 +417,7 @@
     <Content Include="33_Namespace\33_Namespace.txt" />
     <Content Include="34_Field\34_Field.txt" />
     <Content Include="35_Constructor\35_Constructor.txt" />
-    <Content Include="36_Destructor\36_Destructor.txt" />
+    <Content Include="36_Project\36_Project.txt" />
     <Content Include="37_Method\37_Method.txt" />
     <Content Include="38_Property\38_Property.txt" />
     <Content Include="39_Indexer\39_Indexer.txt" />
@@ -1118,9 +1118,6 @@
     <Compile Include="35_Constructor\10_ConstructorForwarding\ConstructorForwarding.cs" />
     <Compile Include="35_Constructor\11_ReadOnlyNote\ReadOnlyNote.cs" />
     <Compile Include="35_Constructor\12_ExpressionBodiedConstructor\ExpressionBodiedConstructor.cs" />
-    <Compile Include="36_Destructor\01_ConstructorToDestructor\ConstructorToDestructor.cs" />
-    <Compile Include="36_Destructor\02_DestructorDemo\DestructorDemo.cs" />
-    <Compile Include="36_Destructor\03_ConstructorMethodDestructor\ConstructorMethodDestructor.cs" />
     <Compile Include="37_Method\01_RectangleClass\Rectangle.cs" />
     <Compile Include="37_Method\01_RectangleClass\RectangleClass.cs" />
     <Compile Include="37_Method\02_MethodPrivate\MethodPrivate.cs" />
