@@ -484,6 +484,7 @@
     <TypeScriptCompile Include="36_Project\TypeScriptProject\index.ts" />
     <TypeScriptCompile Include="36_Project\TypeScriptProject\project.ts" />
     <TypeScriptCompile Include="36_Project\TypeScriptWeb\js\app.ts" />
+    <TypeScriptCompile Include="39_Indexer\IndexerDemo.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
@@ -1171,9 +1172,6 @@
     <Compile Include="38_Property\24_PetDemo\PetDemo.cs" />
     <Compile Include="38_Property\25_PropertyPractice\PropertyPractice.cs" />
     <Compile Include="38_Property\27_NullWithObject\NullWithObject.cs" />
-    <Compile Include="39_Indexer\01_IndexerNote\IndexerNote.cs" />
-    <Compile Include="39_Indexer\02_Indexer\Indexer.cs" />
-    <Compile Include="39_Indexer\03_IndexerDemo\IndexerDemo.cs" />
     <Compile Include="39_Indexer\04_WeekDemo\WeekDemo.cs" />
     <Compile Include="39_Indexer\05_NickNameDemo\NickName.cs" />
     <Compile Include="39_Indexer\05_NickNameDemo\NickNameDemo.cs" />
