@@ -485,6 +485,7 @@
     <TypeScriptCompile Include="36_Project\TypeScriptProject\project.ts" />
     <TypeScriptCompile Include="36_Project\TypeScriptWeb\js\app.ts" />
     <TypeScriptCompile Include="39_Indexer\IndexerDemo.ts" />
+    <TypeScriptCompile Include="42_ClassEtc\ConstantsDemo.ts" />
     <TypeScriptCompile Include="48_Generic\GenericClassDemo.ts" />
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
