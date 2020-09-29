@@ -472,8 +472,8 @@
     <TypeScriptCompile Include="00_Prepare\DefaultParameter\DefaultParameter.ts" />
     <TypeScriptCompile Include="00_Prepare\demo.ts" />
     <TypeScriptCompile Include="00_Prepare\Function.ts" />
-    <TypeScriptCompile Include="00_Prepare\FunctionDemo.ts" />
-    <TypeScriptCompile Include="00_Prepare\FunctionDemoUpgrade.ts" />
+    <TypeScriptCompile Include="19_Function\FunctionDemoTypeScript.ts" />
+    <TypeScriptCompile Include="19_Function\FunctionDemoUpgrade.ts" />
     <TypeScriptCompile Include="07_BooleanString\Terms.ts" />
     <TypeScriptCompile Include="19_Function\AnonymousFunction.ts" />
     <TypeScriptCompile Include="25_String\ReplaceAll.ts" />
@@ -836,7 +836,7 @@
     <Compile Include="18_Array\ArrayExam\ArrayExam.cs" />
     <Compile Include="18_Array\ArrayMultiPractice\ArrayMultiPractice.cs" />
     <Compile Include="18_Array\ArrayPractice\ArrayPractice.cs" />
-    <TypeScriptCompile Include="19_Function\01_FunctionDemo\FunctionDemo.ts" />
+    <TypeScriptCompile Include="19_Function\FunctionDemo.ts" />
     <TypeScriptCompile Include="19_Function\02_FunctionCall\FunctionCall.ts" />
     <Compile Include="19_Function\03_FunctionParameter\FunctionParameter.cs" />
     <Compile Include="19_Function\04_ReturnValue\ReturnValue.cs" />

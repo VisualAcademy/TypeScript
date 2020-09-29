@@ -1,4 +1,4 @@
-﻿module FunctionDemo {
+﻿module FunctionDemoTypeScript {
     // Definition
     function printName(
         name: string, age: number = 20, ...email: string[]): string {
