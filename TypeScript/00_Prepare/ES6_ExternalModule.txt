@@ -1,0 +1,33 @@
+﻿// tsconfig.json
+{
+	"compilerOptions": {
+		"module": "amd",
+		"target": "ES5"
+	},
+	"files": [
+		"./moduletest.ts",
+		"./util.ts"
+	]
+}
+
+
+// util.ts
+export function add(x: number, y: number) {
+	return  x + y;
+}
+
+export function divide(x: number, y: number) {
+	return  x / y;
+}
+
+// moduletest.ts
+// import Util = require("util");
+// Util.add(1, 2);
+
+// import * as Util from "util";
+// Util.divide(1, 2);
+
+import {add, divide} from "util";
+
+add(1, 2);
+divide(2, 4);

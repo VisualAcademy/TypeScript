@@ -80,6 +80,9 @@
     <Content Include="00_Prepare\ConstructorPrivate\ConstructorPrivate.js" />
     <Content Include="00_Prepare\ConstructorPublic\ConstructorPublic.js" />
     <Content Include="00_Prepare\DefaultParameter\DefaultParameter.js" />
+    <Content Include="00_Prepare\ES6_ExternalModule.txt" />
+    <Content Include="00_Prepare\ES6_let.txt" />
+    <TypeScriptCompile Include="18_Array\ES6_TypeScriptImpliedType.ts" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.html" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.js" />
     <Content Include="00_Prepare\EnumDemoTemperature\EnumDemoTemperature.js" />

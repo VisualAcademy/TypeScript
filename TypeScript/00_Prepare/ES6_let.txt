@@ -1,0 +1,7 @@
+﻿function f() {
+	let index = 0; // number
+	for (var i = 0; i < 10; i++) {
+		let index = "abc"; // string
+		index += "def";
+	}	
+}
