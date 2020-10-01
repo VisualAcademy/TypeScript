@@ -1338,8 +1338,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <TypeScriptCompile Include="23_Enum\EnumerationPractice.ts" />
     <TypeScriptCompile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.ts" />
-    <TypeScriptCompile Include="52_TypeScriptProject\ProjectTestOther.ts" />
-    <TypeScriptCompile Include="52_TypeScriptProject\ProjectTest.ts" />
+    <TypeScriptCompile Include="52_TypeScriptProject\TypeScriptProject\ProjectTestOther.ts" />
+    <TypeScriptCompile Include="52_TypeScriptProject\TypeScriptProject\ProjectTest.ts" />
     <TypeScriptCompile Include="Car.ts" />
     <TypeScriptCompile Include="Hell.ts" />
     <TypeScriptCompile Include="Hello.ts" />
@@ -1421,7 +1421,7 @@
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
     <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.js.map" />
-    <Content Include="52_TypeScriptProject\tsconfig.json" />
+    <Content Include="52_TypeScriptProject\TypeScriptProject\tsconfig.json" />
     <Content Include="36_Project\TypeScriptProject\package-lock.json" />
     <Content Include="36_Project\TypeScriptProject\package.json" />
     <Content Include="36_Project\TypeScriptProject\tsconfig.json" />
