@@ -492,7 +492,7 @@
     <TypeScriptCompile Include="00_Prepare\HelloWorldTypeScript.ts" />
     <TypeScriptCompile Include="00_Prepare\Interface_Class_Demo.ts" />
     <TypeScriptCompile Include="48_Generic\TypeScript_Generic_Function.ts" />
-    <TypeScriptCompile Include="00_Prepare\TypeScript_GreeterClass.ts" />
+    <TypeScriptCompile Include="35_Constructor\TypeScript_GreeterClass.ts" />
     <TypeScriptCompile Include="00_Prepare\Utils_Point_Point3D.ts" />
     <TypeScriptCompile Include="23_Enum\EnumDemoOperator\EnumDemoOperator.ts" />
     <TypeScriptCompile Include="00_Prepare\EnumDemoTemperature\EnumDemoTemperature.ts" />
