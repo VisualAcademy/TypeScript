@@ -82,7 +82,11 @@
     <Content Include="00_Prepare\DefaultParameter\DefaultParameter.js" />
     <Content Include="00_Prepare\ES6_ExternalModule.txt" />
     <Content Include="00_Prepare\ES6_let.txt" />
+    <TypeScriptCompile Include="01_TypeScript\TypeScriptDemo\TypeScriptDemo.ts" />
+    <TypeScriptCompile Include="01_TypeScript\TypeScriptDemo\TypeScriptDemo_1.ts" />
+    <TypeScriptCompile Include="01_TypeScript\TypeScriptDemo\TypeScriptDemo_2.ts" />
     <TypeScriptCompile Include="18_Array\ES6_TypeScriptImpliedType.ts" />
+    <Content Include="01_TypeScript\TypeScriptDemo\tsconfig.json.txt" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.html" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.js" />
     <Content Include="00_Prepare\EnumDemoTemperature\EnumDemoTemperature.js" />
@@ -350,9 +354,9 @@
     <Content Include="00_Prepare\VariableExample\VariableExample.js" />
     <Content Include="00_Prepare\VarLet\VarLet_1.js" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js" />
-    <Content Include="01_DotNet\01_SeeSharp.txt" />
-    <Content Include="01_DotNet\DotNet.txt" />
-    <Content Include="01_DotNet\_\DOS명령어.txt" />
+    <Content Include="01_TypeScript\01_TypeScript.txt" />
+    <Content Include="01_TypeScript\TypeScript.txt" />
+    <Content Include="01_TypeScript\_\DOS명령어.txt" />
     <Content Include="02_VisualStudio\02_VisualStudio.txt" />
     <Content Include="03_HelloWorld\03_HelloWorld.txt" />
     <Content Include="04_Syntax\04_Syntax.txt" />
@@ -1452,7 +1456,6 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="01_TypeScript\" />
     <Folder Include="16_WhileDoForEach\12_ForEach\" />
     <Folder Include="16_WhileDoForEach\13_ForEachUp\" />
     <Folder Include="23_Enum\09_EnumerationPractice\" />
