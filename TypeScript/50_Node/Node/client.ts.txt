@@ -1,0 +1,3 @@
+import { simpleServer } from "./server";
+simpleServer(1337, "Hello TypeScript on DevLec...");
+console.log("Listening on 1337...");

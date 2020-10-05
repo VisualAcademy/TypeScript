@@ -421,6 +421,10 @@
     <Content Include="46_Decorator\46_Attribute.txt" />
     <Content Include="47_OOP\47_OOP.txt" />
     <Content Include="48_Generic\48_Generic.txt" />
+    <Content Include="50_Node\Node\client.ts.txt" />
+    <Content Include="50_Node\Node\node.d.ts.txt" />
+    <Content Include="50_Node\Node\server.ts.txt" />
+    <Content Include="50_Node\Node\tsconfig.json.txt" />
     <Content Include="51_Tuple\51_Tuple.txt" />
     <Content Include="49_Module\Modules\tsconfig.json.txt" />
     <Content Include="49_Module\Modules\util.js" />
@@ -1301,7 +1305,6 @@
     <Folder Include="30_LINQ\02_LinqCount\" />
     <Folder Include="30_LINQ\03_LinqAverage\" />
     <Folder Include="40_Delegate\14_DelegateParameter\" />
-    <Folder Include="50_Node\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
