@@ -424,7 +424,8 @@
     <Content Include="49_ExtensionMethod\49_ExtensionMethod.txt" />
     <Content Include="50_Dynamic\50_Dynamic.txt" />
     <Content Include="51_Tuple\51_Tuple.txt" />
-    <Content Include="53_TestProject\53_TestProject.txt" />
+    <Content Include="53_Module\Modules\tsconfig.json.txt" />
+    <Content Include="53_Module\Modules\util.js" />
     <Content Include="54_NuGet\54_NuGet.txt" />
     <Content Include="55_Thread\55_Thread.txt" />
     <Content Include="56_Async\56_Async.txt" />
@@ -1240,6 +1241,8 @@
     <TypeScriptCompile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.ts" />
     <TypeScriptCompile Include="52_TypeScriptProject\TypeScriptProject\ProjectTestOther.ts" />
     <TypeScriptCompile Include="52_TypeScriptProject\TypeScriptProject\ProjectTest.ts" />
+    <TypeScriptCompile Include="53_Module\Modules\moduletest.ts" />
+    <TypeScriptCompile Include="53_Module\Modules\util.ts" />
     <TypeScriptCompile Include="Car.ts" />
     <TypeScriptCompile Include="Hell.ts" />
     <TypeScriptCompile Include="Hello.ts" />
