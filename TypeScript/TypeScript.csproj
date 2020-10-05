@@ -421,11 +421,9 @@
     <Content Include="46_Decorator\46_Attribute.txt" />
     <Content Include="47_OOP\47_OOP.txt" />
     <Content Include="48_Generic\48_Generic.txt" />
-    <Content Include="49_ExtensionMethod\49_ExtensionMethod.txt" />
-    <Content Include="50_Dynamic\50_Dynamic.txt" />
     <Content Include="51_Tuple\51_Tuple.txt" />
-    <Content Include="52_Module\Modules\tsconfig.json.txt" />
-    <Content Include="52_Module\Modules\util.js" />
+    <Content Include="49_Module\Modules\tsconfig.json.txt" />
+    <Content Include="49_Module\Modules\util.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -1166,14 +1164,6 @@
     <Compile Include="48_Generic\14_TypeConstraint\TypeConstraint.cs" />
     <Compile Include="48_Generic\15_GenericsDemo\GenericsDemo.cs" />
     <Compile Include="48_Generic\16_GenericMethod\GenericMethod.cs" />
-    <Compile Include="49_ExtensionMethod\01_ExtensionFunction\ExtensionFunction.cs" />
-    <Compile Include="49_ExtensionMethod\02_ExtensionMethodDemo\ExtensionMethodDemo.cs" />
-    <Compile Include="49_ExtensionMethod\03_ExtensionMethodNote\ExtensionMethodNote.cs" />
-    <Compile Include="50_Dynamic\01_Dynamic\Dynamic.cs" />
-    <Compile Include="50_Dynamic\02_DynamicallyTypedObjects\DynamicallyTypedObjects.cs" />
-    <Compile Include="50_Dynamic\03_DynamicDemo\DynamicDemo.cs" />
-    <Compile Include="50_Dynamic\04_DynamicBinding\DynamicBinding.cs" />
-    <Compile Include="50_Dynamic\05_DynamicExtensionMethod\DynamicExtensionMethod.cs" />
     <Compile Include="51_Tuple\01_TupleLiteralDescription\TupleLiteralDescription.cs" />
     <Compile Include="51_Tuple\02_TupleLiteral\TupleLiteral.cs" />
     <Compile Include="51_Tuple\03_TupleReturnDescription\TupleReturnDescription.cs" />
@@ -1187,10 +1177,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <TypeScriptCompile Include="23_Enum\EnumerationPractice.ts" />
     <TypeScriptCompile Include="38_Property\26_ClassPropertyMethod\ClassPropertyMethod.ts" />
-    <TypeScriptCompile Include="52_Module\TypeScriptProject\ProjectTestOther.ts" />
-    <TypeScriptCompile Include="52_Module\TypeScriptProject\ProjectTest.ts" />
-    <TypeScriptCompile Include="52_Module\Modules\moduletest.ts" />
-    <TypeScriptCompile Include="52_Module\Modules\util.ts" />
+    <TypeScriptCompile Include="49_Module\TypeScriptProject\ProjectTestOther.ts" />
+    <TypeScriptCompile Include="49_Module\TypeScriptProject\ProjectTest.ts" />
+    <TypeScriptCompile Include="49_Module\Modules\moduletest.ts" />
+    <TypeScriptCompile Include="49_Module\Modules\util.ts" />
     <TypeScriptCompile Include="Car.ts" />
     <TypeScriptCompile Include="Hell.ts" />
     <TypeScriptCompile Include="Hello.ts" />
@@ -1271,7 +1261,7 @@
     <Content Include="00_Prepare\VarLet\VarLet_1.js.map" />
     <Content Include="00_Prepare\VarLet\VarLet_2.js.map" />
     <Content Include="03_HelloWorld\HelloWorldWebOnly\HelloWorldWebOnly.js.map" />
-    <Content Include="52_Module\TypeScriptProject\tsconfig.json" />
+    <Content Include="49_Module\TypeScriptProject\tsconfig.json" />
     <Content Include="36_Project\TypeScriptProject\package-lock.json" />
     <Content Include="36_Project\TypeScriptProject\package.json" />
     <Content Include="36_Project\TypeScriptProject\tsconfig.json" />
@@ -1311,6 +1301,7 @@
     <Folder Include="30_LINQ\02_LinqCount\" />
     <Folder Include="30_LINQ\03_LinqAverage\" />
     <Folder Include="40_Delegate\14_DelegateParameter\" />
+    <Folder Include="50_Node\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
