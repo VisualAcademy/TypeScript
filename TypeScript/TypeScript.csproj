@@ -957,7 +957,7 @@
     <TypeScriptCompile Include="30_LINQ\08_LinqWhereToList\LinqWhereToList.ts" />
     <Compile Include="30_LINQ\09_LinqSumEven\LinqSumEven.cs" />
     <Compile Include="30_LINQ\10_LinqSumOdd\LinqSumOdd.cs" />
-    <Compile Include="30_LINQ\11_LinqWhereMethod\LinqWhereMethod.cs" />
+    <TypeScriptCompile Include="30_LINQ\11_LinqWhereMethod\LinqWhereMethod.ts" />
     <Compile Include="30_LINQ\12_Filter\Filter.cs" />
     <Compile Include="30_LINQ\13_CountFunc\CountFunc.cs" />
     <Compile Include="30_LINQ\14_LinqAll\LinqAll.cs" />
