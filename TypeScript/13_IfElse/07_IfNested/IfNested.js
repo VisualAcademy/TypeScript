@@ -1,0 +1,9 @@
+﻿// 중첩 된 if 문
+var name = "JavaScript";
+var version = 2022;
+
+if (name == "JavaScript") {
+    if (version == 2022) {
+        console.log(name + " " + version);
+    }
+}

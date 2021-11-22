@@ -14,7 +14,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TypeScript</RootNamespace>
     <AssemblyName>TypeScript</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort>44308</IISExpressSSLPort>
@@ -24,7 +24,8 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <TypeScriptToolsVersion>4.0</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>4.3</TypeScriptToolsVersion>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -52,10 +53,6 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="System.Web.Extensions" />
-    <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml" />
@@ -87,6 +84,8 @@
     <TypeScriptCompile Include="31_TypeScript\TypeScriptDemo\TypeScriptDemo_1.ts" />
     <TypeScriptCompile Include="31_TypeScript\TypeScriptDemo\TypeScriptDemo_2.ts" />
     <TypeScriptCompile Include="18_Array\ES6_TypeScriptImpliedType.ts" />
+    <Content Include="13_IfElse\07_IfNested\IfNested.js" />
+    <Content Include="13_IfElse\07_IfNested\04_01_02_IfNested.html" />
     <Content Include="31_TypeScript\TypeScriptDemo\tsconfig.json.txt" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.html" />
     <Content Include="23_Enum\EnumDemoOperator\EnumDemoOperator.js" />
@@ -697,7 +696,6 @@
     <TypeScriptCompile Include="13_IfElse\04_IfDemo\IfDemo.ts" />
     <TypeScriptCompile Include="13_IfElse\05_StringCompare\StringCompare.ts" />
     <Compile Include="13_IfElse\06_IfNot\IfNot.cs" />
-    <Compile Include="13_IfElse\07_IfNested\IfNested.cs" />
     <Compile Include="13_IfElse\08_IfAnd\IfAnd.cs" />
     <Compile Include="13_IfElse\09_OutVariable\OutVariable.cs" />
     <Compile Include="13_IfElse\10_ElseNote\ElseNote.cs" />
